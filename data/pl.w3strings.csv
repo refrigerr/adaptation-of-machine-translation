@@ -1,5 +1,3 @@
-;meta[language=pl]
-; id      |key(hex)|key(str)| text
     593592|00000000||Ej, ludzie! Chcecie posłuchać o Fyresdal?
     593596|00000000||Ej, ludzie! Chcecie usłyszeć, co nasz dzielny strażnik zrobił pod Fyresdal?
     593598|00000000||Stul pysk, do cholery!
@@ -4462,7 +4460,6 @@
     421292|00000000||No, pokaż, co tam masz.
     421290|00000000||Mam tu wszystko, od obręczy na beczki po miecze.
     499341|00000000||I zgaduję, że tobie trzeba miecza.
-   1077467|00000000||[DEBUG] Merchant welcomes Geralt to Ferlund Village, his shop and thanks him again for the rescue.
     587870|00000000||Jaki miała motyw?
     587876|00000000||Jaki miała motyw?
     587893|00000000||To przecież jasne. Uknuła całą intrygę, żeby pozbyć się innych pretendentów do tronu i oczernić nasz ród.

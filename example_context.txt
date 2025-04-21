@@ -1,0 +1,9 @@
+Osoba: Geralt
+płeć: mężczyzna
+
+Osoba: Yennefer
+płeć: kobieta
+
+Osoba: Troll
+płeć: nijaka
+charakter: wypowiada się w formie bezosobowej, nie umie odmieniać przez płeć, wypowiada się na poziomie dziecka, mowi "ja być" zamiast "ja jestem", albo "ty być" zamiast "ty jesteś"

@@ -1,0 +1,1173 @@
+en_text,pl_text,bielik_prompt0_translation,bielik_prompt1_translation,bielik_prompt2_translation,bielik_prompt3_translation,bielik_prompt4_translation,bielik_prompt5_translation,bielik_prompt6_translation,chrf_bielik_prompt0_translation,bleu_bielik_prompt0_translation,bertscore_bielik_prompt0_translation,comet_bielik_prompt0_translation,chrf_bielik_prompt1_translation,bleu_bielik_prompt1_translation,bertscore_bielik_prompt1_translation,comet_bielik_prompt1_translation,chrf_bielik_prompt2_translation,bleu_bielik_prompt2_translation,bertscore_bielik_prompt2_translation,comet_bielik_prompt2_translation,chrf_bielik_prompt3_translation,bleu_bielik_prompt3_translation,bertscore_bielik_prompt3_translation,comet_bielik_prompt3_translation,chrf_bielik_prompt4_translation,bleu_bielik_prompt4_translation,bertscore_bielik_prompt4_translation,comet_bielik_prompt4_translation,chrf_bielik_prompt5_translation,bleu_bielik_prompt5_translation,bertscore_bielik_prompt5_translation,comet_bielik_prompt5_translation,chrf_bielik_prompt6_translation,bleu_bielik_prompt6_translation,bertscore_bielik_prompt6_translation,comet_bielik_prompt6_translation
+Fire!,Gorze!,"""Pożar!""
+
+To tłumaczenie jest dosłownym przekładem angielskiego słowa ""fire"" na język polski, które oznacza pożar lub ogień w sensie niebezpieczeństwa. W kontekście alarmu lub wezwania do natychmiastowej uwagi, używamy słowa ""pożar"", ponieważ odnosi się ono bezpośrednio do sytuacji zagrożenia i wymaga natychmiastowej reakcji.","Tłumaczenie słowa ""Fire!"" (Ogień!) na język polski to:
+
+""Pożar!"" lub ""Ogień!""
+
+Obie formy są poprawne i powszechnie używane w sytuacji, gdy chcemy ostrzec innych przed pojawieniem się ognia lub pożaru.",Pożar!,Pożar!,Pożar!,"Podane zdanie ""Fire!"" w języku angielskim tłumaczy się na język polski jako:
+
+""Pożar!""
+
+To słowo jest używane w sytuacji, gdy chcemy ostrzec innych o pożarze lub wezwać pomoc w razie wybuchu ognia. Jest to krótkie, ale bardzo ważne słowo, które może uratować życie w nagłych sytuacjach.",Pożar!,0.04005852411990688,0.0,0.5580542683601379,0.5227205753326416,0.07652496356798176,0.0,0.5613060593605042,0.5173496007919312,0.08333333333333343,0.0,0.8619608879089355,0.7763368487358093,0.08333333333333343,0.0,0.8619608879089355,0.7763368487358093,0.08333333333333343,0.0,0.8619608879089355,0.7763368487358093,0.05221426132194478,0.0,0.5449296236038208,0.5437904000282288,0.08333333333333343,0.0,0.8619608879089355,0.7763368487358093
+"Find me a king who'll kill a god and plough a goddess, and I'm his man.","Posłucham tylko tego króla, który zabije boga i posiądzie boginię.","""Znajdź mi króla, który zabije boga i zaorze boginię, a ja będę jego człowiekiem.""
+
+To zdanie jest metaforą i może być interpretowane na różne sposoby w zależności od kontekstu. Ogólnie oznacza ono gotowość do lojalnej służby komuś, kto potrafi dokonać niezwykłych czynów lub pokonać niemożliwe przeszkody. W tym przypadku ""zabicie boga"" i ""zaoranie bogini"" to metaforyczne określenia wyjątkowych osiągnięć lub zwycięstw nad potężnymi siłami.","""Znajdź mi króla, który zabije boga i zaorze boginię, a ja jestem jego człowiekiem.""
+
+To zdanie wydaje się być cytatem lub powiedzeniem w języku angielskim. Tłumaczenie na język polski zachowuje oryginalną strukturę i sens tego wyrażenia. Warto jednak pamiętać, że może ono zawierać pewne niuansy kulturowe lub literackie, które mogłyby nie być w pełni oddane w tłumaczeniu.","Znajdź mi króla, który zabije boga i zaorze boginię, a ja jestem jego człowiekiem.","""Znajdź mi króla, który zabije boga i zaorze boginię, a ja jestem jego człowiekiem.""","Znajdź mi króla, który zabije boga i zaorze boginię, a ja jestem jego człowiekiem.","""Znajdź mi króla, który zabije boga i zaorze boginię, a ja będę jego człowiekiem.""
+
+To tłumaczenie oddaje sens oryginalnego zdania w języku angielskim, zachowując jego metaforyczny charakter i wyrażając gotowość mówiącego do lojalności wobec osoby o niezwykłych umiejętnościach lub możliwościach.","Znajdź mi króla, który zabije boga i zaorze boginię, a będę jego człowiekiem.",0.39001880099907943,0.05296449057908351,0.6835838556289673,0.665202260017395,0.39058823162559553,0.062428915426195886,0.700899064540863,0.49434855580329895,0.5106757100868753,0.26584835766658776,0.8310753703117371,0.7700430750846863,0.5088609683839396,0.26584835766658776,0.808159589767456,0.7730772495269775,0.5106757100868753,0.26584835766658776,0.8310753703117371,0.7700430750846863,0.41573594611307746,0.08600383785890306,0.7163919806480408,0.6284945011138916,0.5056430574474952,0.2891784933232572,0.8296923041343689,0.7999793291091919
+Britt wasn't lying.,A więc Britt nie kłamała.,"""Britt nie kłamała.""","Tłumaczenie zdania ""Britt wasn't lying"" na język polski brzmi:
+
+""Britt nie kłamała.""
+
+W tym tłumaczeniu:
+- ""Britt"" pozostaje bez zmian, ponieważ jest to imię własne.
+- ""wasn't"" (forma przecząca czasownika ""to be"") tłumaczymy jako ""nie była"".
+- ""lying"" oznacza ""kłamanie"", a forma przeszła tego czasownika w stronie biernej to ""była kłamana"". Jednak w języku polskim używamy formy czynnej ""kłamała"".
+
+Dlatego całe zdanie brzmi: ""Britt nie kłamała.""",Britt nie kłamała.,"""Britt nie kłamała.""",Britt nie kłamała.,"Oto tłumaczenie podanego zdania na język polski:
+
+""Britt nie kłamała.""
+
+To zdanie w języku angielskim wyraża negację, co oznacza, że Britt nie mówiła nieprawdy lub nie oszukiwała. W języku polskim używamy formy ""nie kłamała"", aby oddać ten sam sens.",Britt nie kłamała.,0.7394490625112381,0.05833544737207805,0.8811830282211304,0.943317711353302,0.2625981845376408,0.0027574366655649983,0.6189097762107849,0.5627864599227905,0.7477137700583807,0.288715663092199,0.951349139213562,0.9642863273620605,0.7394490625112381,0.05833544737207805,0.8811830282211304,0.9433175921440125,0.7477137700583807,0.288715663092199,0.951349139213562,0.9642863273620605,0.38163373691992036,0.010032736170107857,0.6939762234687805,0.7344135046005249,0.7477137700583807,0.288715663092199,0.951349139213562,0.9642863273620605
+"You don't believe in the gods, Lugos.","Ty nie wierzysz w bogów, Lugos.","""Nie wierzysz w bogów, Lugos.""
+
+To tłumaczenie jest dosłowne i zachowuje oryginalną strukturę zdania. W języku polskim często używa się formy ""nie wierzyć"", a nie ""nie wierzysz"", ale w tym przypadku zachowałem oryginalną formę czasownika, aby jak najwierniej oddać znaczenie zdania.","""Nie wierzysz w bogów, Lugosie.""","""Nie wierzysz w bogów, Lugos.""","""Nie wierzysz w bogów, Lugos.""","Nie wierzysz w bogów, Lugos.","""Nie wierzysz w bogów, Lugos.""
+
+To tłumaczenie zachowuje znaczenie oryginalnego zdania, które wyraża stwierdzenie lub pytanie o brak wiary w bogów przez osobę o imieniu Lugos. W języku polskim struktura zdania pozostaje podobna, a imię ""Lugos"" jest niezmienione, ponieważ jest to nazwa własna.","""Nie wierzysz w bogów, Lugos.""",0.48404126855243074,0.023952424716024538,0.7030417323112488,0.6284617185592651,0.8282175550416561,0.21771262023986562,0.8928771018981934,0.9442367553710938,0.8716599704643181,0.21771262023986562,0.9151917695999146,0.9463174939155579,0.8716599704643181,0.21771262023986562,0.9151917695999146,0.9463174939155579,0.8791766357425587,0.5475182535069453,0.9589371085166931,0.9504343867301941,0.4669649364959474,0.022797230914240133,0.7101036906242371,0.6681849956512451,0.8716599704643181,0.21771262023986562,0.9151917695999146,0.9463174939155579
+"Where, exactly?",A skąd?,"Tłumaczenie na język polski:
+
+""Gdzie dokładnie?""
+
+To pytanie jest używane w sytuacji, gdy ktoś chce uzyskać bardziej szczegółową informację o lokalizacji lub położeniu czegoś. Może być stosowane w różnych kontekstach, takich jak rozmowa o miejscu spotkania, adresie, czy też lokalizacji obiektu lub wydarzenia.","Tłumaczenie zdania ""Where, exactly?"" na język polski brzmi:
+
+""Dokładnie gdzie?""
+
+To pytanie jest używane w sytuacji, gdy ktoś chce uzyskać bardziej precyzyjną informację o lokalizacji lub położeniu czegoś. Może być stosowane w różnych kontekstach, takich jak rozmowa o miejscu spotkania, lokalizacji budynku czy nawet szczegółowym opisie trasy.",Gdzie dokładnie?,"""Gdzie dokładnie?""",Gdzie dokładnie?,"Oto tłumaczenie zdania ""Where, exactly?"" na język polski:
+
+""Dokładnie gdzie?""
+
+To pytanie jest używane w sytuacji, gdy ktoś chce uzyskać bardziej precyzyjną informację o lokalizacji lub położeniu czegoś. Może być stosowane zarówno w kontekście geograficznym (np. ""Gdzie dokładnie znajduje się ten sklep?""), jak i w innych sytuacjach wymagających szczegółowej odpowiedzi.",Dokładnie gdzie?,0.03141801075268825,0.0,0.5746490955352783,0.6144974231719971,0.02871148459383761,0.0,0.575355589389801,0.6607666611671448,0.07246376811594213,0.0,0.8315547704696655,0.9288065433502197,0.07042253521126769,0.0,0.7836045622825623,0.8764801621437073,0.07246376811594213,0.0,0.8315547704696655,0.9288065433502197,0.026932744456507632,0.0,0.580643355846405,0.6697266101837158,0.07246376811594213,0.0,0.7953858971595764,0.8773251175880432
+Gwent - let's play.,Zagrajmy w gwinta.,"""Gwent - zagrajmy.""
+
+To tłumaczenie jest dosłowne i oddaje znaczenie oryginalnego zdania w języku angielskim. ""Gwent"" to nazwa własna (nazwa gry karcianej), a ""let's play"" można przetłumaczyć jako ""zagrajmy"". W języku polskim często używa się formy ""zagrajmy"", aby zaproponować wspólną grę lub rozgrywkę.","Tłumaczenie zdania ""Gwent - let's play"" na język polski brzmi:
+
+""Gwent - zagrajmy.""
+
+Warto dodać, że ""Gwent"" to nazwa własna i nie wymaga tłumaczenia. Jest to tytuł gry karcianej osadzonej w uniwersum Warhammer: Age of Sigmar.",Gwent - zagrajmy.,"""Walia - zagrajmy.""",Gwent - zagrajmy.,"""Gwent - zagrajmy.""
+
+Wyjaśnienie krok po kroku:
+
+1. ""Gwent"" - to nazwa własna, która nie wymaga tłumaczenia.
+2. ""let's play"" - to wyrażenie w języku angielskim oznaczające ""zagrajmy"".
+3. W języku polskim używamy formy ""zagrajmy"", aby wyrazić propozycję wspólnej gry lub rozpoczęcia czegoś razem.
+4. Zatem całe zdanie brzmi: ""Gwent - zagrajmy.""
+
+To tłumaczenie jest dosłowne i najbardziej odpowiednie w kontekście zaproszenia do gry w Gwenta, popularną grę karcianą osadzoną w uniwersum Warhammer: Age of Sigmar.",Gwent - zagrajmy.,0.16221417952732028,0.004286566854494811,0.6143545508384705,0.5414079427719116,0.1989843813673781,0.005157142709886005,0.5984636545181274,0.5443397164344788,0.37783323092551785,0.0,0.7294771671295166,0.660258412361145,0.3510894184676568,0.0,0.7207237482070923,0.5782387256622314,0.37783323092551785,0.0,0.7294771671295166,0.660258412361145,0.13020598552264262,0.002387221081851365,0.6101785898208618,0.6113596558570862,0.37783323092551785,0.0,0.7294771671295166,0.660258412361145
+Our time amongst the living is but the wink of an eye.,Czas pośród żywych to mgnienie.,"""Nasz czas pośród żyjących jest tylko mrugnięciem oka.""
+
+To zdanie to metafora, która porównuje krótki okres naszego życia do bardzo krótkiego momentu - mrugnięcia oka. Jest to wyraz refleksji nad ulotnością ludzkiego istnienia i przypomnienie, że życie jest cenne i należy je doceniać oraz przeżywać świadomie.","Tłumaczenie tego zdania na język polski brzmi:
+
+""Nasz czas pośród żywych to ledwie mgnienie oka.""
+
+To wyrażenie jest metaforą, która sugeruje, że nasze życie na ziemi jest bardzo krótkie i ulotne w porównaniu do wieczności. Jest to powszechny motyw w literaturze i filozofii, przypominający o tymczasowości ludzkiego istnienia i konieczności doceniania każdej chwili.",Nasze życie pośród żyjących jest tylko mgnieniem oka.,"""Nasz czas pośród żyjących to mrugnięcie oka.""",Nasze życie pośród żyjących jest jak mrugnięcie oka.,"Nasze życie pośród żyjących jest tylko mgnieniem oka.
+
+To zdanie można również oddać w bardziej dosłownym tłumaczeniu:
+""Nasz czas wśród żywych to tylko mrugnięcie okiem.""
+
+Obie wersje zachowują sens oryginalnego angielskiego wyrażenia, które porównuje krótki okres życia człowieka do ulotnego momentu, jakim jest mrugnięcie oka.",Nasz czas pośród żyjących to mrugnięcie oka.,0.31963041924408603,0.004753731294736233,0.6882374286651611,0.7082200050354004,0.3810156942905463,0.017093577453940946,0.6961726546287537,0.7135935425758362,0.5182837545371167,0.02777619034011792,0.8302610516548157,0.722112774848938,0.518327177107926,0.039281465090051315,0.8028913736343384,0.7756550908088684,0.352762851780529,0.02777619034011792,0.7890236377716064,0.7297534346580505,0.3773794242370312,0.009570498942763545,0.6956883668899536,0.6961424946784973,0.5223052909937744,0.039281465090051315,0.836852490901947,0.7695404291152954
+Perhaps we should reexamine what we've learned. We might've missed a clue that would push us forward…,"Może jeśli uporządkujemy informacje, które udało nam się zebrać do tej pory, popchnie nas to dalej...","""Może powinniśmy ponownie przeanalizować to, czego się nauczyliśmy. Być może przeoczyliśmy wskazówkę, która pozwoliłaby nam pójść naprzód...""","Tłumaczenie tego zdania na język polski brzmi:
+
+""Może powinniśmy ponownie przeanalizować to, czego się nauczyliśmy. Być może przeoczyliśmy wskazówkę, która pozwoliłaby nam pójść do przodu...""
+
+To zdanie sugeruje refleksję nad dotychczasową wiedzą i umiejętnościami oraz gotowość do ich ponownego rozważenia w celu znalezienia nowych rozwiązań lub perspektyw.","Może powinniśmy ponownie przeanalizować to, czego się nauczyliśmy. Mogliśmy przeoczyć wskazówkę, która pchnęłaby nas do przodu...","Może powinniśmy ponownie przeanalizować to, czego się nauczyliśmy. Być może przeoczyliśmy wskazówkę, która pozwoliłaby nam pójść do przodu...","Może powinniśmy ponownie przeanalizować to, czego się nauczyliśmy. Być może przeoczyliśmy wskazówkę, która pchnęłaby nas do przodu...","Może powinniśmy ponownie przeanalizować to, czego się nauczyliśmy. Być może przeoczyliśmy wskazówkę, która mogłaby nas popchnąć naprzód...","Może powinniśmy ponownie przeanalizować to, czego się nauczyliśmy. Mogliśmy przeoczyć wskazówkę, która pchnęłaby nas do przodu...",0.20704694192390952,0.013679192123121896,0.709263801574707,0.8339806795120239,0.24430987141281588,0.005145174324020217,0.658578634262085,0.7669814229011536,0.22677877235011668,0.017395797375642234,0.7371758222579956,0.8364219069480896,0.22039665689864174,0.015276780223747026,0.7244846820831299,0.8420020341873169,0.22788044270548533,0.01626739260030573,0.737715482711792,0.8502201437950134,0.23825835490332437,0.015138514598766055,0.7472034096717834,0.8473630547523499,0.22677877235011668,0.017395797375642234,0.7371758222579956,0.8364219069480896
+Exactly! I knew it - she made the whole thing up!,"Właśnie! Wiedziałem, że sobie coś wymyśliła!","""Dokładnie! Wiedziałem to - ona wszystko zmyśliła!""",Dokładnie! Wiedziałem - ona to wszystko zmyśliła!,Dokładnie! Wiedziałem - ona to wszystko zmyśliła.,"""Dokładnie! Wiedziałem to - wymyśliła całą tę historię!""",Dokładnie! Wiedziałem to - ona wszystko zmyśliła.,Dokładnie! Wiedziałem - ona to wszystko zmyśliła!,Dokładnie! Wiedziałem - ona to wszystko zmyśliła.,0.4887209655859927,0.0,0.8359056711196899,0.9066479206085205,0.49134615107473584,0.0,0.8661094307899475,0.9143381714820862,0.4641876131204003,0.0,0.8400673270225525,0.8706613779067993,0.5144428769428769,0.0,0.8157272934913635,0.899176299571991,0.4641876131204003,0.0,0.840460479259491,0.8675382137298584,0.49134615107473584,0.0,0.8661094307899475,0.9143381714820862,0.4641876131204003,0.0,0.8400673270225525,0.8706613779067993
+"First - I can try to convince whoever put up the Nithing to lift the curse themselves. Second - I can deflect the curse back on whoever cast it by writing their name on the shaft. Either way, need to know who's behind this.","Po pierwsze, mogę namówić osobę, która postawiła nithing, by sama odczyniła urok... Albo odbić przekleństwo, wypisując jej imię na żerdzi. Tak czy inaczej, muszę wiedzieć, kto za tym stoi.","""Najpierw - mogę spróbować przekonać tego, kto rzucił klątwę, żeby sam ją zdjął. Drugie wyjście to odbicie klątwy z powrotem na osobę, która ją rzuciła, poprzez napisanie jej imienia na strzale. W obu przypadkach muszę wiedzieć, kto za tym stoi.""","Tłumaczenie na język polski:
+
+""Najpierw - mogę spróbować przekonać tego, kto rzucił Nithing, żeby sam zdjął klątwę. Drugie - mogę odbić klątwę z powrotem na tego, kto ją rzucił, pisząc jego imię na drzewcu. W obu przypadkach muszę wiedzieć, kto za tym stoi.""
+
+To tłumaczenie oddaje sens oryginalnego tekstu, uwzględniając kontekst i specyficzne elementy języka użytego w oryginalnym zdaniu.","Najpierw - mogę spróbować przekonać osobę, która rzuciła Nithing, aby sama zdjęła klątwę. Drugie - mogę odbić klątwę z powrotem na tego, kto ją rzucił, pisząc jego imię na strzale. W obu przypadkach muszę wiedzieć, kto za tym stoi.","""Najpierw - mogę spróbować przekonać osobę, która postawiła Nithing, aby sama zdjęła klątwę. Drugie - mogę odbić klątwę z powrotem na tego, kto ją rzucił, pisząc ich imię na strzale. W obu przypadkach muszę wiedzieć, kto za tym stoi.""","Pierwsze - mogę spróbować przekonać tego, kto postawił Nithing, aby zdjął klątwę samodzielnie. Drugie - mogę odbić klątwę z powrotem na tego, kto ją rzucił, pisząc ich imię na strzale. W obu przypadkach muszę wiedzieć, kto za tym stoi.","Oto tłumaczenie podanego zdania na język polski:
+
+""Najpierw - mogę spróbować przekonać osobę, która postawiła Nithing, aby sama zdjęła klątwę. Drugie - mogę odbić klątwę z powrotem na tego, kto ją rzucił, pisząc jego imię na drzewcu. W obu przypadkach muszę wiedzieć, kto za tym stoi.""
+
+To tłumaczenie oddaje sens oryginalnego zdania, uwzględniając kontekst i specyficzne elementy takie jak ""Nithing"" (przypuszczalnie odnoszące się do jakiegoś rodzaju magicznego artefaktu lub rytuału) oraz ""drzewca"". Zwróć uwagę, że niektóre wyrażenia mogłyby brzmieć bardziej naturalnie po polsku, ale starano się zachować możliwie bliski odpowiednik oryginału.","Najpierw - mogę spróbować przekonać tego, kto postawił Nithing, aby sami zdjęli klątwę. Drugie - mogę odbić klątwę z powrotem na tego, kto ją rzucił, pisząc ich imię na drzewcu. W obu przypadkach muszę wiedzieć, kto za tym stoi.",0.4209185208404859,0.10814410080481558,0.7636415958404541,0.7705737948417664,0.3931125764473043,0.07051073131555514,0.7033165097236633,0.6896429061889648,0.44445236403807326,0.15336192545944255,0.7968084216117859,0.7550099492073059,0.48107543476178344,0.13857814312261596,0.7940261960029602,0.7550078630447388,0.42156155198631756,0.13819585494830136,0.7779044508934021,0.7360305190086365,0.43570633476772264,0.058042177861324915,0.7031527161598206,0.6825032234191895,0.4109854857067858,0.13819585494830136,0.7839810252189636,0.7673254013061523
+Mhm. Guess I gotta investigate…,Mhm. A więc śledztwo...,"""Mhm... Chyba muszę zbadać tę sprawę...""
+
+To tłumaczenie oddaje sens oryginalnego zdania, wyrażając gotowość do zajęcia się jakimś problemem lub sytuacją wymagającą dalszego rozpoznania. W języku polskim ""mhm"" jest często używane jako potwierdzenie odbioru informacji i może być wypowiedziane z lekkim westchnieniem lub nawet nutą niepokoju, co pasuje do kontekstu sugerującego konieczność dalszego śledztwa lub analizy.","Tłumaczenie tego zdania na język polski brzmi:
+
+""Mhm. Chyba muszę zbadać...""
+
+To krótkie, niepełne zdanie wyraża zamyślenie i sugeruje potrzebę przeprowadzenia jakiegoś dochodzenia lub badania w danej sytuacji.",Mhm. Chyba muszę zbadać...,"""Mhm. Chyba muszę zbadać...""",Mhm. Chyba muszę zbadać...,"Oto tłumaczenie tego zdania na język polski:
+
+""Mhm. Chyba muszę zbadać...""
+
+To krótkie, niepełne zdanie wyraża wahanie lub zastanowienie się osoby mówiącej i sugeruje, że będzie ona musiała przeprowadzić jakieś dochodzenie lub badanie w dalszej części rozmowy lub sytuacji.",Mhm. Chyba muszę zbadać...,0.16335354034780028,0.0,0.6434074640274048,0.6361783146858215,0.1502915917570623,0.0,0.658978283405304,0.6739688515663147,0.16223601489816297,0.08034284189446518,0.780286967754364,0.784905195236206,0.1605866922940094,0.0,0.7564319968223572,0.7405542731285095,0.16223601489816297,0.08034284189446518,0.780286967754364,0.784905195236206,0.12683418847337183,0.0,0.6529878377914429,0.6381842494010925,0.16223601489816297,0.08034284189446518,0.780286967754364,0.784905195236206
+Elemental Empires - by Gianbattista.,"„Mocarstwa żywiołów”, Gianbattista.","""Elemental Empires - przez Gianbattistę.""
+
+W tym zdaniu ""by"" oznacza autora lub twórcę, a ""Gianbattista"" to prawdopodobnie nazwisko autora. W języku polskim używa się zwykle konstrukcji ""przez [imię]"" lub ""napisany przez [imię]"", więc tłumaczenie brzmi:
+
+""Elemental Empires - napisane przez Gianbattistę.""
+
+lub po prostu:
+
+""Elemental Empires - Gianbattista.""
+
+Jeśli chcesz zachować oryginalną formę ""by"", możesz przetłumaczyć to jako:
+
+""Elemental Empires - przez Gianbattistę.""
+
+Pamiętaj jednak, że w języku polskim często pomija się słowo ""przez"" przy podawaniu autorstwa dzieła.","Tłumaczenie na język polski:
+
+""Imperia Elementarne - autorstwa Gianbattisty.""
+
+Warto zauważyć, że w oryginalnym tekście ""Elemental Empires - by Gianbattista"" nie ma żadnych błędów gramatycznych ani stylistycznych. Jednakże, jeśli chodzi o tłumaczenie na język polski, struktura zdania została dostosowana do typowej konstrukcji używanej w języku polskim dla wyrażenia autorstwa lub przypisania czegoś konkretnej osobie. W języku angielskim często używa się po prostu ""by"", natomiast w języku polskim zwykle dodaje się słowo ""autorstwa"" przed nazwiskiem autora.","""Empire Elementów - przez Gianbattistę.""
+
+(Uwaga: Tekst oryginalny zawierał błąd gramatyczny w nazwie gry. Poprawiłem go, aby zachować spójność z resztą zdania.)","""Empire Elementarny - przez Gianbattistę.""","""Empire Elementów - przez Gianbattistę.""","""Empire Elements - autorstwa Gianbattisty.""
+
+Warto zauważyć, że w tym tłumaczeniu:
+- ""Elemental Empires"" zostało przetłumaczone jako ""Empire Elements"", co wydaje się bardziej odpowiednie dla kontekstu gry komputerowej.
+- Imię ""Gianbattista"" pozostawiono bez zmian, ponieważ jest to imię osobowe i nie ma standardowego polskiego odpowiednika.
+- Dodano słowo ""autorstwa"" przed nazwiskiem twórcy, aby lepiej oddać znaczenie oryginalnego tekstu.","""Empire Element - przez Gianbattistę.""",0.20212724470666332,0.0,0.5599692463874817,0.5150565505027771,0.21161502390608636,0.0,0.5718979835510254,0.529153048992157,0.29772050820599416,0.0,0.613137423992157,0.5002440810203552,0.31208621247702106,0.0,0.7061915397644043,0.6445133090019226,0.30892601814996273,0.0,0.7238760590553284,0.620926558971405,0.23889750742664484,0.0,0.5946584343910217,0.5198127627372742,0.2956569072435439,0.0,0.7067383527755737,0.6026840806007385
+"Swords, eh? Have it your way.",Na miecze? Jak chcesz.,"""Miecze, co? Rób jak uważasz.""
+
+To tłumaczenie oddaje ducha oryginalnego zdania w języku angielskim. Warto zauważyć, że fraza ""Have it your way"" jest idiomatyczna i może być interpretowana jako wyrażenie zgody lub rezygnacji z dyskusji, często używane w sytuacjach, gdy ktoś nie chce się spierać lub po prostu ustępuje drugiej osobie.","Tłumaczenie tego zdania na język polski brzmi:
+
+""Miecze, co? Rób jak uważasz.""
+
+To swobodne tłumaczenie, które oddaje sens oryginalnego angielskiego wyrażenia. Warto zauważyć, że w języku polskim nie ma dokładnego odpowiednika dla słowa ""eh?"" w tym kontekście, dlatego zostało ono pominięte w tłumaczeniu.","Miecze, co? Rób jak uważasz.","""Miecze, co? Rób jak uważasz.""","Miecze, co? Rób jak uważasz.","Oto tłumaczenie podanego zdania na język polski:
+
+""Miecze, co? Rób jak uważasz.""
+
+To tłumaczenie stara się oddać nieformalny i potoczny charakter oryginalnego zdania w języku angielskim. Warto zauważyć, że ""eh?"" jest często używane w mowie potocznej jako wyraz zainteresowania lub zachęty do kontynuacji rozmowy. W języku polskim może być ono oddane przez ""co?"", ""tak?"", lub po prostu pominięte w formalnym kontekście.","Miecze, co? Rób jak uważasz.",0.15435603515348537,0.0,0.6480581164360046,0.5164068937301636,0.12985624786701952,0.0,0.6332246661186218,0.48990699648857117,0.24322412064347546,0.0,0.8072630763053894,0.7370913624763489,0.2406122458470518,0.0,0.7718304395675659,0.567706286907196,0.24322412064347546,0.0,0.8072630763053894,0.7370913624763489,0.10927917265778316,0.0,0.6217154264450073,0.5115972757339478,0.24322412064347546,0.0,0.8072630763053894,0.7370913624763489
+"Who, then?",To kto?,"""Kto więc?""
+
+To tłumaczenie odnosi się do pytania ""Who, then?"", które w języku angielskim może być używane jako wyrażenie zniecierpliwienia lub nalegania na odpowiedź. W języku polskim najbliższym odpowiednikiem jest ""Kto więc?"" lub ""No więc kto?"". Może to być użyte w sytuacji, gdy ktoś oczekuje konkretnej informacji i chce, aby rozmówca kontynuował swoją wypowiedź lub podał szczegóły.","Tłumaczenie zdania ""Who, then?"" na język polski brzmi:
+
+""Kto więc?""
+
+To pytanie może być używane jako retoryczne lub jako prośba o wyjaśnienie, kiedy chcemy dowiedzieć się, do kogo odnosiła się poprzednia wypowiedź lub sytuacja.",Kto więc?,"""Kto więc?""",Kto więc?,"'Kto więc?'
+
+To zdanie jest wykrzyknieniem lub pytaniem retorycznym, które może być używane w różnych kontekstach, aby wyrazić zaskoczenie, niezrozumienie lub zachęcić rozmówcę do odpowiedzi. W języku polskim najbliższym tłumaczeniem będzie ""Kto więc?"", co oddaje jego pytający i emfatyczny charakter.",Kto więc?,0.05757905952387917,0.0032047574588556275,0.5658918023109436,0.530739963054657,0.06158287637301635,0.005474870710453651,0.5623981952667236,0.5800238251686096,0.11269644334160471,0.0,0.7734957337379456,0.9612361192703247,0.10898919753086428,0.0,0.7418732643127441,0.9328128695487976,0.11269644334160471,0.0,0.7734957337379456,0.9612361192703247,0.04813947436898264,0.004620856909230222,0.5591394305229187,0.5343366861343384,0.11269644334160471,0.0,0.7734957337379456,0.9612361192703247
+"Greetings, White One.","Witaj, białowłosy.","""Pozdrowienia, Biały Jeden.""
+
+To tłumaczenie zakłada, że ""White One"" odnosi się do osoby lub istoty o białym kolorze lub związanej w jakiś sposób z bielą. W kontekście angielskim, ""White One"" może być imieniem, nazwiskiem, przydomkiem lub określeniem opisującym kogoś. W języku polskim najbliższym odpowiednikiem byłoby po prostu ""Biały Jeden"". Jeśli chodzi o samo powitanie ""Greetings"", to w języku polskim używa się słowa ""pozdrowienia"" jako ogólnego odpowiednika.
+
+Jeśli potrzebujesz dodatkowych informacji lub innych wariantów tłumaczenia, daj mi znać!","Tłumaczenie na język polski: ""Pozdrowienia, Biały.""
+
+To tłumaczenie jest dosłowne i odnosi się do bezpośredniego zwrotu skierowanego do osoby o przydomku lub imieniu ""Biały"". W języku angielskim forma grzecznościowa ""White One"" może być używana jako pozdrowienie lub wyraz szacunku wobec kogoś, kto ma takie przezwisko. W języku polskim podobny zwrot mógłby brzmieć ""Pozdrowienia, Biały"", gdzie ""Biały"" to imię lub przydomek osoby, do której się zwracamy.","Pozdrowienia, Biały Jeden.","""Witaj, Biały.""","Pozdrowienia, Biały.","Przetłumaczone zdanie ""Greetings, White One."" na język polski brzmi:
+
+""Pozdrowienia, Biały.""
+
+Warto zauważyć, że w tym kontekście ""White One"" może być imieniem lub określeniem osoby, dlatego tłumaczenie pozostaje dosłowne. Jeśli chcielibyśmy bardziej swobodnie oddać znaczenie, moglibyśmy powiedzieć:
+
+""Pozdrowienia, Biały Przyjacielu."" lub
+""Pozdrowienia, Biała Istoto.""
+
+Jednak bez dodatkowego kontekstu trudno jest dokładniej określić, jakie znaczenie ma ""White One"" w danym tekście.","Pozdrowienia, Biały Jeden.",0.08542493475443219,0.0,0.5496078729629517,0.6018279790878296,0.08982228083594863,0.0,0.5546471476554871,0.6047329902648926,0.14413398543874506,0.0,0.686540961265564,0.6663066148757935,0.3283835553166987,0.0,0.7388401031494141,0.8091992735862732,0.15870632294200912,0.0,0.7184799313545227,0.7372189164161682,0.08483304389422132,0.0,0.5468449592590332,0.589445173740387,0.14413398543874506,0.0,0.686540961265564,0.6663066148757935
+"Got back your stolen horn - and I, uh, killed the thieves.",Odzyskałem skradziony róg – i zabiłem złodziei.,"""Odzyskałem twoją skradzioną trąbkę - a ja, eh, zabiłem złodziei.""
+
+To tłumaczenie oddaje sens oryginalnego zdania w języku angielskim, choć należy pamiętać, że może ono brzmieć nieco nieformalnie lub potocznie w języku polskim. W bardziej formalnym kontekście moglibyśmy powiedzieć coś takiego:
+
+""Odzyskałem pańską skradzioną trąbkę i niestety musiałem podjąć kroki, aby unieszkodliwić sprawców kradzieży.""
+
+Warto też zauważyć, że w oryginalnym zdaniu ""I, uh"" sugeruje pewne zakłopotanie lub niepewność mówiącego, co również zostało odzwierciedlone w tłumaczeniu poprzez użycie słowa ""eh"".","Tłumaczenie tego zdania na język polski brzmi:
+
+""Odzyskałem twój skradziony róg - a ja, eh, zabiłem złodziei.""
+
+Warto zauważyć, że w oryginalnym zdaniu występuje nieformalne wyrażenie ""uh"", które może być używane jako wypełniacz lub oznaka zakłopotania. W tłumaczeniu zostało ono oddane za pomocą ""eh"". Ponadto, słowo ""thieves"" (złodzieje) jest liczbą mnogą, co sugeruje, że było więcej niż jeden złodziej.","Odzyskałem twój skradziony róg - a ja, eh, zabiłem złodziei.","""Odzyskałem twoją skradzioną trąbkę - a ja, eh, zabiłem złodziei.""","Odzyskałem twój skradziony róg - a ja, eh, zabiłem złodziei.","Oto tłumaczenie tego zdania na język polski:
+
+""Odzyskałem twój skradziony róg - a ja, eh, zabiłem złodziei.""
+
+To tłumaczenie uwzględnia wszystkie elementy oryginalnego zdania, w tym niepewność mówiącego wyrażoną przez ""eh"". Warto zauważyć, że w języku polskim często pomijamy takie wtrącenia, ale w tym przypadku wydaje się ono istotne dla oddania tonu wypowiedzi.","Odzyskałeś swój skradziony róg - a ja, eh, zabiłem złodziei.",0.33464899119800395,0.002728984041744943,0.6710757613182068,0.5785382390022278,0.45729291020274193,0.007239266950906245,0.6881701350212097,0.5052414536476135,0.7933376571213543,0.06674094719041482,0.8661100268363953,0.7735989093780518,0.6854870630856943,0.021105340631872645,0.8206352591514587,0.8078604340553284,0.7933376571213543,0.06674094719041482,0.8661100268363953,0.7735989093780518,0.4823866319959296,0.008083053722455262,0.7007114887237549,0.5445758700370789,0.7679737221457374,0.06311969078225892,0.8560774326324463,0.8639289736747742
+The guest room. Come.,Chodźmy do pokoju gościnnego.,"""Pokój gościnny. Chodź.""
+
+To tłumaczenie zawiera dwa zdania, które zostały przetłumaczone dosłownie z języka angielskiego na polski. Pierwsze zdanie ""The guest room"" oznacza ""pokój gościnny"", a drugie ""Come"" to po prostu ""chodź"". W języku polskim nie ma bezpośredniego odpowiednika dla słowa ""guest room"", więc używamy bardziej opisowego określenia ""pokój gościnny"".","Tłumaczenie na język polski:
+
+""Pokój gościnny. Proszę wejść.""
+
+Wyjaśnienie:
+- ""The guest room"" to dosłowne tłumaczenie, ale w języku polskim często używa się określenia ""pokój gościnny"".
+- ""Come"" można przetłumaczyć jako ""proszę wejść"", co jest grzecznym zaproszeniem do wejścia do pomieszczenia.",Pokój gościnny. Proszę wejść.,"""Pokój gościnny. Chodź.""",Pokój gościnny. Chodź.,"Podane zdanie w języku angielskim ""The guest room. Come."" można przetłumaczyć na język polski jako:
+
+""Pokój gościnny. Chodź.""
+
+Warto zauważyć, że to tłumaczenie jest dosłowne i może nie brzmieć naturalnie w języku polskim. W bardziej idiomatycznym kontekście, mogłoby to być:
+
+""Proszę wejść do pokoju gościnnego.""
+
+lub po prostu:
+
+""Pokój gościnny."" (jeśli chcemy jedynie wskazać lokalizację)",Pokój gościnny. Chodź.,0.21099038038734672,0.0,0.6485331058502197,0.6380162835121155,0.20662666303799168,0.004503778123700044,0.6257830262184143,0.6358712315559387,0.23871827447914407,0.0,0.7727599143981934,0.8164499998092651,0.33299321864697523,0.0,0.7870693206787109,0.7385159134864807,0.33580059983134186,0.0,0.7940464615821838,0.7775523662567139,0.3584424371885328,0.007030700263788871,0.6908817291259766,0.6294718980789185,0.33580059983134186,0.0,0.7940464615821838,0.7775523662567139
+"Enter. Jarl's still speakin' to his seer, but they should finish soon.",Wejdź. Jarl rozmawia jeszcze z wróżem. Zaraz powinien skończyć.,"""Wejść. Jarl wciąż rozmawia ze swoim wróżbitą, ale powinni skończyć niedługo.""
+
+To tłumaczenie zakłada, że ""Jarl"" i ""seer"" są nazwami własnymi (odpowiednio: jarl - wysoki rangą wojownik wikingów; seer - osoba posiadająca zdolności przewidywania przyszłości lub interpretowania znaków), które nie wymagają tłumaczenia. Jeśli chcesz, mogę zaproponować inne tłumaczenie, uwzględniające kontekst kulturowy i historyczny.","Tłumaczenie na język polski:
+
+""Wchodź. Jarl wciąż rozmawia ze swoim wróżbitą, ale powinni skończyć niedługo.""
+
+To tłumaczenie zachowuje sens oryginalnego zdania, uwzględniając kontekst dialogu między jarlem a jego wróżbitą oraz sugerując, że rozmowa dobiega końca.","Wciśnij Enter. Jarl nadal rozmawia ze swoim wróżbitą, ale powinni skończyć wkrótce.","Wejdź. Jarl wciąż rozmawia ze swoim wróżbitą, ale powinni skończyć niedługo.","Wciśnij Enter. Jarl nadal rozmawia ze swoim wróżbitą, ale powinni skończyć wkrótce.","Oto tłumaczenie podanego zdania na język polski:
+
+""Wchodź. Jarl wciąż rozmawia ze swoim wróżbitą, ale powinni skończyć niedługo.""
+
+To zdanie wydaje się pochodzić z kontekstu fantasy lub gry komputerowej, gdzie ""Jarl"" jest postacią o wysokiej randze, a ""wróżbita"" to osoba posiadająca nadprzyrodzone zdolności przewidywania przyszłości. Zdanie sugeruje, że ktoś czeka na zakończenie ważnej rozmowy między tymi dwiema postaciami i może teraz wejść do środka.","Wejdź. Jarl wciąż rozmawia ze swoim wróżbitą, ale powinni skończyć wkrótce.",0.29816570449626995,0.00410726430147258,0.6671998500823975,0.5830833315849304,0.386166209398354,0.0063161840849674045,0.7028387784957886,0.730060875415802,0.39891880096906696,0.020255986027125642,0.8141798377037048,0.8111768364906311,0.46926407494347905,0.04411629359322707,0.8487293124198914,0.8816347122192383,0.39891880096906696,0.020255986027125642,0.8141798377037048,0.8111768364906311,0.3156770901423341,0.0037451550450560973,0.6814211010932922,0.7156375646591187,0.4669894664946459,0.04411629359322707,0.856115460395813,0.8930996656417847
+Save me!,Ratunku!,"""Ratuj mnie!""
+
+To tłumaczenie dosłowne i najbardziej bezpośrednie, jakie można podać dla tego angielskiego wyrażenia w języku polskim. W zależności od kontekstu, sytuacji lub emocji osoby wypowiadającej te słowa, mogą one być również oddane jako ""Pomóż mi!"", ""Ocal mnie!"" lub inne warianty, które lepiej pasują do danej sytuacji.","Tłumaczenie wyrażenia ""Save me!"" na język polski to:
+
+""Ratuj mnie!""
+
+To jest dosłowne tłumaczenie, które oddaje znaczenie wołania o pomoc lub prośby o ratunek. W zależności od kontekstu, może być używane w różnych sytuacjach, gdy ktoś czuje się zagrożony lub potrzebuje natychmiastowej interwencji.",Ratuj mnie!,"""Ratuj mnie!""",Ratuj mnie!,"Podane zdanie ""Save me!"" w tłumaczeniu na język polski brzmi:
+
+""Ratuj mnie!""
+
+To krótkie, ale bardzo emocjonalne wezwanie o pomoc. W języku angielskim używane jest często w sytuacjach zagrożenia lub niebezpieczeństwa, gdy ktoś potrzebuje natychmiastowej interwencji innych osób.",Ratuj mnie!,0.07237779722798782,0.0,0.5510746836662292,0.5254184603691101,0.08959797245683165,0.0,0.5515353679656982,0.5269598960876465,0.27721038686813665,0.0,0.814073383808136,0.9087314009666443,0.26956271747938415,0.0,0.7576310634613037,0.8427985310554504,0.27721038686813665,0.0,0.814073383808136,0.9087314009666443,0.08794389907460061,0.0,0.5558353662490845,0.556002676486969,0.27721038686813665,0.0,0.814073383808136,0.9087314009666443
+We learned something about Ciri.,Dowiedzieliśmy się czegoś o Ciri.,"""Dowiedzieliśmy się czegoś o Ciri.""
+
+To tłumaczenie jest dosłowne i zachowuje znaczenie oryginalnego zdania w języku angielskim.","Tłumaczenie tego zdania na język polski brzmi:
+
+""Dowiedzieliśmy się czegoś o Ciri.""
+
+To proste zdanie w języku angielskim zostało przetłumaczone dosłownie, zachowując jego znaczenie i strukturę gramatyczną. Warto zauważyć, że w języku polskim imię ""Ciri"" jest już zapisane w formie spolszczonej, więc nie wymaga dodatkowych zmian przy tłumaczeniu.",Dowiedzieliśmy się czegoś o Ciri.,"""Dowiedzieliśmy się czegoś o Ciri.""",Dowiedzieliśmy się czegoś o Ciri.,"Dosłowne tłumaczenie tego zdania z języka angielskiego na polski brzmi:
+
+""Nauczyliśmy się czegoś o Ciri.""
+
+Jednakże, warto zauważyć, że w języku polskim często używamy bardziej naturalnych form wyrażających tę samą myśl. Na przykład, można powiedzieć:
+
+""Dowiedzieliśmy się czegoś o Ciri.""
+
+lub
+
+""Poznaliśmy coś nowego o Ciri.""
+
+Obie te wersje są poprawne i powszechnie używane w języku polskim. Wybór między nimi może zależeć od kontekstu lub preferencji mówiącego.",Dowiedzieliśmy się czegoś o Ciri.,0.7631139318717094,0.05692994482485313,0.7912198305130005,0.7671701312065125,0.49573852050693273,0.018932608413777807,0.6995378732681274,0.6108019351959229,1.0,1.0,1.0,0.9881466031074524,0.9924784977734652,0.26591479484724945,0.9475822448730469,0.9638179540634155,1.0,1.0,1.0,0.9881466031074524,0.42087649614288986,0.013438778484202137,0.6690807342529297,0.6928457021713257,1.0,1.0,1.0,0.9881466031074524
+We're gonna choke and die.,A mogliśmy zostać na uczcie.,"""Przełożenie tego zdania na język polski brzmi:
+
+""Będziemy się dusić i umrzeć.""
+
+To dosłowne tłumaczenie, które zachowuje znaczenie oryginalnego angielskiego wyrażenia. Warto jednak pamiętać, że w języku polskim istnieją bardziej idiomatyczne sposoby wyrażenia podobnych myśli lub uczuć. Na przykład, można by powiedzieć ""Będzie ciężko/trudno"" lub ""Może być kiepsko"", jeśli chodzi o sytuację, która wydaje się beznadziejna lub niebezpieczna.","Tłumaczenie tego zdania na język polski brzmi: ""Zadławimy się i umrzemy.""
+
+To zdanie jest często używane w kontekście żartobliwym lub przesadnym, aby wyrazić trudności lub niebezpieczeństwo związane z jedzeniem czegoś, co może być duże, twarde lub trudne do przełknięcia. Na przykład, ktoś mógłby powiedzieć to po tym, jak próbował zjeść ogromną kanapkę lub inny duży kawałek jedzenia.
+
+Warto pamiętać, że takie wyrażenia są częścią potocznego języka i mogą być odbierane jako żartobliwe lub lekceważące, a nie dosłowne.","""Zadławimy się i umrzemy.""","""Będziemy się dusić i umrzemy.""",Zadławimy się i umrzemy.,"Oto tłumaczenie tego zdania na język polski:
+
+""Mamy zamiar się udławić i umrzeć.""
+
+To tłumaczenie oddaje dosłowne znaczenie oryginalnego zdania w języku angielskim. Należy jednak pamiętać, że jest to wyrażenie bardzo potoczne i może być uznane za wulgarne lub nieodpowiednie w formalnych sytuacjach. Warto również zauważyć, że w języku polskim istnieją inne sposoby wyrażenia podobnej myśli, które mogłyby być bardziej odpowiednie w różnych kontekstach.",Mamy zamiar się udławić i umrzeć.,0.10388318223216893,0.003148013662646501,0.5994487404823303,0.5112258791923523,0.1021025665396743,0.0023555952768576035,0.6026482582092285,0.5217133164405823,0.09096002874665798,0.0,0.6919389367103577,0.5643028616905212,0.09661067839417871,0.0,0.7208302617073059,0.5851919054985046,0.09173032956002906,0.0,0.7142713665962219,0.5592175126075745,0.11416301472698707,0.00284570245153172,0.5992689728736877,0.5207055807113647,0.11731390573603695,0.0,0.7197485566139221,0.559955894947052
+Go to the wake with me?,Zechcesz mi towarzyszyć na uczcie?,"""Chodź ze mną na czuwanie?""
+
+To tłumaczenie odnosi się do propozycji lub zaproszenia, aby ktoś towarzyszył w uczestnictwie w czuwaniu przy zmarłym, co jest tradycją pogrzebową w niektórych kulturach. Czuwanie to często ostatnia okazja dla rodziny i przyjaciół, aby pożegnać się z bliskim przed jego pogrzebem.","Tłumaczenie tego zdania na język polski brzmi: ""Pójdziesz ze mną na czuwanie?""
+
+Wyjaśnienie:
+- ""Go"" w tym kontekście oznacza ""iść"".
+- ""To the wake"" odnosi się do ""czuwania"", czyli tradycyjnego spotkania rodziny i przyjaciół zmarłej osoby przed pogrzebem.
+- ""With me"" oznacza ""ze mną"".
+
+Całe zdanie wyraża propozycję lub zaproszenie, aby ktoś towarzyszył mówiącemu podczas uczestnictwa w czuwaniu przy zmarłym.",Pójdziesz ze mną na czuwanie?,"""Pójdziesz ze mną na czuwanie?""",Pójdź ze mną na czuwanie?,"Podane zdanie ""Go to the wake with me?"" w tłumaczeniu na język polski brzmi:
+
+""Pójdziesz ze mną na czuwanie?""
+
+Warto zauważyć, że słowo ""wake"" w tym kontekście oznacza ""czuwanie przy zwłokach"", czyli tradycyjne spotkanie rodziny i znajomych po śmierci osoby, aby wspólnie spędzić czas przed pogrzebem. W języku polskim używamy terminu ""czuwanie"" lub ""pogrzeb"".",Pójdziesz ze mną na czuwanie?,0.24444984695439465,0.003997395604823099,0.6585106253623962,0.6019169092178345,0.2238206201759597,0.003040349233039763,0.6118991374969482,0.5614645481109619,0.1547517998900694,0.05372849659117709,0.7415550947189331,0.7505649924278259,0.15369420185832977,0.05372849659117709,0.7310947179794312,0.7505723237991333,0.11026195120886534,0.05372849659117709,0.7360720634460449,0.644207239151001,0.15807003617700047,0.0033879673215127786,0.594840407371521,0.535659670829773,0.1547517998900694,0.05372849659117709,0.7415550947189331,0.7505649924278259
+"Told ye, he's a witcher, a cunning man. He knows these things!","Mówiłem ci, że to wiedźmin. Czarownik. Wie takie rzeczy.","""Mówiłem ci, że on jest czarodziejem, przebiegłym człowiekiem. On zna te rzeczy!""","Oto tłumaczenie tego zdania na język polski:
+
+""Mówiłem ci, to wiedźmin, chytry człowiek. On się na tym zna!""
+
+To zdanie pochodzi z serii książek o Wiedźminie autorstwa Andrzeja Sapkowskiego i jest często używane jako charakterystyczny cytat w tej serii.","Mówiłem ci, to wiedźmin, przebiegły człowiek. On zna te rzeczy!","""Mówiłem ci, to wiedźmin, przebiegły człowiek. On zna te rzeczy!""","Mówiłem ci, to wiedźmin, przebiegły człowiek. On zna się na tych rzeczach!","Oto tłumaczenie podanego zdania na język polski:
+
+""Mówiłem ci, to wiedźmin, sprytny człowiek. On się na tym zna!""
+
+To zdanie pochodzi z serii książek o Wiedźminie autorstwa Andrzeja Sapkowskiego i jest często używane jako cytat w kontekście opisującym umiejętności i wiedzę Geralta z Rivii, głównego bohatera tej sagi.","Mówiłem ci, to wiedźmin, chytry człowiek. On zna te rzeczy!",0.4158687809009078,0.03602080288207364,0.7805078029632568,0.9001496434211731,0.3656940065305747,0.005641822153183602,0.6986057758331299,0.7084470987319946,0.47803556804832975,0.04939382737115371,0.8478338718414307,0.9089274406433105,0.4759952116984552,0.025098621243978974,0.8236668705940247,0.9125224351882935,0.44328421462599016,0.03986357128268015,0.8256450891494751,0.8977694511413574,0.3309193254982899,0.0045491487595968995,0.6765124797821045,0.7308018207550049,0.4717225796165976,0.04939382737115371,0.8549990653991699,0.89810711145401
+Think the djinn killed him?,To dżinn go zabił?,"""Myślisz, że dżin go zabił?""
+
+To tłumaczenie odnosi się do zdania w języku angielskim ""Think the djinn killed him?"", które zostało przetłumaczone na język polski. Zdanie to zawiera pytanie, czy ktoś myśli, że dżin (mityczna istota) mógł być odpowiedzialny za śmierć jakiejś osoby. W języku polskim używamy słowa ""dżin"" zamiast ""djinn"".","Tłumaczenie tego zdania na język polski brzmi: ""Myślisz, że dżin go zabił?""
+
+Wyjaśnienie krok po kroku:
+1. ""Think"" - w języku polskim odpowiednikiem jest słowo ""myśleć"".
+2. ""the djinn"" - tutaj mamy do czynienia z błędem gramatycznym w oryginalnym zdaniu. Poprawna forma to ""dżin"" (odnosząca się do istoty z mitologii arabskiej). W języku polskim używamy formy ""dżin"", a nie ""djinn"".
+3. ""killed"" - w tym kontekście oznacza ""zabił"".
+4. ""him"" - w języku polskim odpowiada mu zaimek osobowy ""go"".
+
+Połączenie tych elementów daje nam pełne tłumaczenie: ""Myślisz, że dżin go zabił?""","Myślisz, że dżin go zabił?","""Czy myślisz, że dżin go zabił?""","Czy myślisz, że dżin go zabił?","""Myślisz, że dżin go zabił?""
+
+To tłumaczenie uwzględnia kilka kluczowych elementów:
+- ""Think"" (myśleć) jest w trybie pytającym, co sugeruje, że mówca zadaje pytanie.
+- ""The djinn"" odnosi się do postaci z mitologii arabskiej, która w języku polskim jest nazywana ""dżinem"".
+- ""Killed him"" oznacza ""zabił go"", co wskazuje na czynność dokonaną przez dżina.
+
+Warto zauważyć, że w języku polskim często używa się formy ""dżin"" zamiast ""dżinn"", choć obie są poprawne. Ponadto, w zależności od kontekstu, można by rozważyć inne warianty tego zdania, np.:
+- ""Czy myślisz, że dżin go zabił?""
+- ""Podejrzewasz, że to dżin go zabił?""
+
+Jednak przedstawione tłumaczenie jest najbliższe oryginalnemu zdaniu i oddaje jego sens w sposób bezpośredni.","Myślisz, że dżin go zabił?",0.22853264552600525,0.004273297457822545,0.6752431392669678,0.6467817425727844,0.14970599894275405,0.001987059422923411,0.5943573713302612,0.5142626166343689,0.586988023650314,0.11362193664674995,0.898568332195282,0.9396030902862549,0.5659182868646873,0.040824829046386304,0.8539881706237793,0.9260212182998657,0.5741591741591742,0.08633400213704504,0.8796769976615906,0.9263187050819397,0.1365812019358328,0.0019138921131356967,0.6109398603439331,0.588842511177063,0.586988023650314,0.11362193664674995,0.898568332195282,0.9396030902862549
+Come. There's a ledge outside this window. We must pass along it.,Podejdź tutaj. Wyjdziemy przez okno i dalej przedostaniemy się po gzymsie.,"""Chodź. Jest tam parapet na zewnątrz. Musimy przejść wzdłuż niego.""","Tłumaczenie tego zdania na język polski brzmi:
+
+""Chodź. Jest tam gzyms pod oknem. Musimy przejść po nim.""
+
+To zdanie sugeruje, że ktoś prosi drugą osobę o pójście za nim i wspólne pokonanie wąskiego gzymsu lub parapetu znajdującego się na zewnątrz budynku. Może to być częścią jakiejś przygody, ucieczki lub innej sytuacji wymagającej takiego działania.",Chodź. Jest gzyms na zewnątrz tego okna. Musimy przejść wzdłuż niego.,"""Chodź. Jest tam parapet na zewnątrz. Musimy przejść po nim.""",Chodź. Jest gzyms na zewnątrz tego okna. Musimy przejść wzdłuż niego.,"Przetłumaczone zdanie na język polski:
+
+""Chodź. Jest tam parapet za tym oknem. Musimy przejść wzdłuż niego.""
+
+Warto zauważyć, że w oryginalnym zdaniu ""ledge"" zostało przetłumaczone jako ""parapet"", co jest najbliższym odpowiednikiem tego słowa w kontekście architektonicznym. W języku angielskim ""ledge"" może oznaczać również półkę skalną lub występ, ale w tym kontekście bardziej pasuje znaczenie ""parapet"".",Chodź. Jest tam parapet za tym oknem. Musimy przejść wzdłuż niego.,0.1729036652482883,0.0,0.7220346331596375,0.6831003427505493,0.2524332587252663,0.004458815748575231,0.6572383046150208,0.6452096700668335,0.21298626658494954,0.0,0.7339280843734741,0.7474146485328674,0.16387303258569877,0.01909690192411307,0.7242435216903687,0.6847222447395325,0.21298626658494954,0.0,0.7339280843734741,0.7474146485328674,0.24130563711363215,0.0,0.6171135902404785,0.5192866325378418,0.18945131270481097,0.0,0.737298309803009,0.7140243649482727
+Love.,Na miłość.,"Słowo ""Love"" w języku angielskim tłumaczy się na język polski jako ""Miłość"".
+
+Przykłady użycia:
+- I love you (Kocham cię)
+- Love is all you need (Miłość to wszystko, czego potrzebujesz)
+- The love of my life (Miłość mojego życia)
+
+Warto zauważyć, że słowo ""miłość"" ma kilka znaczeń i kontekstów w języku polskim, podobnie jak ""love"" w języku angielskim. Może odnosić się do romantycznego uczucia, ale także do głębokiej troski, przywiązania czy nawet poświęcenia.","Tłumaczenie słowa ""love"" na język polski to ""miłość"".
+
+To słowo ma wiele znaczeń i zastosowań w różnych kontekstach, od romantycznej miłości między partnerami, przez miłość rodzinną, przyjaźń, aż po głębsze uczucia takie jak współczucie czy troska o innych. W języku polskim możemy powiedzieć ""kocham cię"", co jest bezpośrednim tłumaczeniem angielskiego ""I love you"".
+
+Warto też pamiętać, że w języku polskim istnieją inne formy wyrażania miłości, takie jak ""lubię cię"", które mogą być używane w mniej intensywnych lub bardziej formalnych sytuacjach.",Miłość.,Miłość.,Miłość.,"Podane zdanie ""Love"" jest rzeczownikiem w języku angielskim i oznacza ""miłość"". W języku polskim to słowo nie jest zdaniem, ale można je przetłumaczyć jako pojedyncze słowo.
+
+Tłumaczenie: Miłość.
+
+Jeśli chciałbyś, aby to było pełne zdanie w języku polskim, moglibyśmy stworzyć kilka przykładów:
+
+1. Kocham cię.
+2. Miłość jest najpiękniejszym uczuciem.
+3. Czy potrafisz kochać?
+4. Miłość sprawia, że świat jest piękniejszy.
+5. Bez miłości życie byłoby puste.",Miłość.,0.08820083863493255,0.0,0.5477511882781982,0.6195670366287231,0.08777531425700129,0.0,0.547327995300293,0.63344407081604,0.5180241762792206,0.0,0.9039806127548218,0.7552806735038757,0.5180241762792206,0.0,0.9039806127548218,0.7552806735038757,0.5180241762792206,0.0,0.9039806127548218,0.7552806735038757,0.10720310902421078,0.0,0.5333313345909119,0.5850181579589844,0.5180241762792206,0.0,0.9039806127548218,0.7552806735038757
+"Thanks, mate. Fayrlund - you know the place? I've me forge there. Come and visit, I'll have a reward for ye.","Dzięki, chłopie... Wiesz, gdzie jest Ferlund? Mam tam kuźnię. Wpadnij w odwiedziny, a dam ci coś w nagrodę.","""Dzięki, kumpel. Fayrlund - znasz to miejsce? Mam tam swoją kuźnię. Wpadnij z wizytą, będę miał dla ciebie nagrodę.""
+
+To tłumaczenie oddaje sens oryginalnego zdania w języku angielskim, uwzględniając specyficzny styl i słownictwo używane przez postać wypowiadającą się. Zwróć uwagę, że imiona i nazwy własne pozostają niezmienione, ponieważ są unikalnymi elementami w kontekście tej wypowiedzi.","Tłumaczenie na język polski:
+
+""Dzięki, kumpel. Fayrlund - znasz to miejsce? Mam tam swoją kuźnię. Wpadnij z wizytą, będę miał dla ciebie nagrodę.""
+
+To tłumaczenie oddaje sens oryginalnego zdania, uwzględniając jego nieformalny charakter i użycie slangu. Zwróć uwagę, że ""Fayrlund"" pozostaje jako nazwa własna, ponieważ nie ma bezpośredniego odpowiednika w języku polskim.","Dzięki, kumpel. Fayrlund - znasz to miejsce? Mam tam swoją kuźnię. Wpadnij z wizytą, będę miał dla ciebie nagrodę.","""Dzięki, kumpel. Fayrlund - znasz to miejsce? Mam tam swoją kuźnię. Wpadnij z wizytą, będę miał dla ciebie nagrodę.""","Dzięki, kumpel. Fayrlund - znasz to miejsce? Mam tam swoją kuźnię. Wpadnij z wizytą, będę miał dla ciebie nagrodę.","Dzięki, kumpel. Fayrlund - znasz to miejsce? Mam tam swoją kuźnię. Wpadnij z wizytą, będę miał dla ciebie nagrodę.","Dzięki, kumpel. Fayrlund - znasz to miejsce? Mam tam swoją kuźnię. Wpadnij z wizytą, będę miał dla ciebie nagrodę.",0.37654366996769134,0.011003640569973154,0.6731767058372498,0.6701547503471375,0.3685158647490949,0.011138202232887138,0.6723533272743225,0.7023287415504456,0.4028851846244233,0.03370129264673146,0.8072524070739746,0.899244487285614,0.4019809544875508,0.030452555559828284,0.7764840126037598,0.8902176022529602,0.4028851846244233,0.03370129264673146,0.8072524070739746,0.899244487285614,0.4028851846244233,0.03370129264673146,0.8072524070739746,0.899244487285614,0.4028851846244233,0.03370129264673146,0.8072524070739746,0.899244487285614
+Welcome to the Temple of Freya. I'm Kurisu. How can I help?,Witaj w świątyni Freyji. Jestem Kurisu. W czym mogę ci pomóc?,"""Witaj w Świątyni Frei. Jestem Kurisu. W czym mogę Ci pomóc?""
+
+To tłumaczenie z języka angielskiego na polski, które oddaje oryginalne brzmienie i znaczenie zdania. Jeśli potrzebujesz dodatkowych informacji lub wyjaśnień dotyczących kontekstu, chętnie pomogę!","Tłumaczenie na język polski:
+
+""Witaj w świątyni Frei. Jestem Kurisu. W czym mogę Ci pomóc?""
+
+To tłumaczenie zachowuje znaczenie oryginalnego tekstu, uwzględniając również imię ""Kurisu"", które pozostaje niezmienione, ponieważ jest to nazwa własna.",Witaj w świątyni Freyi. Jestem Kurisu. W czym mogę pomóc?,"""Witaj w Świątyni Freyi. Jestem Kurisu. W czym mogę pomóc?""",Witaj w świątyni Frei. Jestem Kurisu. W czym mogę pomóc?,"Oto tłumaczenie podanego zdania na język polski:
+
+""Witaj w świątyni Frei. Jestem Kurisu. W czym mogę ci pomóc?""
+
+To tłumaczenie zachowuje znaczenie oryginalnego tekstu, uwzględniając również imię postaci oraz odniesienie do mitologii nordyckiej (Freja).",Witaj w świątyni Frei. Jestem Kurisu. W czym mogę pomóc?,0.5747053280727303,0.103463675658483,0.752663254737854,0.690198540687561,0.6327259787056946,0.12092555992625884,0.723182737827301,0.6337087750434875,0.8375316365539892,0.4895914832758051,0.981139600276947,0.9654122591018677,0.7604256122750673,0.37200908038405156,0.9197835326194763,0.9581241011619568,0.8184531005634349,0.4895914832758051,0.9541387557983398,0.9136075973510742,0.6788600306385724,0.15082713742973322,0.74562668800354,0.7132080793380737,0.8184531005634349,0.4895914832758051,0.9541387557983398,0.9136075973510742
+"And a most humble greeting to you, sir. Name's Karl, but Whistling Whacker they call me.","Kłaniam się uniżenie. Jestem Karl, zwany Świszczącą Pałą.","""I serdeczne pozdrowienia dla pana, sir. Nazywam się Karl, ale wołają mnie też Gwiżdżący Wygwizdacz.""
+
+To tłumaczenie stara się oddać ducha oryginalnego tekstu, zachowując jego nieformalny i żartobliwy ton. ""Gwiżdżący Wygwizdacz"" jest próbą przetłumaczenia przezwiska ""Whistling Whacker"", które może odnosić się do kogoś, kto gwiżdże lub ma przezwisko związane z gwizdaniem. W języku polskim nie ma dokładnego odpowiednika tego wyrażenia, więc tłumaczenie jest swobodną interpretacją.","Tłumaczenie tego zdania na język polski brzmi:
+
+""I najpokorniejsze pozdrowienia dla pana. Nazywam się Karl, ale wołają mnie Gwiżdżący Łobuz.""
+
+Warto zauważyć, że w tym tłumaczeniu:
+- ""And a most humble greeting to you, sir"" zostało przetłumaczone jako ""I najpokorniejsze pozdrowienia dla pana"", co oddaje ton pokory i szacunku.
+- Imię ""Karl"" pozostawiono bez zmian, ponieważ jest to imię międzynarodowe.
+- Przydomek ""Whistling Whacker"" został przetłumaczony jako ""Gwiżdżący Łobuz"". Wybór tego tłumaczenia odzwierciedla charakterystyczne cechy postaci sugerowane przez oryginalny przydomek.","I bardzo pokorne pozdrowienia dla pana. Nazywam się Karl, ale wołają mnie Gwiżdżący Łobuz.","""I serdeczne pozdrowienia dla pana, sir. Nazywam się Karl, ale wołają mnie też Gwiżdżący Wygwizdacz.""","I bardzo pokorne pozdrowienia dla pana. Nazywam się Karl, ale wołają mnie Gwiżdżący Łobuz.","Oto tłumaczenie podanego zdania na język polski:
+
+""I bardzo pokorne pozdrowienia dla pana. Nazywam się Karl, ale wołają mnie Gwiżdżący Łobuz.""
+
+To tłumaczenie zachowuje znaczenie oryginalnego tekstu, uwzględniając również żartobliwy pseudonim ""Whistling Whacker"", który został oddany jako ""Gwiżdżący Łobuz"".","""I bardzo pokorne pozdrowienia dla pana. Nazywam się Karl, ale wołają mnie Gwiżdżący Wygwizdacz.""",0.19177179087348753,0.003330819561259882,0.6300184726715088,0.5687063932418823,0.17902992041341192,0.002694212814112345,0.6205723881721497,0.5463027358055115,0.23759726173551424,0.0169861974906263,0.7122358083724976,0.6679127216339111,0.24874083375095515,0.015718877363021206,0.6935441493988037,0.6107450723648071,0.23759726173551424,0.0169861974906263,0.7122358083724976,0.6679127216339111,0.21635916063801178,0.005641822153183602,0.6522955894470215,0.5590083003044128,0.23761520755235785,0.0169861974906263,0.6980347633361816,0.6354045867919922
+Berserkers… But how'd they come to be here?,Berserkowie... Tylko skąd się tutaj wzięli?,"""Berserkerzy... Ale jak się tutaj znaleźli?""
+
+To tłumaczenie z języka angielskiego na polski. Warto zauważyć, że w oryginalnym zdaniu ""berserkers"" jest napisane małą literą, co sugeruje, że chodzi o ogólne określenie wojowników, a nie o konkretną grupę lub organizację. W języku polskim również używamy małej litery przy odniesieniu do berserkerów jako typu wojowników.","Tłumaczenie na język polski: ""Berserkerzy... Ale jak się tutaj znaleźli?""
+
+To zdanie wydaje się pochodzić z dialogu lub narracji, w której ktoś wyraża zdziwienie lub zastanawia się nad obecnością berserkerów w określonym miejscu lub sytuacji. Berserkerzy byli wojownikami skandynawskimi, którzy walczyli w stanie ekstremalnego gniewu i furii, co czyniło ich niezwykle groźnymi przeciwnikami. Ich obecność mogła być nieoczekiwana lub trudna do wyjaśnienia w kontekście danej opowieści lub historycznej sytuacji.",Berserkowie... Ale jak się tutaj znaleźli?,"""Berserkowie... Ale jak się tu znaleźli?""","""Berserkerzy... Ale jak się tu znaleźli?""","""Berserkowie... Ale jak się tutaj znaleźli?""
+
+To tłumaczenie oddaje sens oryginalnego zdania, zachowując jego strukturę i intonację. W języku polskim często używa się wielokropków, aby wyrazić pytanie lub wątpliwość, co jest odpowiednikiem angielskiego ""But how'd they come to be here?"".",Berserkowie... Ale jak się tutaj znaleźli?,0.25098156263937027,0.00730386353889659,0.6514922380447388,0.663794219493866,0.2167580271653137,0.005572028299757559,0.6347086429595947,0.7630336880683899,0.5167356445065632,0.09554427922043669,0.9160625338554382,0.95085209608078,0.4418191142814949,0.040824829046386304,0.8663418889045715,0.9385911822319031,0.27881210850812044,0.040824829046386304,0.8351772427558899,0.9125932455062866,0.36533325856908655,0.009771922616581639,0.6699627041816711,0.6173521280288696,0.5167356445065632,0.09554427922043669,0.9160625338554382,0.95085209608078
+Dammit. Probably marked one of the villagers.,Zraza. Pewnie naznaczył kogoś w wiosce.,"""Cholera. Prawdopodobnie oznaczyłem jednego z mieszkańców wioski.""
+
+To tłumaczenie odzwierciedla znaczenie oryginalnego zdania, które wydaje się wyrażać frustrację lub niezadowolenie z powodu przypadkowego oznaczenia kogoś w wiosce. Słowo ""dammit"" jest potoczne i może być tłumaczone jako ""cholera"", co oddaje emocjonalny ton wypowiedzi.","Tłumaczenie na język polski:
+
+""Cholera. Prawdopodobnie oznaczył jednego z mieszkańców wioski.""
+
+To tłumaczenie oddaje sens oryginalnej wypowiedzi, choć należy pamiętać, że może istnieć kilka innych możliwych interpretacji kontekstu i intencji mówiącego.",Cholera. Prawdopodobnie oznaczył jednego z mieszkańców wioski.,"""Cholera. Prawdopodobnie oznaczyłem jednego z mieszkańców wioski.""",Cholera. Prawdopodobnie oznaczył jednego z mieszkańców wsi.,"Oto tłumaczenie podanego zdania na język polski:
+
+""Cholera. Prawdopodobnie oznaczył jednego z mieszkańców wioski.""
+
+To tłumaczenie oddaje znaczenie oryginalnego zdania, choć należy pamiętać, że niektóre wyrażenia idiomatyczne mogą być trudne do dokładnego przełożenia między językami. W tym przypadku ""Dammit"" to potoczne wyrażenie używane jako przekleństwo lub okazujące frustrację, a ""Probably marked one of the villagers"" sugeruje, że ktoś (prawdopodobnie myśliwy lub badacz) oznaczył jedną osobę z wioski w jakimś celu.",Cholera. Prawdopodobnie oznaczył jednego z mieszkańców wsi.,0.3406572668424408,0.021739441181346644,0.6702048182487488,0.57191401720047,0.25605135542273433,0.0,0.6503065228462219,0.5488293766975403,0.33332834567832587,0.0,0.7411806583404541,0.5746474266052246,0.32955573958222767,0.0,0.7342358827590942,0.5513162016868591,0.29178279467550905,0.0,0.71797114610672,0.5598477125167847,0.17634827448490098,0.0025963742211370646,0.6346286535263062,0.6159180998802185,0.29178279467550905,0.0,0.71797114610672,0.5598477125167847
+You've seen Udalryk. It won't be an easy fight.,Widziałaś Udalryka. To nie będzie łatwa walka.,"""Widziałeś Udalryka. To nie będzie łatwa walka.""","""Widziałeś Udalryka. To nie będzie łatwa walka.""",Widziałeś Udalryka. To nie będzie łatwa walka.,"""Widziałeś Udalryka. To nie będzie łatwa walka.""",Widziałeś Udalryka. To nie będzie łatwa walka.,"Oto tłumaczenie podanego zdania na język polski:
+
+""Widziałeś Udalryka. To nie będzie łatwa walka.""
+
+To zdanie zostało przetłumaczone dosłownie, zachowując oryginalną strukturę i znaczenie. Warto zauważyć, że w języku polskim często używamy czasu przyszłego ""będzie"" zamiast bezokolicznika ""być"", jak to jest w języku angielskim. Ponadto, słowo ""Udalryk"" pozostało niezmienione, ponieważ wydaje się być imieniem własnym lub nazwą własną, która nie ma odpowiednika w języku polskim.",Widziałeś Udalryka. To nie będzie łatwa walka.,0.8995951954935507,0.6147881529512643,0.9339443445205688,0.9500725865364075,0.8995951954935507,0.6147881529512643,0.9339443445205688,0.9500725865364075,0.9043908353118879,0.8091067115702212,0.9891095757484436,0.9662128686904907,0.8995951954935507,0.6147881529512643,0.9339443445205688,0.9500725269317627,0.9043908353118879,0.8091067115702212,0.9891095757484436,0.9662128686904907,0.4574688739256027,0.052130143343343115,0.6915638446807861,0.5643712878227234,0.9043908353118879,0.8091067115702212,0.9891095757484436,0.9662128686904907
+"Clouds obscure the sky and turmoil grips the sea. Defend us, Great Mother.","Niebo jest pochmurne, a morze wzburzone. Matko, stań w naszej obronie.","""Chmury zasłaniają niebo i burza szaleje na morzu. Chroń nas, Wielka Matko.""
+
+To tłumaczenie oddaje znaczenie oryginalnego zdania w języku angielskim, używając odpowiednich słów i struktur gramatycznych w języku polskim. Zdanie to wydaje się być częścią jakiegoś rytuału lub modlitwy, wyrażającej prośbę o ochronę w obliczu trudności i niebezpieczeństwa.","Tłumaczenie tego zdania na język polski brzmi:
+
+""Chmury zasnuwają niebo i burza ogarnia morze. Chroń nas, Wielka Matko.""
+
+To zdanie wydaje się być fragmentem modlitwy lub wezwania do jakiejś wyższej siły, prawdopodobnie bogini lub matki natury, w obliczu nadchodzącej burzy lub innego niebezpieczeństwa.","Chmury zasnuwają niebo, a burza szaleje na morzu. Chroń nas, Wielka Matko.","""Chmury zasłaniają niebo i burza szaleje na morzu. Chroń nas, Wielka Matko.""","Chmury przesłaniają niebo, a burza szaleje na morzu. Chroń nas, Wielka Matko.","Oto tłumaczenie podanego zdania na język polski:
+
+""Chmury zasnuwają niebo, a burza ogarnia morze. Chroń nas, Wielka Matko.""
+
+To zdanie wydaje się być fragmentem poezji lub tekstu o charakterze religijnym lub mitologicznym. Odnosi się ono do obrazów natury w stanie chaosu i prosi o ochronę od wyższej siły, określanej jako ""Wielka Matka"". Taki zwrot może nawiązywać do różnych tradycji matriarchalnych lub panteistycznych, gdzie przyroda jest postrzegana jako manifestacja boskości.","Chmury zasnuwają niebo, a burza szaleje na morzu. Chroń nas, Wielka Matko.",0.24304644764212732,0.0037447837904003834,0.6544731855392456,0.7042006850242615,0.27658964733445307,0.004286566854494811,0.6608034372329712,0.7464306354522705,0.27495433884527537,0.017033186037639283,0.7513986229896545,0.8519673347473145,0.26291955617549784,0.0,0.7262827754020691,0.8616110682487488,0.2847595664357794,0.017033186037639283,0.7495821714401245,0.8734683394432068,0.26746760655657614,0.003467656961323781,0.6438599228858948,0.7062941193580627,0.27495433884527537,0.017033186037639283,0.7513986229896545,0.8519673347473145
+Water Hag,Baba wodna,"""Wodna Wiedźma""
+
+To tłumaczenie odnosi się do angielskiego wyrażenia ""Water Hag"", które w języku polskim można przetłumaczyć jako ""Wodna Wiedźma"". Jest to nazwa nadana istotom z mitologii i folkloru, często przedstawianym jako złośliwe stworzenia zamieszkujące wody.","Tłumaczenie wyrażenia ""Water Hag"" (dosłownie ""Wodna Wiedźma"") na język polski to ""Wodnica"".
+
+Wodnica to postać z mitologii słowiańskiej, która jest uważana za demoniczne stworzenie zamieszkujące wody. Często przedstawiana jako piękna kobieta o długich włosach i zielonych oczach, która zwabia ludzi do wody, aby ich utopić lub uwieść. W niektórych opowieściach wodnice mogą być również przyjazne i pomagać rybakom czy żeglarzom.
+
+Warto zauważyć, że ""Wodnica"" to tylko jedno z możliwych tłumaczeń tego terminu, a samo pojęcie może mieć różne odpowiedniki w innych językach i kulturach.",Wodna wiedźma,Wodna Wiedźma,Wodna Wiedźma,"Oto tłumaczenie zdania ""Water Hag"" na język polski:
+
+Wiedźma Wodna
+
+To wyrażenie odnosi się do postaci z mitologii słowiańskiej, która jest demonem wodnym lub czarownicą związaną ze środowiskiem wodnym. W niektórych opowieściach ludowych wiedźmy wodne mogły być przedstawiane jako istoty porywające dzieci lub topiące ludzi.",Wodna Wiedźma,0.08831221912999597,0.0,0.5991261601448059,0.5519216656684875,0.0584455194936139,0.0,0.5738645792007446,0.6258264183998108,0.25996529377263977,0.0,0.7766247987747192,0.6651400327682495,0.22196382553409424,0.0,0.7730019092559814,0.6041768789291382,0.22196382553409424,0.0,0.7730019092559814,0.6041768789291382,0.0858989250081517,0.0,0.6008655428886414,0.5891209244728088,0.22196382553409424,0.0,0.7730019092559814,0.6041768789291382
+What is it? That a name?,O co chodzi? To jakieś imię?,"""Co to jest? Imię?""
+
+To tłumaczenie zdania ""What is it? That a name?"" z języka angielskiego na polski. Warto zauważyć, że w oryginalnym zdaniu brakuje przecinka przed słowem ""That"", co mogło wprowadzić pewne zamieszanie w tłumaczeniu. Poprawniejsza forma w języku angielskim powinna być: ""What is it? Is that a name?"" lub po prostu ""Is that a name?"" bez pytania o tożsamość obiektu.","Tłumaczenie tego zdania na język polski brzmi: ""Co to jest? Imię?""
+
+To zdanie w języku angielskim może być używane w różnych kontekstach, na przykład gdy ktoś pyta o imię osoby lub nazwę czegoś. W zależności od sytuacji, może to być pytanie o przedstawienie się, nazwę miejsca, obiektu lub innej rzeczy. W języku polskim, podobnie jak w angielskim, takie pytanie może być stosowane w celu uzyskania informacji.",Co to jest? Czy to imię?,Co to jest? Imię?,Co to jest? To imię?,"Oto tłumaczenie podanego zdania na język polski:
+
+""Co to jest? Czy to imię?""
+
+To zdanie w języku angielskim wyraża pytanie o to, czy dana rzecz lub słowo jest imieniem. W języku polskim można je oddać w ten sposób, zachowując sens oryginalnego pytania.",Co to jest? Czy to imię?,0.12798736172372718,0.003496039269903171,0.5994784832000732,0.6093136668205261,0.13194357193742537,0.0027574366655649983,0.6156625747680664,0.6648267507553101,0.1773150429928043,0.040824829046386304,0.8550085425376892,0.936206042766571,0.12477863120412708,0.0,0.8208075761795044,0.9370453357696533,0.20367852938409223,0.05231223689135342,0.8596681952476501,0.9170628786087036,0.16320023860513824,0.004392487796991638,0.634002149105072,0.6795823574066162,0.1773150429928043,0.040824829046386304,0.8550085425376892,0.936206042766571
+It's not drowners this time. It's Cerys. I'm looking for her.,"Tym razem nie chodzi o utopce, tylko o Cerys. Szukam jej.","""To nie są nurkowie tym razem. To Cerys. Szukam jej.""
+
+Ta wypowiedź wydaje się być fragmentem dialogu lub narracji, gdzie osoba mówiąca wyjaśnia, że sytuacja, o której mowa, nie dotyczy nurków (prawdopodobnie nurków policyjnych lub ratowników), ale kogoś o imieniu Cerys. Osoba ta poszukuje tej osoby, co sugeruje, że Cerys może być zaginiona lub potrzebna jest pomoc w jej znalezieniu.","Tłumaczenie tego zdania na język polski brzmi:
+
+""To nie są nurkowie tym razem. To Cerys. Szukam jej.""
+
+Wyjaśnienie:
+- ""It's not divers this time"" zostało przetłumaczone jako ""To nie są nurkowie tym razem"".
+- ""Cerys"" pozostaje bez zmian, ponieważ jest to imię własne.
+- ""I'm looking for her"" zostało przetłumaczone jako ""Szukam jej"".
+
+Zdanie to wyraża poszukiwanie osoby o imieniu Cerys przez mówiącego, który nie jest nurkiem (prawdopodobnie w kontekście jakiejś akcji ratunkowej lub poszukiwań).",To nie są nurkowie tym razem. To Cerys. Szukam jej.,"""To nie są nurkowie tym razem. To Cerys. Szukam jej.""",To nie są nurkowie tym razem. To Cerys. Szukam jej.,To nie są nurkowie tym razem. To Cerys. Szukam jej.,To nie są nurkowie tym razem. To Cerys. Szukam jej.,0.3442785965323565,0.008084738425677602,0.6933508515357971,0.779984712600708,0.29736819687424204,0.006085242824332006,0.6180044412612915,0.6481631994247437,0.48727332418417735,0.10156297514737136,0.8104369640350342,0.8439159393310547,0.48508818401151754,0.04469338322542863,0.7727430462837219,0.8468332886695862,0.48727332418417735,0.10156297514737136,0.8104369640350342,0.8439159393310547,0.48727332418417735,0.10156297514737136,0.8104369640350342,0.8439159393310547,0.48727332418417735,0.10156297514737136,0.8104369640350342,0.8439159393310547
+"Hm, now that you mentioned him… just noticed Hjalmar's not here.",Skoro już się zgadało... Nie widzę wśród was Hjalmara.,"""Hm, właśnie kiedy o nim wspomniałeś... zauważyłem, że Hjalmara nie ma.""
+
+To tłumaczenie oddaje oryginalne zdanie po norwesku na język polski, zachowując jego znaczenie i strukturę. Warto zauważyć, że w języku polskim często używa się podobnych konstrukcji myślowych, gdy ludzie zwracają uwagę na czyjąś nieobecność lub coś, co właśnie zostało wspomniane.","""Hm, skoro już o nim wspomniałeś... Zauważyłem właśnie, że Hjalmara tu nie ma.""
+
+To tłumaczenie zachowuje ogólny ton i kontekst oryginalnego zdania. W języku polskim często używamy podobnych zwrotów jak ""hm"", ""skoro już o tym mowa"" lub ""zauważyłem właśnie"", aby wyrazić podobne myśli lub reakcje.","Hm, skoro o nim wspomniałeś... Właśnie zauważyłem, że Hjalmara tu nie ma.","""Hm, właśnie zauważyłem... Hjalmar chyba też tu nie jest.""","Hm, skoro o nim wspomniałeś... właśnie zauważyłem, że Hjalmara tu nie ma.","Oto tłumaczenie tego zdania na język polski:
+
+""Hm, no cóż, skoro o nim wspomniałeś... Właśnie zauważyłem, że Hjalmara tu nie ma.""
+
+To tłumaczenie stara się oddać nie tylko dosłowne znaczenie oryginalnego tekstu, ale także jego ton i kontekst. Zwróć uwagę na użycie słowa ""hm"", które w języku angielskim często wyraża zamyślenie lub lekkie zaskoczenie, oraz na to, jak tłumaczenie oddaje moment nagłego zorientowania się przez mówiącego, że kogoś brakuje.","Hm, no skoro o nim wspomniałeś... właśnie zauważyłem, że Hjalmara tu nie ma.",0.21197354375703267,0.003593400513595791,0.6343844532966614,0.6607714295387268,0.2531019343390616,0.004089349842971759,0.6281801462173462,0.6862779855728149,0.2551146956535609,0.0,0.7394843697547913,0.8141870498657227,0.19142096639708248,0.0,0.7278915643692017,0.7906678915023804,0.25861609621378495,0.0,0.7299388647079468,0.8092528581619263,0.19892585746909466,0.0026348495048119725,0.6182024478912354,0.7003427147865295,0.2575050322523547,0.0,0.7280344367027283,0.8085341453552246
+"Sorry, not interested.",Nie jestem zainteresowany.,"""Przepraszam, nie jestem zainteresowany.""
+
+To tłumaczenie brzmi naturalnie w języku polskim i oddaje znaczenie oryginalnego angielskiego zdania. Warto jednak pamiętać, że w języku polskim często używa się bardziej uprzejmych form wyrażania odmowy, takich jak ""Dziękuję, ale nie skorzystam"" lub ""Niestety, nie jestem zainteresowany"".","Tłumaczenie tego angielskiego wyrażenia na język polski brzmi: ""Przepraszam, nie jestem zainteresowany.""
+
+To krótkie i bezpośrednie wyrażenie używane jest w sytuacjach, gdy ktoś chce grzecznie odmówić lub dać do zrozumienia, że nie ma ochoty angażować się w daną aktywność, rozmowę czy propozycję. Jest to uprzejma forma odrzucenia, która jednocześnie informuje drugą stronę o naszym stanowisku.","Przepraszam, nie jestem zainteresowany.","""Przepraszam, nie jestem zainteresowany.""","Przepraszam, nie jestem zainteresowany.","Przetłumaczone zdanie ""Sorry, not interested."" na język polski brzmi:
+
+""Przepraszam, nie jestem zainteresowany.""
+
+To krótkie wyrażenie jest często używane w języku angielskim jako uprzejma odmowa lub wyrażenie braku zainteresowania czymś. W języku polskim również można je stosować w podobnych sytuacjach, aby grzecznie poinformować rozmówcę o swoim braku zainteresowania daną propozycją czy tematem.","Przepraszam, nie jestem zainteresowany.",0.43646023575709963,0.004286566854494811,0.6888914108276367,0.6507427096366882,0.38542782148281024,0.003324612889947367,0.6756867170333862,0.6277876496315002,0.9025296934147594,0.16990442448471224,0.8980520367622375,0.940473735332489,0.8946079340075247,0.08034284189446518,0.8406234979629517,0.9061175584793091,0.9025296934147594,0.16990442448471224,0.8980520367622375,0.940473735332489,0.3804160896578563,0.003522208809549654,0.661410927772522,0.6301908493041992,0.9025296934147594,0.16990442448471224,0.8980520367622375,0.940473735332489
+He probably thought they'd take him someplace safe.,"Pewnie myślał, że zabiorą go w bezpieczne miejsce.","""Prawdopodobnie myślał, że zabiorą go w jakieś bezpieczne miejsce.""","Prawdopodobnie myślał, że zabiorą go w jakieś bezpieczne miejsce.","Prawdopodobnie myślał, że zabiorą go gdzieś w bezpieczne miejsce.","""Prawdopodobnie myślał, że zabiorą go w jakieś bezpieczne miejsce.""","Prawdopodobnie myślał, że zabiorą go gdzieś w bezpieczne miejsce.","Przetłumaczone zdanie na język polski brzmi:
+
+""Prawdopodobnie myślał, że zabiorą go gdzieś w bezpieczne miejsce.""
+
+To tłumaczenie oddaje znaczenie oryginalnego zdania w języku angielskim, zachowując jego sens i strukturę gramatyczną.","Prawdopodobnie myślał, że zabiorą go gdzieś, gdzie będzie bezpieczny.",0.8406360676476298,0.4671379777282001,0.8702287077903748,0.9489838480949402,0.8446429459122505,0.5133450480401704,0.9168291687965393,0.955787181854248,0.8446429459122505,0.43167001068522526,0.9272034764289856,0.9553807377815247,0.8406360676476298,0.4671379777282001,0.8702287077903748,0.9489838480949402,0.8446429459122505,0.43167001068522526,0.9272034764289856,0.9553807377815247,0.6306680337307745,0.09242725334244041,0.7454729676246643,0.7038281559944153,0.6185601462987161,0.2984745896009823,0.8455966114997864,0.9456427693367004
+What?,Co?,"""Co?""
+
+To tłumaczenie jest najbliższe znaczeniowo oryginalnemu wyrażeniu ""What?"" w języku angielskim, które zazwyczaj używane jest jako wykrzyknienie wyrażające zdziwienie, pytanie lub prośbę o powtórzenie. W języku polskim odpowiednikiem może być również ""Jak to?"", ""Co takiego?"" lub po prostu ""Co?"" w zależności od kontekstu.","Tłumaczenie wyrażenia ""What?"" na język polski to po prostu:
+
+""Co?""
+
+To jest powszechnie używane wyrażenie w języku angielskim, które służy do wyrażania zdziwienia, zaskoczenia lub prośby o powtórzenie czegoś. W języku polskim odpowiednikiem tego wyrażenia jest ""Co?"", które pełni podobną funkcję komunikacyjną.",Co?,"""Co?""",Co?,"Przetłumaczone zdanie ""What?"" na język polski brzmi:
+
+""Co?""
+
+To krótkie, jednowyrazowe pytanie wyraża zaskoczenie, niedowierzanie lub prośbę o powtórzenie. Jest często używane w codziennych rozmowach jako reakcja na coś nieoczekiwanego lub trudnego do zrozumienia.",Co?,0.032987269805957294,0.0,0.5621737241744995,0.5463613271713257,0.03482661698379367,0.0,0.5723657011985779,0.530966579914093,0.5,0.1778279410038923,0.9999998211860657,0.9946804642677307,0.4466540404040404,0.0,0.8630477786064148,0.9502445459365845,0.5,0.1778279410038923,0.9999998211860657,0.9946804642677307,0.04014353239401044,0.0,0.5572226047515869,0.5219425559043884,0.5,0.1778279410038923,0.9999998211860657,0.9946804642677307
+"I know you feel better, but you're yet too week to embark on a journey.","Wiem, że czujesz się lepiej, ale jesteś jeszcze zbyt słaba, żeby wyruszać w podróż.","""Wiem, że czujesz się lepiej, ale jesteś wciąż zbyt słaby, aby wyruszyć w podróż.""
+
+To tłumaczenie oddaje znaczenie oryginalnego zdania w języku angielskim. Warto zauważyć, że w języku polskim często używamy podobnych konstrukcji gramatycznych i struktur zdaniowych do wyrażenia tej samej myśli.","Tłumaczenie tego zdania na język polski brzmi:
+
+""Wiem, że czujesz się lepiej, ale nadal jesteś zbyt słaby/a, by wyruszyć w podróż.""
+
+To zdanie wyraża troskę i współczucie wobec osoby, która niedawno przeszła chorobę lub uraz. Mówiący sugeruje, że choć stan tej osoby się poprawił, to nie jest ona jeszcze gotowa do dłuższej podróży ze względu na swoją słabość fizyczną.","Wiem, że czujesz się lepiej, ale jesteś wciąż zbyt słaby, by wyruszyć w podróż.","""Wiem, że czujesz się lepiej, ale jesteś wciąż zbyt słaby, aby wyruszyć w podróż.""","Wiem, że czujesz się lepiej, ale jesteś jeszcze zbyt słaby, by wyruszyć w podróż.","Oto tłumaczenie tego zdania na język polski:
+
+""Wiem, że czujesz się lepiej, ale nadal jesteś zbyt słaby, by wyruszyć w podróż.""
+
+To zdanie wyraża troskę i współczucie wobec osoby, która niedawno odzyskała siły po chorobie lub urazie, ale nie jest jeszcze gotowa na dłuższą podróż.","Wiem, że czujesz się lepiej, ale jesteś jeszcze zbyt słaby, by wyruszyć w podróż.",0.5979529121530159,0.11561678083663278,0.7709643244743347,0.6399959921836853,0.5685064024805038,0.06668493248636376,0.7567009329795837,0.7427921295166016,0.7204039418220946,0.4913270548144421,0.952312707901001,0.9341533780097961,0.7195903121538788,0.3759663529467017,0.9165566563606262,0.9324413537979126,0.8553879059688807,0.6450001140844255,0.9705579876899719,0.936885416507721,0.6112992433870799,0.09051219069092384,0.7902820706367493,0.7967537641525269,0.8553879059688807,0.6450001140844255,0.9705579876899719,0.936885416507721
+Wouldn't mind a look at your stock.,Chętnie się rozejrzę.,"""Chętnie rzuciłbym okiem na twoje akcje.""
+
+To tłumaczenie odzwierciedla potoczny, nieformalny charakter oryginalnego zdania w języku angielskim. W kontekście biznesowym lub finansowym, osoba mówiąca prawdopodobnie wyraża zainteresowanie przeglądem portfela inwestycyjnego rozmówcy lub chęć uzyskania informacji o jego aktywach.","Tłumaczenie tego angielskiego wyrażenia na język polski brzmi: ""Nie miałbym nic przeciwko, żeby rzucić okiem na twój towar.""
+
+Warto zauważyć, że w tym kontekście słowo ""stock"" może odnosić się do różnych rzeczy, w zależności od sytuacji. Może chodzić o:
+
+1. Towar - np. produkty w sklepie lub magazynie
+2. Akcje - w kontekście giełdowym
+3. Zapasy - np. w firmie lub hurtowni
+4. Inwentarz - np. w muzeum lub kolekcji
+
+Dlatego ważne jest, aby zrozumieć kontekst, w jakim to wyrażenie zostało użyte, aby dokładnie określić, co osoba ma na myśli.",Nie miałbym nic przeciwko rzuceniu okiem na twój stan magazynowy.,"""Chętnie rzuciłbym okiem na twoje akcje.""",Nie miałbym nic przeciwko rzuceniu okiem na twój stan magazynowy.,"Oto tłumaczenie tego zdania na język polski:
+
+""Nie miałbym nic przeciwko rzuceniu okiem na twoje akcje.""
+
+To zdanie jest potoczne i może być używane w sytuacji, gdy ktoś chce zobaczyć portfel inwestycyjny lub stan posiadanych akcji przez inną osobę. Oczywiście, kontekst i intencja mogą się nieco różnić w zależności od sytuacji, ale to tłumaczenie oddaje ogólne znaczenie oryginalnego zdania.",Nie miałbym nic przeciwko rzuceniu okiem na twój stan magazynowy.,0.16784731235272557,0.0,0.6410270929336548,0.6641079187393188,0.08399564573799832,0.002009515636041994,0.5959200263023376,0.5762264728546143,0.13351198089012506,0.0,0.6995766162872314,0.7613865733146667,0.3053426808263526,0.0,0.7188498377799988,0.8320329785346985,0.13351198089012506,0.0,0.6995766162872314,0.7613865733146667,0.10014905349833585,0.0030932447039559207,0.6120279431343079,0.6112140417098999,0.13351198089012506,0.0,0.6995766162872314,0.7613865733146667
+Silence. 'Tis her decision.,Milczcie. To jej decyzja.,"""Cisza. To jej decyzja.""
+
+To zdanie w języku angielskim zostało przetłumaczone na język polski jako ""Cisza. To jej decyzja."" W tym kontekście, fraza ta wydaje się wyrażać akceptację lub zrozumienie dla czyjejś decyzji, być może w sytuacji, gdy ktoś nie chce o czymś rozmawiać lub potrzebuje czasu na zastanowienie się.","Tłumaczenie tego zdania na język polski brzmi: ""Cisza. To jej decyzja.""
+
+Warto zauważyć, że w oryginalnym tekście angielskim użyto archaicznej formy językowej, co może wpływać na interpretację i tłumaczenie. Współczesne tłumaczenie mogłoby brzmieć: ""Cisza. To jest jej decyzja."" lub ""Cisza. Ona podjęła decyzję.""
+
+Dodatkowo, fraza ""Silence"" może być rozumiana dosłownie jako ""cisza"", ale także metaforycznie jako ""brak słów"" lub ""milczenie"". W kontekście tego zdania, wydaje się, że chodzi o milczenie jako reakcję na czyjąś decyzję lub sytuację.",Cisza. To jej decyzja.,"""Cisza. To jej decyzja.""",Cisza. To jej decyzja.,"Cisza. To jej decyzja.
+
+To tłumaczenie zachowuje sens oryginalnego zdania w języku angielskim, oddając jego nastrój i znaczenie w języku polskim.",Cisza. To jej decyzja.,0.29939705104994285,0.00775588219660462,0.6560729742050171,0.7397953271865845,0.22452583842753868,0.004981477508091103,0.6361808776855469,0.674139142036438,0.6111021282779754,0.3976353643835253,0.9169967174530029,0.9483062624931335,0.6048054051077855,0.16990442448471224,0.8654241561889648,0.9484958052635193,0.6111021282779754,0.3976353643835253,0.9169967174530029,0.9483062624931335,0.43208312466275106,0.04520838194719227,0.7344428896903992,0.6024486422538757,0.6111021282779754,0.3976353643835253,0.9169967174530029,0.9483062624931335
+"The witcher known as the White Wolf, I know. They tell stories about you every day 'round here. Lookin' for an open seat at the table?","Wiedźmin zwany Białym Wilkiem, wiem. Już zdążyli cię tu obgadać. Szukasz wolnego miejsca przy stole?","""Wiedźmin znany jako Biały Wilk? Słyszałem o tobie codziennie w tych stronach. Szukasz wolnego miejsca przy stole?""
+
+To tłumaczenie z języka angielskiego na polski oddaje sens oryginalnej wypowiedzi, uwzględniając kontekst i styl mowy potocznej. Warto zauważyć, że w oryginalnym tekście użyto gwary, co zostało odzwierciedlone w tłumaczeniu poprzez nieformalny ton i słownictwo.","Tłumaczenie na język polski:
+
+""Wiedźmin znany jako Biały Wilk? Wiem. Opowiadają o tobie historie w całej okolicy. Szukasz wolnego miejsca przy stole?""
+
+To tłumaczenie zachowuje sens oryginalnego zdania i oddaje jego ton oraz kontekst.",Wiedźmin znany jako Biały Wilk? Wiem. Opowiadają o tobie historie w całej okolicy. Szukasz wolnego miejsca przy stole?,"""Wiedźmin znany jako Biały Wilk, tak? Słyszałem o tobie codziennie w tych stronach. Szukasz wolnego miejsca przy stole?""","""Wiedźmin znany jako Biały Wilk? Wiem. Opowiadają o tobie historie w całej okolicy. Szukasz wolnego miejsca przy stole?""","""Wiedźmina zwanego Białym Wilkiem znam. Opowiadają o tobie historie każdego dnia w okolicy. Szukasz wolnego miejsca przy stole?""","""Wiedźmin znany jako Biały Wilk? Wiem. Tutaj opowiadają o tobie historie każdego dnia. Szukasz wolnego miejsca przy stole?""",0.4564180983175336,0.043839733901574855,0.6698129773139954,0.6649792194366455,0.5104266923419288,0.06814385179012217,0.7238527536392212,0.7246227860450745,0.5498325356462201,0.21042990347620458,0.7956424951553345,0.785711944103241,0.5215664987017338,0.13445273575332964,0.8041456937789917,0.8162199854850769,0.5485485818831463,0.13445273575332964,0.8079012632369995,0.830609142780304,0.605784479248912,0.14216645907653844,0.8171476721763611,0.8015151023864746,0.5408644577454186,0.13445273575332964,0.8143304586410522,0.8085960745811462
+"She's always liked competin' with me. I've always won in the end so far, though.",Zawsze lubiła się ze mną ścigać. Ale dotąd to zawsze ja wygrywałem.,"Oto tłumaczenie tego zdania na język polski:
+
+""Zawsze lubiła ze mną rywalizować. Do tej pory zawsze wygrywałem.""
+
+To zdanie sugeruje, że osoba mówiąca często konkurowała z kimś innym (prawdopodobnie z kobietą) i zwykle wychodziła z tych konfrontacji jako zwycięzca.","Oto tłumaczenie na język polski:
+
+""Zawsze lubiła ze mną rywalizować. Do tej pory zawsze wygrywałem.""
+
+To zdanie można rozłożyć na części:
+- ""Zawsze lubiła ze mną rywalizować"" - oznacza, że osoba ta czerpała przyjemność z konkurowania z mówiącym.
+- ""Do tej pory zawsze wygrywałem"" - wskazuje, że we wszystkich dotychczasowych sytuacjach rywalizacji, mówiący był zwycięzcą.
+
+Warto zauważyć, że to zdanie zawiera pewną nutę samozadowolenia i dumy ze swoich sukcesów w rywalizacji. Jednocześnie może być postrzegane jako lekko przechwałka lub żartobliwe stwierdzenie.",Ona zawsze lubiła ze mną rywalizować. Do tej pory zawsze wygrywałem na końcu.,Ona zawsze lubiła ze mną rywalizować. Za każdym razem w końcu wygrywałem.,Ona zawsze lubiła ze mną rywalizować. Do tej pory zawsze wygrywałem na koniec.,"Oto tłumaczenie tego zdania na język polski:
+
+""Zawsze lubiła ze mną rywalizować. Do tej pory zawsze wygrywałem na końcu.""
+
+To zdanie można również przeformułować w bardziej naturalny sposób po polsku:
+
+""Zawsze lubiła ze mną konkurować, ale jak dotąd zawsze udawało mi się wygrać.""
+
+lub
+
+""Zawsze chciała ze mną rywalizować, ale za każdym razem to ja wychodziłem zwycięsko.""",Ona zawsze lubiła ze mną rywalizować. Jak dotąd zawsze wygrywałem na końcu.,0.4239184556371032,0.011931001236437418,0.7351050972938538,0.758148193359375,0.32757899809771196,0.005948648753224193,0.6708405017852783,0.7141541838645935,0.45390237079957757,0.039073802494525016,0.8556227087974548,0.9255765080451965,0.4355239292480215,0.045293761707938834,0.8465884327888489,0.9271251559257507,0.45600299390435106,0.039073802494525016,0.8532775640487671,0.9204385280609131,0.39076707117246134,0.009584460320418755,0.7430129647254944,0.7796605825424194,0.4821131530283778,0.045293761707938834,0.8685081005096436,0.927095353603363
+"Lost to a witcher, Sparrowhawk. That'd likely happen to any of us.","Przegrałaś z wiedźminem, Przepiórko. Każdy z nas by przegrał.","""Zgubić się wiedźminowi, Sokolnikowi? To mogło spotkać każdego z nas.""
+
+To tłumaczenie oddaje sens oryginalnego zdania, które wydaje się być częścią dialogu lub narracji opisującej sytuację, w której ktoś (lub grupa osób) miał do czynienia z wiedźminem o imieniu Sokolnik i uważa, że podobna przygoda mogła spotkać również innych.","Tłumaczenie tego zdania na język polski brzmi:
+
+""Zagubiony dla wiedźmina, krogulec. To mogło spotkać każdego z nas.""
+
+To zdanie pochodzi z serii ""Wiedźmin"" autorstwa Andrzeja Sapkowskiego i jest częścią dialogu między postaciami z tej sagi. Warto zauważyć, że w oryginalnym tekście użyto archaicznego słownictwa i stylizacji językowej charakterystycznej dla świata przedstawionego w książkach.","Stracony dla wiedźmina, krogulec. To mogłoby się przytrafić każdemu z nas.","""Zgubiony dla czarodziejki, Sokolik. To mogłoby się przytrafić każdemu z nas.""","Stracony dla wiedźmina, krogulec. To mogłoby się przytrafić każdemu z nas.","Przetłumaczone zdanie na język polski brzmi:
+
+""Stracony dla wiedźmina, Sokół. To mogło spotkać każdego z nas.""
+
+Warto zauważyć, że ""Sparrowhawk"" (sokół wędrowny) jest imieniem postaci z serii książek Andrzeja Sapkowskiego o Wiedźminie. W tłumaczeniu na polski użyto bardziej znanego odpowiednika tego imienia - ""Sokół"".","Stracony dla wiedźmina, Sokół. To mogło spotkać każdego z nas.",0.25489134594784485,0.004453323527690996,0.6476413011550903,0.5752473473548889,0.21100016079366435,0.00410726430147258,0.6314830183982849,0.5162826776504517,0.2516943036306483,0.018850319022747353,0.7414495348930359,0.4490680396556854,0.16646768331799996,0.018850319022747353,0.6955707669258118,0.5200003385543823,0.2516943036306483,0.018850319022747353,0.7414495348930359,0.4490680396556854,0.2294928359801165,0.004977587797754485,0.6252817511558533,0.5125762224197388,0.22528438153200323,0.021105340631872645,0.7406792640686035,0.5097122192382812
+"Wouldn't mind waiting if I had a free year or two. Sadly, I'm in a hurry.","Gdybym miał wolny rok czy dwa, mógłbym poczekać. Ale niestety się spieszę.","""Chętnie bym poczekał, gdybym miał wolny rok czy dwa. Niestety, jestem w pośpiechu.""
+
+To tłumaczenie oddaje sens oryginalnego zdania, zachowując jego ton i znaczenie. W języku polskim również używamy podobnych wyrażeń, aby wyrazić frustrację z powodu braku czasu lub konieczności szybkiego działania.","Tłumaczenie tego zdania na język polski brzmi:
+
+""Nie miałbym nic przeciwko poczekaniu, gdybym miał wolny rok lub dwa. Niestety, jestem w pośpiechu.""
+
+To zdanie wyraża chęć zrobienia czegoś w przyszłości, ale jednocześnie podkreśla, że osoba mówiąca nie ma wystarczająco dużo czasu i musi się spieszyć.","Nie miałbym nic przeciwko czekaniu, gdybym miał wolny rok lub dwa. Niestety, jestem w pośpiechu.","""Chętnie bym poczekał, gdybym miał wolny rok lub dwa. Niestety, jestem w pośpiechu.""","Nie miałbym nic przeciwko poczekaniu, gdybym miał wolny rok lub dwa. Niestety, jestem w pośpiechu.","Oto tłumaczenie tego zdania na język polski:
+
+""Nie miałbym nic przeciwko poczekaniu, gdybym miał wolny rok lub dwa. Niestety, jestem w pośpiechu.""
+
+To zdanie wyraża chęć zrobienia czegoś bez pośpiechu, ale jednocześnie świadomość, że nie ma na to czasu i trzeba się spieszyć.","Nie miałbym nic przeciwko poczekaniu, gdybym miał wolny rok lub dwa. Niestety, jestem w pośpiechu.",0.47011380595348085,0.05467180016810232,0.728493332862854,0.7563821077346802,0.46066054079670576,0.021748372491049325,0.7344111800193787,0.7676126956939697,0.4570362621629011,0.06541868941754436,0.8250734806060791,0.9294496774673462,0.5031387488638291,0.0768968397262906,0.8142964243888855,0.9225780963897705,0.46641701853660306,0.06541868941754436,0.8340674042701721,0.9331781268119812,0.4664220293937769,0.022797230914240133,0.7442614436149597,0.7811066508293152,0.46641701853660306,0.06541868941754436,0.8340674042701721,0.9331781268119812
+"Why not? 'Cause I don't shriek threats and warn ye of your death? Well, that's simple enough - plain bored o' that.","Bo co? Bo nie wykrzykuję gróźb i nie straszę cię śmiercią? Cóż, zwyczajnie mi się znudziło.","""Dlaczego nie? Bo nie wrzeszczę gróźb i nie ostrzegam cię przed śmiercią? Cóż, to jest proste - po prostu nudzi mnie to.""
+
+To tłumaczenie oddaje sens oryginalnego cytatu, zachowując jego bezpośredni ton i lekko sarkastyczny charakter. Warto zauważyć, że w języku polskim użyto bardziej współczesnej formy językowej, aby lepiej oddać znaczenie oryginału.","Tłumaczenie tego zdania na język polski brzmi:
+
+""Dlaczego nie? Bo nie wrzeszczę gróźb i nie ostrzegam cię przed śmiercią? No cóż, to proste - po prostu nudzi mnie to.""
+
+To zdanie jest fragmentem z utworu ""The Waste Land"" T.S. Eliota, który został przetłumaczony na język polski przez Jerzego Jarniewicza.","Dlaczego nie? Bo nie wrzeszczę gróźb i nie ostrzegam cię przed śmiercią? No cóż, to proste - po prostu jestem tym znudzony.","""Dlaczego nie? Bo nie krzyczę gróźb i nie ostrzegam cię przed śmiercią? Cóż, to proste - po prostu nudzi mnie to.""","Dlaczego nie? Bo nie wrzeszczę gróźb i nie ostrzegam cię przed śmiercią? No cóż, to proste - po prostu nudzi mnie to.","Dlaczego nie? Bo nie wrzeszczę gróźb i nie ostrzegam cię przed śmiercią? No cóż, to jest proste - po prostu nudzi mnie to.
+
+To tłumaczenie oddaje sens oryginalnego cytatu z języka angielskiego, używając potocznego języka polskiego, aby zachować charakter wypowiedzi.","Dlaczego nie? Bo nie wrzeszczę gróźb i nie ostrzegam cię przed śmiercią? No cóż, to proste - po prostu nudzi mnie to.",0.38690327165912636,0.026491258687377152,0.7098897695541382,0.6825322508811951,0.36449891539071183,0.02535021061685972,0.7044519186019897,0.6476898789405823,0.3871728893433495,0.05880962777751932,0.8325018882751465,0.8803873658180237,0.4247297153401853,0.06870188378808782,0.8023006319999695,0.8900197744369507,0.38371841096066045,0.05880962777751932,0.8146466016769409,0.8877229690551758,0.37217285805842154,0.03128076343943832,0.7328880429267883,0.7147484421730042,0.38371841096066045,0.05880962777751932,0.8146466016769409,0.8877229690551758
+Remember the wild men I sparred with? The ones we called Vildkaarls?,"Pamiętasz tych osiłków, z którymi się biłem na pięści? Tych, co nazywają vildkaarlami?","""Pamiętasz dzikich ludzi, z którymi się mierzyłem? Tych, których nazywaliśmy Vildkaarls?""
+
+W tym tłumaczeniu zachowano oryginalną wymowę imienia ""Vildkaarls"", ponieważ jest to prawdopodobnie nazwa własna lub przezwisko. Jeśli jednak chcesz, aby brzmiało bardziej naturalnie po polsku, możesz rozważyć zapisanie go jako ""Dzikusy"" lub inne odpowiednie określenie.","Tłumaczenie tego zdania na język polski brzmi:
+
+""Pamiętasz dzikich mężczyzn, z którymi się biłem? Tych, których nazywaliśmy Vildkaarls?""
+
+Warto zauważyć, że ""Vildkaarls"" to prawdopodobnie nazwa własna lub określenie używane w kontekście kulturowym lub historycznym. W języku polskim nie ma bezpośredniego odpowiednika tej nazwy, więc pozostawiamy ją w oryginalnej formie.","Pamiętasz dzikich mężczyzn, z którymi się siłowałem? Tych, których nazywaliśmy Vildkaarls?","""Pamiętasz dzikich ludzi, z którymi się mierzyłem? Tych, których nazywaliśmy Vildkaarls?""","Pamiętasz dzikich mężczyzn, z którymi się siłowałem? Tych, których nazywaliśmy Vildkaarls?","Oto tłumaczenie tego zdania na język polski:
+
+""Pamiętasz dzikich mężczyzn, z którymi się biłem? Tych, których nazywaliśmy Wilczymi Królami?""
+
+Warto zauważyć, że w tym kontekście ""dziki"" może oznaczać nie tylko ""nieokiełznany"", ale także ""prymitywny"" lub ""z innej kultury"". Słowo ""Vildkaarls"" jest prawdopodobnie neologizmem utworzonym przez połączenie słów ""vild"" (dziki) i ""karl"" (karzeł). W tłumaczeniu użyłem określenia ""Wilczy Król"", które oddaje sens oryginalnego terminu.","Pamiętasz dzikich mężczyzn, z którymi się siłowałem? Tych, których nazywaliśmy Wilczymi Królami?",0.37851663503095273,0.021259332643596612,0.6674118041992188,0.6097791194915771,0.41798250187843794,0.021058466792450898,0.6793992519378662,0.6760791540145874,0.4690257009702943,0.08838042212680002,0.8403420448303223,0.8636838793754578,0.451681533660268,0.08358504262657974,0.8204715847969055,0.8735461235046387,0.4690257009702943,0.08838042212680002,0.8403420448303223,0.8636838793754578,0.39749756637680816,0.01626285047179945,0.6571687459945679,0.6702728867530823,0.43338853408774175,0.08812612679876433,0.8209578394889832,0.831633985042572
+Why do you want this power?,Do czego ci ta moc?,"""Dlaczego chcesz tej władzy?""
+
+To tłumaczenie jest dosłownym przekładem oryginalnego zdania z języka angielskiego na polski. Zdanie to wyraża pytanie skierowane do kogoś, kto może dążyć do uzyskania lub posiadania pewnej formy władzy lub wpływu. W języku polskim używa się podobnych konstrukcji gramatycznych i słów, aby wyrazić takie samo znaczenie.","Tłumaczenie tego zdania na język polski brzmi: ""Dlaczego chcesz tej władzy?""
+
+To pytanie może być używane w różnych kontekstach, na przykład:
+
+1. W rozmowie o ambicjach zawodowych lub politycznych.
+2. W dyskusji o motywacjach osób dążących do wpływów.
+3. Jako część debaty na temat etyki i moralności władzy.
+4. W analizie psychologicznej jednostek lub grup społecznych.
+5. W kontekście literackim lub filmowym jako element dialogu między postaciami.
+
+Pytanie to zachęca do refleksji nad powodami, dla których ktoś pragnie posiadać władzę, oraz nad potencjalnymi konsekwencjami takiego pragnienia. Może prowadzić do głębszej dyskusji na temat natury ludzkich ambicji, odpowiedzialności za sprawowaną władzę oraz jej wpływu na społeczeństwo.",Dlaczego chcesz tej władzy?,"""Dlaczego chcesz tej władzy?""",Dlaczego chcesz tej władzy?,Dlaczego chcesz tej władzy?,Dlaczego chcesz tej władzy?,0.13403763657931536,0.0,0.5781160593032837,0.5594074726104736,0.08378260797180236,0.0,0.5507087111473083,0.6304974555969238,0.301255439839014,0.0,0.7660540342330933,0.8841871619224548,0.29707176076963343,0.0,0.7433675527572632,0.8820248246192932,0.301255439839014,0.0,0.7660540342330933,0.8841871619224548,0.301255439839014,0.0,0.7660540342330933,0.8841874003410339,0.301255439839014,0.0,0.7660540342330933,0.8841871619224548
+Long live Hjalmar!,Wiwat Hjalmar!,"""Niech żyje Hjalmar!""
+
+To zdanie w języku szwedzkim ""Long live Hjalmar!"" zostało przetłumaczone na język polski jako ""Niech żyje Hjalmar!"". Jest to wyrażenie używane, aby wyrazić radość i życzenia długiego życia dla osoby o imieniu Hjalmar. W języku polskim często używa się podobnych formułek, takich jak ""Sto lat!"" lub ""Na zdrowie!"", aby wyrazić te same intencje.","""Niech żyje Hjalmar!""
+
+To wyrażenie jest formą toastu lub okrzyku radości, prawdopodobnie skandowanego podczas jakiegoś wydarzenia czy uroczystości. Imię ""Hjalmar"" jest imieniem męskim pochodzącym z języka szwedzkiego i norweskiego, które może oznaczać coś w rodzaju ""wojownik walczący z wrogami"". W kontekście tego zdania, najprawdopodobniej chodzi o wyrażenie entuzjazmu i życzenie długiego życia dla osoby o tym imieniu.",Niech żyje długo Hjalmar!,"""Niech żyje Hjalmar!""",Niech żyje długo Hjalmar!,"Podane zdanie ""Long live Hjalmar!"" w tłumaczeniu na język polski brzmi:
+
+""Niech żyje Hjalmar!""
+
+To wyrażenie jest używane jako toast lub okrzyk radości, często skierowany do osoby o imieniu Hjalmar. W języku polskim może być używane w podobnych sytuacjach, aby wyrazić życzenie długiego i szczęśliwego życia dla kogoś.",Niech żyje Hjalmar!,0.16316175460614468,0.0,0.5644292235374451,0.5343036651611328,0.1396377930437763,0.0,0.5439648628234863,0.5344632267951965,0.48235900100525986,0.08034284189446518,0.7621473670005798,0.7284346222877502,0.4952939383207988,0.0,0.767055332660675,0.7228853702545166,0.48235900100525986,0.08034284189446518,0.7621473670005798,0.7284346222877502,0.18090429700469227,0.0,0.5629087686538696,0.5099048018455505,0.5043196187260707,0.11362193664674995,0.8252192735671997,0.7580555081367493
+Have a look at this diagram.,Rzuć okiem na ten schemat.,"""Przyjrzyj się temu diagramowi.""
+
+To tłumaczenie odnosi się do zdania ""Have a look at this diagram"", które w języku polskim brzmi ""Przyjrzyj się temu diagramowi"". Zdanie to jest prośbą skierowaną do rozmówcy, aby zwrócił uwagę i dokładnie obejrzał przedstawiony diagram.","Tłumaczenie tego zdania na język polski brzmi:
+
+""Popatrz na ten wykres.""
+
+To tłumaczenie jest najbardziej dosłowne i odpowiednie w kontekście, gdy mowa o diagramie lub wykresie. W zależności od konkretnego kontekstu, można też użyć innych określeń, takich jak ""rysunek"", ""ilustracja"" czy ""schemat"".",Spojrzyj na ten diagram.,"""Przyjrzyj się temu diagramowi.""",Spojrz na ten diagram.,"Oto tłumaczenie podanego zdania na język polski:
+
+""Rzuć okiem na ten wykres.""
+
+To tłumaczenie jest dosłowne i zachowuje znaczenie oryginalnego zdania w języku angielskim. W języku polskim często używa się zwrotu ""rzucić okiem"", aby poprosić kogoś o szybkie spojrzenie na coś, co jest podobne do prośby o ""look"" (spojrzenie) w języku angielskim. Wyrażenie ""ten wykres"" odpowiada ""this diagram"" w oryginalnym zdaniu.",Spojrz na ten diagram.,0.11785175472207104,0.0,0.6105533242225647,0.6452257037162781,0.20501857545927457,0.009288980743104617,0.6228030920028687,0.6118559241294861,0.16768507688058,0.13232169883599026,0.7763544917106628,0.8934957385063171,0.10346670997516537,0.0,0.7471256256103516,0.7778323888778687,0.16931374468842442,0.13232169883599026,0.7846195101737976,0.8699710965156555,0.2517213805911549,0.014794406243833179,0.6358942985534668,0.6188083291053772,0.16931374468842442,0.13232169883599026,0.7846195101737976,0.8699710965156555
+Maybe that's not entirely true. Cave of Dreams - supposed to be a dangerous place.,Może się myliłeś. Jaskinia Snów to podobno niebezpieczne miejsce.,"""Może to nie do końca prawda. Jaskinia Snów - podobno bardzo niebezpieczne miejsce.""
+
+To tłumaczenie oddaje sens oryginalnego zdania, zachowując jego strukturę i znaczenie w języku polskim.",Może to nie do końca prawda. Jaskinia Snów - podobno niebezpieczne miejsce.,Może to nie jest całkiem prawda. Jaskinia Snów - rzekomo niebezpieczne miejsce.,"""Może to nie jest całkiem prawda. Jaskinia Snów - rzekomo niebezpieczne miejsce.""",Może to nie jest całkiem prawda. Jaskinia Snów - rzekomo niebezpieczne miejsce.,Może to nie jest całkowicie prawda. Jaskinia Snów - rzekomo bardzo niebezpieczne miejsce.,Może to nie jest całkiem prawda. Jaskinia Snów - rzekomo niebezpieczne miejsce.,0.5838348607585545,0.018561813742586367,0.7621436715126038,0.8546225428581238,0.694778796565021,0.11530568323789493,0.8815030455589294,0.9586693048477173,0.6076469180967502,0.05637560315259291,0.8436205387115479,0.9483650326728821,0.6054806175974893,0.0428361950754725,0.8028825521469116,0.9471326470375061,0.6076469180967502,0.05637560315259291,0.8436205387115479,0.9483650326728821,0.6065420976427671,0.051424016050282635,0.8433951139450073,0.9484162926673889,0.6076469180967502,0.05637560315259291,0.8436205387115479,0.9483650326728821
+Did you learn anything in Velen?,Dowiedziałeś się czegoś w Velen?,"""Czy czegoś się nauczyłeś w Velen?""
+
+To zdanie zostało przetłumaczone dosłownie z języka angielskiego na polski. Zakładam, że chodzi o grę ""Wiedźmin"", ponieważ ""Velen"" to jedna z lokacji w tej serii gier. Jeśli masz na myśli coś innego, proszę daj mi znać, a mogę dostosować tłumaczenie do kontekstu.","Tłumaczenie tego zdania na język polski brzmi: ""Czego się nauczyłeś w Velen?""
+
+Warto zauważyć, że to pytanie może być częścią dialogu lub narracji w grze komputerowej lub książce, gdzie Velen jest miejscem, w którym bohater zdobywał doświadczenia lub informacje. W kontekście gry ""Wiedźmin"" (The Witcher), Velen jest jednym z regionów świata przedstawionego, co dodatkowo uzasadnia użycie tej nazwy w tym zdaniu.",Czy czegoś się nauczyłeś w Velen?,"""Czy czegoś się nauczyłeś w Velen?""",Czy czegoś się nauczyłeś w Velen?,"Oto tłumaczenie tego zdania na język polski:
+
+""Czego się nauczyłeś w Velen?""
+
+To zdanie jest pytaniem skierowanym do kogoś, kto mógł spędzić czas w miejscu o nazwie Velen. Osoba pytająca chce dowiedzieć się, czy ta osoba nauczyła się czegoś nowego lub interesującego podczas swojego pobytu w tym miejscu.",Czego się nauczyłeś w Velen?,0.2864180291736586,0.005034460682273033,0.6577528119087219,0.5963250398635864,0.22043828604498172,0.0035548168188028837,0.6120335459709167,0.6087513566017151,0.44392377885131507,0.10266900960803409,0.8607065081596375,0.953666090965271,0.4405590986190877,0.05372849659117709,0.8227976560592651,0.9316962957382202,0.44392377885131507,0.10266900960803409,0.8607065081596375,0.953666090965271,0.36232446107002675,0.008952677771936644,0.6552280187606812,0.7224488258361816,0.37088496381258135,0.12574334296829354,0.8348851203918457,0.9267680644989014
+We'll see what our new king says. But it'd be strange to see those longships just sit in the harbor.,"Zobaczymy, co powie nowy król. Ale zdziwiłbym się, gdyby drakkary zostały w porcie.","""Zobaczymy, co powie nasz nowy król. Ale dziwnie byłoby widzieć te długie statki po prostu stojące w porcie.""
+
+To tłumaczenie oddaje sens oryginalnego zdania w języku angielskim, zachowując jego znaczenie i kontekst. Warto zauważyć, że w języku polskim nie ma bezpośredniego odpowiednika dla słowa ""strange"", które może być tłumaczone jako ""dziwne"" lub ""osobliwe"". W tym przypadku użyto słowa ""dziwnie"", które najlepiej pasuje do kontekstu zdania.","Tłumaczenie tego zdania na język polski brzmi:
+
+""Zobaczymy, co powie nasz nowy król. Ale dziwnie byłoby widzieć te długie statki po prostu stojące w porcie.""
+
+To zdanie wyraża oczekiwanie na słowa nowego króla oraz zastanowienie się nad obecnością długich statków (prawdopodobnie wikingów) w porcie. Może sugerować, że ich obecność jest niezwykła lub nieoczekiwana w danym kontekście.","Zobaczymy, co powie nasz nowy król. Dziwnie byłoby widzieć te długie statki po prostu stojące w porcie.","""Zobaczymy, co powie nasz nowy król. Ale dziwnie byłoby widzieć te długie statki po prostu stojące w porcie.""","Zobaczymy, co powie nasz nowy król. Ale dziwnie byłoby widzieć te długie statki po prostu stojące w porcie.","Oto tłumaczenie podanego zdania na język polski:
+
+""Zobaczymy, co powie nasz nowy król. Ale dziwnie byłoby widzieć te długie statki po prostu stojące w porcie.""
+
+To zdanie zawiera dwie myśli:
+1. Oczekiwanie na to, co powie nowy król.
+2. Zaskoczenie faktem, że długie statki (prawdopodobnie wikingów) pozostają bezczynne w porcie.","Zobaczymy, co powie nasz nowy król. Ale dziwnie byłoby widzieć te długie statki po prostu stojące w porcie.",0.3989651773701497,0.018243650086814965,0.6879464387893677,0.6281290650367737,0.41866083669109155,0.023740202623542844,0.7183257937431335,0.6982433795928955,0.4785641043138808,0.08367437134595068,0.8251796960830688,0.7882446050643921,0.5200967390990241,0.07036147891341805,0.8116379380226135,0.8362840414047241,0.5215638748065239,0.10216198665886364,0.8345568776130676,0.8325892090797424,0.4648473192668449,0.06601931742653085,0.7302167415618896,0.7214971780776978,0.5215638748065239,0.10216198665886364,0.8345568776130676,0.8325892090797424
+Ready when you are.,Jestem gotowy.,"""Jestem gotowy, kiedy tylko Ty będziesz.""
+
+To tłumaczenie odzwierciedla znaczenie oryginalnego angielskiego wyrażenia ""Ready when you are"", które oznacza, że osoba mówiąca jest przygotowana i czeka na sygnał lub zgodę drugiej strony, aby rozpocząć jakąś akcję lub działanie. W języku polskim używamy podobnych zwrotów, takich jak ""Czekam na Twoją decyzję"" lub ""Jestem do dyspozycji"".","Tłumaczenie zdania ""Ready when you are"" na język polski brzmi:
+
+""Gotowy, kiedy tylko będziesz.""
+
+To wyrażenie jest często używane w sytuacjach, gdy jedna osoba czeka na sygnał od drugiej, aby rozpocząć jakąś akcję lub zadanie. Oznacza ono, że dana osoba jest przygotowana i może działać w dowolnym momencie, gdy druga strona będzie gotowa.",Gotowy kiedy jesteś.,"""Jestem gotowy/gotowa.""",Gotowy kiedy ty.,"Podane zdanie ""Ready when you are."" w tłumaczeniu na język polski brzmi:
+
+""Gotowy, kiedy będziesz gotowy.""
+
+To zdanie jest często używane w sytuacjach, gdy jedna osoba czeka na sygnał od drugiej, aby rozpocząć jakąś akcję lub zadanie. Oznacza ono, że dana osoba jest przygotowana i może działać wtedy, gdy druga strona będzie gotowa.",Gotowy kiedy ty.,0.22811222470603545,0.0,0.651731014251709,0.6994341015815735,0.12397712061481163,0.0,0.6199264526367188,0.6893022060394287,0.3544167988409026,0.0,0.8126927018165588,0.8279454112052917,0.8414311411195655,0.0,0.8335274457931519,0.8633270263671875,0.26701505758953487,0.0,0.8124586343765259,0.6953655481338501,0.15785469024880783,0.0,0.6280787587165833,0.6799191236495972,0.26701505758953487,0.0,0.8124586343765259,0.6953655481338501
+Celandine would dull the pain.,Jaskółcze ziele uśmierzyłoby ból.,"""Celandine złagodzi ból.""
+
+To zdanie zostało przetłumaczone dosłownie, ale warto zauważyć, że ""celandine"" (centaurea) to roślina znana również jako ""jaskier ostry"", która ma pewne właściwości lecznicze. W języku polskim nie ma bezpośredniego odpowiednika tego wyrażenia, ponieważ zwykle używamy innych określeń na opisanie środków łagodzących ból, takich jak ""lek przeciwbólowy"" lub ""maść rozgrzewająca"".","Tłumaczenie zdania ""Celandine would dull the pain"" na język polski brzmi:
+
+""Cytryniec złagodzi ból.""
+
+Warto zauważyć, że w tym kontekście słowo ""celandine"" odnosi się do rośliny o nazwie cytryniec (ang. ""celandine""), która jest znana ze swoich właściwości leczniczych i może być używana jako środek przeciwbólowy.",Celandyna złagodzi ból.,"""Celandine złagodzi ból.""",Celandine złagodzi ból.,"Przetłumaczone zdanie na język polski brzmi: ""Cytrynka uśmierzałaby ból.""
+
+Warto zauważyć, że w tym tłumaczeniu:
+- ""Celandine"" zostało przetłumaczone jako ""cytrynka"", co jest odniesieniem do rośliny o nazwie naukowej Celandine (Chelidonium majus), znanej również jako glistnik jaskółcze ziele. Roślina ta ma właściwości lecznicze i bywa stosowana w medycynie ludowej do łagodzenia bólu.
+- ""would dull"" zostało przetłumaczone jako ""uśmierzałaby"", co oddaje sens osłabiania lub łagodzenia bólu.
+- ""the pain"" zostało przetłumaczone jako ""ból"".
+
+Tłumaczenie to zachowuje ogólny sens oryginalnego zdania, sugerując, że cytrynka mogłaby pomagać w łagodzeniu bólu.",Cytrynka uśmierzyłaby ból.,0.14887585407338777,0.0,0.6147960424423218,0.632463276386261,0.1567281390484227,0.0,0.5917330384254456,0.6146376729011536,0.12279770875034877,0.0814136751754278,0.7719728946685791,0.7083086967468262,0.13351878681376797,0.0,0.748955249786377,0.6402755975723267,0.13445628371376286,0.0814136751754278,0.7549885511398315,0.7498816251754761,0.23632029031441126,0.0,0.626975417137146,0.5897498726844788,0.37647588338032056,0.0814136751754278,0.84055495262146,0.8543509244918823
+Custom demands pilgrims make an offering of their own blood before the tree. Craven surely did so… Unless he lacked not only courage but respect for Freya as well.,"Zwyczaj nakazuje, by pielgrzymi złożyli pod drzewem ofiarę z własnej krwi. Tchórz też tak pewnie zrobił... Chyba że brak mu było nie tylko odwagi, ale i szacunku dla Freyji.","""Pielgrzymi składający niestandardowe prośby muszą złożyć ofiarę własnej krwi przed drzewem. Craven na pewno tak uczynił... chyba że brakowało mu nie tylko odwagi, ale także szacunku dla Freyi.""
+
+Warto zauważyć, że to zdanie jest dość metaforyczne i może wymagać dodatkowego kontekstu, aby było w pełni zrozumiałe. Wydaje się, że mowa tu o jakimś rytuale lub tradycji związanej z postacią o imieniu Freya oraz o osobie o nazwisku Craven. Ofiara krwi sugeruje głębokie zaangażowanie i poświęcenie, a brak szacunku mógłby oznaczać, że Craven nie podszedł do tej ceremonii z należytą powagą lub czcią.","Tłumaczenie na język polski:
+
+""Pielgrzymi składają przed drzewem ofiarę z własnej krwi. Na pewno tak uczynił Kruk... Chyba że brakowało mu nie tylko odwagi, ale i szacunku dla Frei.""
+
+To tłumaczenie oddaje sens oryginalnego tekstu w języku angielskim, uwzględniając kontekst kulturowy i religijny opisywanej sytuacji. Warto zauważyć, że imię ""Freya"" zostało przetłumaczone jako ""Freja"", co jest bliskie oryginalnemu zapisowi w języku staronordyckim.","""Pielgrzymi składają własną ofiarę z krwi przed drzewem. Na pewno tak uczynił Craven... chyba że brakowało mu nie tylko odwagi, ale także szacunku dla Frei.""","""Pielgrzymi składają ofiarę z własnej krwi przed drzewem, spełniając swoje niestandardowe wymagania. Craven z pewnością tak uczynił... Chyba że brakowało mu nie tylko odwagi, ale także szacunku dla Freyi.""","Pielgrzymi składają własną krew jako ofiarę przed drzewem. Na pewno tak zrobił Craven... chyba że brakowało mu nie tylko odwagi, ale także szacunku dla Freyi.","Oto tłumaczenie tego zdania na język polski:
+
+""Pielgrzymi składający niestandardowe prośby składali własną krew przed drzewem. Na pewno tak zrobił Craven... Chyba że brakowało mu nie tylko odwagi, ale także szacunku dla Freyi.""
+
+To tłumaczenie stara się oddać sens oryginalnego tekstu, uwzględniając kontekst i specyfikę języka angielskiego. Warto zauważyć, że w tym fragmencie pojawia się element magiczny (składanie krwi jako ofiary) oraz psychologiczna analiza postaci Cravena, który mógł mieć zarówno problemy z odwagą, jak i szacunkiem wobec Freyi.","Pielgrzymi składają własną krew w ofierze przed drzewem. Craven z pewnością tak uczynił... Chyba że brakowało mu nie tylko odwagi, ale także szacunku dla Freyi.",0.4702985916898006,0.036574624627741206,0.7229927182197571,0.8395363688468933,0.5356879765699426,0.1584919758735081,0.7314389944076538,0.6829439401626587,0.46955601844459327,0.11756704766915962,0.8145312070846558,0.7909542322158813,0.5528857096705798,0.1479337874747362,0.8218063116073608,0.8290888071060181,0.47519022241589354,0.108570025001605,0.8367223739624023,0.8767813444137573,0.44852872599390087,0.04326933948197396,0.7195968627929688,0.764610230922699,0.47933205402705575,0.11756704766915962,0.8364449739456177,0.8795150518417358
+Talking won't get me anywhere…,Rozmowa chyba nic tu nie da...,"""Mówienie nie zaprowadzi mnie nigdzie...""","""Gadanie nie zaprowadzi mnie donikąd...""
+
+To zdanie w języku angielskim ""Talking won't get me anywhere"" jest często używane, gdy ktoś czuje, że ciągłe rozmowy lub dyskusje nie prowadzą do żadnych konkretnych rezultatów. Może to oznaczać, że osoba ta uważa, że lepiej byłoby przejść od słów do działania zamiast tylko o tym mówić. W języku polskim to wyrażenie można przetłumaczyć dosłownie jako ""Gadanie nie zaprowadzi mnie donikąd"", co oddaje podobne znaczenie i emocję zawartą w oryginalnym zdaniu.",Mówienie nigdzie mnie nie zaprowadzi...,"""Mówienie nie zaprowadzi mnie nigdzie...""",Mówienie nigdzie mnie nie zaprowadzi...,"Podane zdanie w języku angielskim ""Talking won't get me anywhere..."" po przetłumaczeniu na język polski brzmi:
+
+""Mówienie nie zaprowadzi mnie nigdzie...""
+
+To zdanie wyraża frustrację lub bezsilność osoby, która uważa, że rozmowa czy dyskusja nie prowadzą do żadnych konstruktywnych rezultatów lub rozwiązań. Może to być odniesienie do sytuacji, w której ktoś czuje się zablokowany lub bezradny wobec problemu i uważa, że jedynym sposobem na jego rozwiązanie jest działanie, a nie tylko mówienie o nim.",Mówienie nigdzie mnie nie zaprowadzi...,0.162377300649334,0.0439891724758422,0.7487670183181763,0.7935165762901306,0.1353770942476973,0.002387221081851365,0.5931051969528198,0.6832133531570435,0.1636538461538462,0.0439891724758422,0.791144609451294,0.7825024127960205,0.162377300649334,0.0439891724758422,0.7487670183181763,0.7935165762901306,0.1636538461538462,0.0439891724758422,0.791144609451294,0.7825024127960205,0.1565663253667693,0.002453090913195276,0.5996864438056946,0.691117525100708,0.1636538461538462,0.0439891724758422,0.791144609451294,0.7825024127960205
+There's no sense in going if you don't stay calm.,"Musisz zachować spokój, inaczej w ogóle nie ma sensu się za to zabierać.","""Nie ma sensu iść, jeśli nie zachowasz spokoju.""
+
+To tłumaczenie oddaje znaczenie oryginalnego zdania w języku angielskim. Zdanie to sugeruje, że aby osiągnąć cel lub poradzić sobie z jakąś sytuacją, konieczne jest zachowanie spokoju i opanowania.","Tłumaczenie tego zdania na język polski brzmi:
+
+""Nie ma sensu iść, jeśli się nie uspokoisz.""
+
+To zdanie można również przetłumaczyć w kilku innych wariantach, w zależności od kontekstu i preferencji stylistycznych. Kilka przykładów:
+
+1. ""Nie ma sensu ruszać się z miejsca, jeśli się nie opanujesz.""
+2. ""Nie ma celu w podróży, jeśli nie zachowasz spokoju.""
+3. ""Nie ma po co wybierać się gdziekolwiek, jeśli nie będziesz spokojny.""
+4. ""Nie ma sensu nawet myśleć o wyjściu, dopóki się nie uspokoisz.""
+
+Wybór najlepszego tłumaczenia zależy od sytuacji, w której to zdanie jest używane, oraz od intencji mówiącego.","Nie ma sensu iść, jeśli się nie uspokoisz.","""Nie ma sensu jechać, jeśli się nie uspokoisz.""","Nie ma sensu iść, jeśli się nie uspokoisz.","Oto tłumaczenie tego zdania na język polski:
+
+""Nie ma sensu iść, jeśli się nie uspokoisz.""
+
+To tłumaczenie zachowuje główne znaczenie oryginalnego zdania w języku angielskim. Zdanie to sugeruje, że osoba powinna zachować spokój przed podjęciem jakiejkolwiek akcji lub decyzji.","Nie ma sensu iść, jeśli się nie uspokoisz.",0.32532333351654275,0.013713605456973251,0.6960828900337219,0.7776705622673035,0.2667780391033772,0.005293674746467826,0.6368886232376099,0.7564422488212585,0.22866991814724533,0.03738984167898844,0.7565843462944031,0.7875794768333435,0.2468649300698519,0.03738984167898844,0.7457360029220581,0.7738223671913147,0.22866991814724533,0.03738984167898844,0.7565843462944031,0.7875794768333435,0.3840327544927167,0.013722599955986396,0.6929845213890076,0.7232564091682434,0.22866991814724533,0.03738984167898844,0.7565843462944031,0.7875794768333435
+Me gran always adds mallow.,Moja babka dodaje jeszcze prawoślazu.,"""Moja babcia zawsze dodaje malwę.""
+
+To zdanie w języku angielskim zostało przetłumaczone na polski jako ""Moja babcia zawsze dodaje malwę."" W tym kontekście, ""mallow"" odnosi się do rośliny o nazwie malwa (Malva), która jest często używana w kuchni lub ogrodnictwie.","Tłumaczenie zdania ""Me gran always adds mallow"" na język polski brzmi:
+
+""Moja babcia zawsze dodaje ślaz.""
+
+Warto zauważyć, że w tym tłumaczeniu:
+- ""Me gran"" oznacza ""moja babcia"" (w gwarze katalońskiej).
+- ""always adds"" to ""zawsze dodaje"".
+- ""mallow"" to ""ślaz"", co jest rośliną z rodziny ślazowatych.
+
+Całe zdanie sugeruje, że babcia osoby mówiącej często używa lub dodaje ślazu do czegoś, prawdopodobnie w kontekście gotowania lub przygotowywania jedzenia.",Moja babcia zawsze dodaje ślaz.,"""Moja babcia zawsze dodaje malwy.""",Moja babcia zawsze dodaje ślaz.,"Moja babcia zawsze dodaje ślaz.
+
+Warto zauważyć, że to tłumaczenie może nie być dosłowne ze względu na kontekst kulturowy i językowy. ""Ślaz"" to roślina z rodziny ślazowatych, która jest czasem używana w medycynie ludowej lub jako składnik herbat. Jeśli chodzi o konkretny gatunek ślazu, najczęściej spotykany to ślaz dziki (Malva sylvestris).
+
+Jeśli jednak chodziło o coś innego, np. o jakąś potrawę lub produkt zawierający ślaz, tłumaczenie mogłoby wyglądać inaczej. Na przykład, jeśli ""mallow"" odnosi się do jakiegoś deseru lub napoju, tłumaczenie mogłoby brzmieć:
+
+""Moja babcia zawsze dodaje [nazwa deseru/napoju].""
+
+Bez dodatkowego kontekstu trudno jest określić dokładne znaczenie oryginalnego zdania.",Moja babcia zawsze dodaje ślaz.,0.2656161882915515,0.004620856909230222,0.6555521488189697,0.5416827201843262,0.23874420352900041,0.0026744824235784732,0.6274061799049377,0.5677056908607483,0.37722779126857525,0.06389431042462725,0.8782438635826111,0.6311296820640564,0.33641669929750856,0.05372849659117709,0.8239145278930664,0.5897601246833801,0.37722779126857525,0.06389431042462725,0.8782438635826111,0.6311296820640564,0.180377639792923,0.002169109315664707,0.5954316258430481,0.6105797290802002,0.37722779126857525,0.06389431042462725,0.8782438635826111,0.6311296820640564
+First time for everything.,Kiedyś musi być ten pierwszy raz.,"""Pierwszy raz dla wszystkiego.""
+
+To tłumaczenie jest dosłowne i oddaje znaczenie oryginalnego angielskiego wyrażenia ""First time for everything,"" które oznacza, że każda rzecz lub doświadczenie ma swój pierwszy moment w czyimś życiu. W języku polskim podobne wyrażenie to ""wszystko ma swój pierwszy raz.""","Tłumaczenie tego angielskiego powiedzenia na język polski brzmi:
+
+""Pierwszy raz dla wszystkiego.""
+
+To popularne przysłowie, które oznacza, że każda nowa rzecz lub doświadczenie ma swój pierwszy moment. Może być używane zarówno w pozytywnym, jak i negatywnym kontekście, w zależności od sytuacji. Na przykład, można powiedzieć ""pierwszy raz dla wszystkiego"", gdy ktoś próbuje czegoś nowego po raz pierwszy, ale także, gdy coś się dzieje po raz pierwszy w niekorzystnych okolicznościach.",Pierwszy raz dla wszystkiego.,"""Pierwszy raz dla wszystkiego.""",Pierwszy raz dla wszystkiego.,"Podane zdanie ""First time for everything"" w tłumaczeniu na język polski brzmi:
+
+""Pierwszy raz dla wszystkiego.""
+
+To popularne powiedzenie, które oznacza, że każda nowa rzecz lub doświadczenie jest przeżywana po raz pierwszy. Może być używane zarówno w kontekście pozytywnym (jako wyraz entuzjazmu i ciekawości), jak i negatywnym (jako usprawiedliwienie błędów).",Pierwszy raz dla wszystkiego.,0.24579469565605486,0.004286566854494811,0.6371054649353027,0.5961523056030273,0.19974708880963646,0.003133381778083795,0.6263169646263123,0.5753780007362366,0.3413966315952098,0.0,0.8032448887825012,0.5388023257255554,0.3387661399255602,0.0,0.7734782695770264,0.5713803768157959,0.3413966315952098,0.0,0.8032448887825012,0.5388023257255554,0.23820750517370445,0.00366753025392797,0.6244524717330933,0.5600823163986206,0.3413966315952098,0.0,0.8032448887825012,0.5388023257255554
+Thank you. Nice to see you again.,Dziękuję. Miło znów cię widzieć.,"""Dziękuję. Miło cię znowu widzieć.""
+
+To tłumaczenie oddaje znaczenie oryginalnego zdania w języku angielskim, które wyraża wdzięczność i radość z ponownego spotkania. W języku polskim używamy podobnych zwrotów grzecznościowych, aby okazać uprzejmość i sympatię wobec rozmówcy.","Tłumaczenie tego zdania na język polski brzmi:
+
+""Dziękuję. Miło cię znowu widzieć.""
+
+To uprzejme wyrażenie, które można użyć w sytuacji spotkania kogoś po dłuższym czasie lub po przerwie. Oto szczegółowe wyjaśnienie poszczególnych części zdania:
+
+1. ""Dziękuję"" - jest to standardowa forma podziękowania w języku polskim. Może być używana w różnych kontekstach, aby wyrazić wdzięczność za coś.
+
+2. ""Miło cię znowu widzieć"" - to bardziej rozbudowane wyrażenie, które składa się z dwóch części:
+   - ""Miło"" - oznacza przyjemność lub satysfakcję z czegoś. W tym przypadku odnosi się do faktu ponownego spotkania.
+   - ""cię znowu widzieć"" - dosłownie oznacza ""widzieć ciebie ponownie"". Jest to grzecznościowa forma powitania, która wyraża radość ze spotkania tej osoby po raz kolejny.
+
+Całe zdanie jest wyrazem uprzejmości i sympatii wobec rozmówcy. Można je używać w różnych sytuacjach społecznych, takich jak spotkanie znajomego na ulicy, w pracy czy na imprezie rodzinnej.",Dziękuję. Miło cię znowu widzieć.,Dziękuję. Miło cię znowu widzieć.,Dziękuję. Miło cię widzieć ponownie.,"Podane zdanie w języku angielskim ""Thank you. Nice to see you again."" po przetłumaczeniu na język polski brzmi:
+
+""Dziękuję. Miło cię znowu widzieć.""
+
+To krótkie, uprzejme wyrażenie używane w sytuacji spotkania kogoś ponownie po pewnym czasie lub po przerwie. Obejmuje ono podziękowanie oraz wyrażenie radości z ponownego spotkania.",Dziękuję. Miło cię znowu widzieć.,0.39890138569634276,0.006132910803680854,0.72384113073349,0.7782028913497925,0.17788522903940998,0.0014945643417360278,0.6338414549827576,0.7237482070922852,0.6792560846836763,0.13512001548070346,0.9583618640899658,0.9871854186058044,0.6792560846836763,0.13512001548070346,0.9583618640899658,0.9871854186058044,0.7068690462677618,0.12574334296829354,0.9478199481964111,0.9846087694168091,0.3470726866150773,0.0045491487595968995,0.6938724517822266,0.7690626978874207,0.6792560846836763,0.13512001548070346,0.9583618640899658,0.9871854186058044
+And I'll be on my guard.,Więc będę czujny.,"""I będę uważny.""
+
+To tłumaczenie odnosi się do angielskiego wyrażenia ""And I'll be on my guard,"" które oznacza, że osoba mówiąca będzie ostrożna i czujna w danej sytuacji. W języku polskim możemy to wyrazić jako ""Będę uważny"" lub ""Będę ostrożny.""","Tłumaczenie zdania ""And I'll be on my guard."" na język polski brzmi:
+
+""I będę uważny/ostrożny.""
+
+W zależności od kontekstu, można też użyć innych wariantów tego tłumaczenia, takich jak:
+
+- ""I będę czujny.""
+- ""I będę ostrożny.""
+- ""I będę mieć się na baczności.""
+
+To wyrażenie sugeruje gotowość do bycia świadomym i przygotowanym na potencjalne niebezpieczeństwa lub trudności.",I będę uważny.,"""I będę uważny.""",I będę czujny.,"Oto tłumaczenie podanego zdania na język polski:
+
+""I będę uważny/ostrożny.""
+
+To zdanie wyraża gotowość do zachowania czujności i ostrożności w danej sytuacji. Może być użyte w kontekście ostrzeżenia, zapowiedzi lub obietnicy, że osoba mówiąca będzie szczególnie uważna w określonych okolicznościach.",I będę uważny.,0.17643316721553728,0.004620856909230222,0.6547337174415588,0.6563493013381958,0.21730725945133203,0.0032047574588556275,0.6323889493942261,0.684292197227478,0.2051452914392492,0.11362193664674995,0.8436760902404785,0.8760805130004883,0.20220278914565692,0.11362193664674995,0.808404266834259,0.8855476975440979,0.6905684561030405,0.24028114141347542,0.9216354489326477,0.9666361808776855,0.14384203178436672,0.004620856909230222,0.6342624425888062,0.7190346121788025,0.2051452914392492,0.11362193664674995,0.8436760902404785,0.8760805130004883
+*Sighs* Ehh.,Ech.,"Trudno jest dokładnie przetłumaczyć to wyrażenie, ponieważ zawiera ono elementy dźwiękowe i emocjonalne, które są trudne do oddania w piśmie. Jednakże, można spróbować przekazać jego znaczenie w następujący sposób:
+
+""Ehh... *westchnienie rozczarowania lub rezygnacji*""
+
+To wyrażenie często używane jest, gdy ktoś czuje się zmęczony, zrezygnowany lub poirytowany sytuacją, którą uważa za beznadziejną lub frustrującą. Może być również wyrazem braku entuzjazmu lub chęci do kontynuowania jakiegoś działania.","Trudno jest dokładnie przetłumaczyć te dźwięki na język pisany, ponieważ są to głównie onomatopeje i wyrażenia emocjonalne. Jednak można spróbować oddać ich znaczenie w następujący sposób:
+
+""Westchnienia"" - To długie, głębokie westchnienie, często używane do wyrażania zmęczenia, rezygnacji lub irytacji.
+
+""Ehh"" - To krótkie, lekko zirytowane westchnienie, które może oznaczać frustrację, niezadowolenie lub rozczarowanie.
+
+W języku polskim można by to zapisać jako:
+
+""Westchnął ciężko.""
+""Ehh, co za kłopot!""
+
+Pamiętaj jednak, że tego typu dźwięki i wyrażenia są bardzo subiektywne i mogą mieć różne konteksty w zależności od sytuacji i intonacji mówiącego.",Wzdycha. Ech.,'Westchnienie* Ech.',Wzdycha. Ech.,"Przepraszam, ale wydaje się, że zaszło nieporozumienie. Podałeś zdanie w języku polskim, a nie angielskim. Jeśli chcesz, żebym je przetłumaczył na inny język, proszę podaj ten język lub wyraźnie sformułuj swoje polecenie.",Wzdycha. Ech.,0.021248605654978492,0.0,0.517792820930481,0.5713289380073547,0.013982739138018707,0.0,0.4994593560695648,0.576865553855896,0.48210804789752154,0.1495348781221221,0.8338855504989624,0.7534803748130798,0.39422799422799426,0.0,0.7236875891685486,0.5969975590705872,0.48210804789752154,0.1495348781221221,0.8338855504989624,0.7534803748130798,0.029839943188025863,0.0,0.5306472182273865,0.49476948380470276,0.48210804789752154,0.1495348781221221,0.8338855504989624,0.7534803748130798
+I'm Geralt. A witcher.,"Jestem Geralt, wiedźmin.","""Jestem Geralt. Wiedźmin.""
+
+To tłumaczenie jest dosłowne i zachowuje oryginalny sens wypowiedzi. ""Geralt"" to imię głównego bohatera, a ""witcher"" (w języku angielskim) odnosi się do zawodu lub profesji, którą wykonuje postać - wiedźmina. W języku polskim słowo ""witcher"" zostało przetłumaczone jako ""wiedźmin"", co jest nazwą specyficznej grupy osób posiadających nadprzyrodzone zdolności i zajmujących się zwalczaniem potworów w świecie przedstawionym w serii książek Andrzeja Sapkowskiego oraz w opartych na nich grach komputerowych i serialach.","Tłumaczenie tego zdania na język polski brzmi:
+
+""Jestem Geralt. Wiedźmin.""
+
+To zdanie pochodzi z serii książek ""Wiedźmin"" autorstwa Andrzeja Sapkowskiego oraz z opartej na nich serii gier komputerowych ""Wiedźmin"". Jest to charakterystyczna fraza, którą wypowiada główny bohater serii - Geralt z Rivii, przedstawiając się jako wiedźmin - profesjonalny łowca potworów.",Jestem Geralt. Wiedźmin.,"""Jestem Geralt. Wiedźmin.""",Jestem Geralt. Wiedźmin.,"Podane zdanie w języku angielskim brzmi: ""I'm Geralt. A witcher.""
+
+Tłumaczenie tego zdania na język polski:
+""Jestem Geralt. Wiedźmin.""
+
+Warto zauważyć, że słowo ""witcher"" (wiedźmin) jest już po polsku i nie wymaga tłumaczenia. Jest to nazwa zawodu lub profesji, która pozostaje niezmieniona w obu językach.",Jestem Geralt. Wiedźmin.,0.2493198365933982,0.0,0.6584340333938599,0.6558956503868103,0.3290654207523977,0.0,0.684944212436676,0.7193370461463928,0.7596629720468729,0.11362193664674995,0.9152772426605225,0.966151237487793,0.7519898979066356,0.0,0.8794687986373901,0.9277536273002625,0.7596629720468729,0.11362193664674995,0.9152772426605225,0.966151237487793,0.3706107098770773,0.0,0.6586874723434448,0.5795010924339294,0.7596629720468729,0.11362193664674995,0.9152772426605225,0.966151237487793
+"What'd he do to you, Simun?","Czym ci podpadł ten człowiek, Simun?","""Co on ci zrobił, Simun?""
+
+To tłumaczenie odnosi się do pytania skierowanego do osoby o imieniu Simun, w którym ktoś pyta o to, co inna osoba (prawdopodobnie mężczyzna) zrobiła lub powiedziała Simunowi. Pytanie wyraża troskę i ciekawość dotyczącą sytuacji Simuna.","Tłumaczenie tego zdania na język polski brzmi: ""Co on ci zrobił, Simun?""
+
+Wyjaśnienie krok po kroku:
+
+1. ""What'd"" - jest to skrócona forma pytania ""What did"". W języku polskim używamy pełnej formy ""co zrobił"".
+2. ""he"" - oznacza ""on"", więc dodajemy ""co on"".
+3. ""do you"" - jest to forma pytania ""tobą"" (do ciebie). W języku polskim użyjemy ""ci"".
+4. ""Simun"" pozostaje bez zmian, ponieważ jest to imię własne.
+
+Łącząc te elementy, otrzymujemy pełne tłumaczenie: ""Co on ci zrobił, Simun?""","Co on ci zrobił, Simunie?","""Co on ci zrobił, Simun?""","Co on ci zrobił, Simun?","Oto tłumaczenie tego zdania na język polski:
+
+""Co on ci zrobił, Simun?""
+
+To pytanie wyraża troskę lub ciekawość wobec sytuacji osoby o imieniu Simun i sugeruje, że ktoś mógł mu wyrządzić jakąś krzywdę lub spowodować problem.","Co on ci zrobił, Simun?",0.2308700977752388,0.004620856909230222,0.6529393792152405,0.643516480922699,0.16179319478403106,0.002265553897317694,0.560107409954071,0.408791720867157,0.20223667775391915,0.0439891724758422,0.8264937996864319,0.7606782913208008,0.22188326573384046,0.0439891724758422,0.816196084022522,0.8002263307571411,0.22345410116076525,0.05231223689135342,0.8497904539108276,0.8111732602119446,0.2304691324303856,0.005157142709886005,0.6470671892166138,0.6128460764884949,0.22345410116076525,0.05231223689135342,0.8497904539108276,0.8111732602119446
+Why won't they let you examine the zone?,Dlaczego cię nie dopuszczają?,"""Dlaczego nie pozwalają ci zbadać strefy?""
+
+To tłumaczenie odnosi się do pytania ""Why won't they let you examine the zone?"", które zostało przetłumaczone dosłownie i w pełni oddaje znaczenie oryginalnego zdania. W języku polskim to pytanie może być używane w różnych kontekstach, na przykład w dyskusjach o ograniczeniach dostępu do określonych obszarów lub informacji.","Tłumaczenie zdania ""Why won't they let you examine the zone?"" na język polski brzmi:
+
+""Dlaczego nie pozwolą ci zbadać strefy?""
+
+To tłumaczenie uwzględnia wszystkie elementy oryginalnego zdania, zachowując jego znaczenie i strukturę gramatyczną.",Dlaczego nie pozwolą ci zbadać strefy?,"""Dlaczego nie pozwolą ci zbadać strefy?""",Dlaczego nie pozwolą ci zbadać strefy?,Dlaczego nie pozwolą ci zbadać strefy?,Dlaczego nie pozwolą ci zbadać strefy?,0.21454657745434855,0.0033879673215127786,0.6288512945175171,0.5908125638961792,0.23203783747559883,0.005648892151960285,0.62395840883255,0.5240401029586792,0.3369844452235538,0.048549177170732344,0.8164547681808472,0.6771084070205688,0.33432209360611537,0.040824829046386304,0.7835220098495483,0.6769251823425293,0.3369844452235538,0.048549177170732344,0.8164547681808472,0.6771084070205688,0.3369844452235538,0.048549177170732344,0.8164547681808472,0.6771084070205688,0.3369844452235538,0.048549177170732344,0.8164547681808472,0.6771084070205688
+You'd be surprised. But you needn't tell me if you don't want to.,"Hm, mógłbyś się zdziwić. Ale nie musisz mi mówić, jeśli nie chcesz.","""Byłbyś zaskoczony. Ale nie musisz mi mówić, jeśli nie chcesz.""","Tłumaczenie tego zdania na język polski brzmi:
+
+""Byłbyś zaskoczony. Ale nie musisz mi mówić, jeśli nie chcesz.""
+
+To zdanie wyraża sugestię, że ktoś może mieć jakąś niespodziewaną informację lub doświadczenie, ale jednocześnie daje tej osobie swobodę w decydowaniu, czy chce się tym podzielić.","Byłbyś zaskoczony. Ale nie musisz mi mówić, jeśli nie chcesz.","""Byłbyś zaskoczony. Ale nie musisz mi mówić, jeśli nie chcesz.""","Byłbyś zaskoczony. Ale nie musisz mi mówić, jeśli nie chcesz.","Oto tłumaczenie podanego zdania na język polski:
+
+""Byłbyś zaskoczony. Ale nie musisz mi mówić, jeśli nie chcesz.""
+
+To zdanie wyraża pewną informację lub reakcję, która może być dla odbiorcy niespodziewana, ale jednocześnie daje mu swobodę w decydowaniu, czy chce się nią podzielić.","Byłbyś zaskoczony. Ale nie musisz mi mówić, jeśli nie chcesz.",0.6675201982526358,0.5231223689135341,0.8619335889816284,0.9227464199066162,0.5410404905813879,0.13417679370846164,0.7182987928390503,0.6844338774681091,0.6700308124637807,0.6221008431290531,0.8983175158500671,0.9149894714355469,0.6675201982526358,0.5231223689135341,0.8619335889816284,0.9227464199066162,0.6700308124637807,0.6221008431290531,0.8983175158500671,0.9149894714355469,0.5485278036761164,0.13749229838463398,0.7268092036247253,0.7134364247322083,0.6700308124637807,0.6221008431290531,0.8983175158500671,0.9149894714355469
+Sven must be banished before the jarl learns of this.,"Trzeba wygnać Svena, zanim jarl się dowie.","""Sven musi zostać wygnany, zanim jarl się o tym dowie.""","""Svena trzeba wygnać, zanim jarl dowie się o tym.""
+
+To tłumaczenie uwzględnia kontekst zdania i jego znaczenie w języku polskim. Zdanie to sugeruje pilną potrzebę podjęcia działania (wygnać Svena) przed pojawieniem się pewnego niekorzystnego skutku (jarl dowiaduje się o czymś).","Svena należy wygnać, zanim jarl dowie się o tym.","""Sven musi zostać wygnany, zanim jarl się o tym dowie.""","Svena należy wygnać, zanim jarl się o tym dowie.","Przetłumaczone zdanie na język polski:
+
+""Sven musi zostać wygnany, zanim jarl dowie się o tym.""
+
+Wyjaśnienie krok po kroku:
+1. ""Sven must be banished"" - Sven musi zostać wygnany
+2. ""before"" - przed
+3. ""the jarl learns of this"" - jarl dowiedzie się o tym
+
+Połączenie tych części daje nam pełne zdanie w języku polskim.","Svena należy wygnać, zanim jarl dowie się o tym.",0.5365309087735559,0.10445522730720382,0.8015918731689453,0.9009904265403748,0.4650004743182114,0.010814410080481555,0.7263661026954651,0.7373358011245728,0.5047165027857105,0.056122223243057295,0.8933919072151184,0.942055881023407,0.5365309087735559,0.10445522730720382,0.8015918731689453,0.9009904265403748,0.5904352163963845,0.12753431387594827,0.8937509059906006,0.9525317549705505,0.3194082931555429,0.007780748864767423,0.653254508972168,0.5273703932762146,0.5047165027857105,0.056122223243057295,0.8933919072151184,0.942055881023407
+Now we walk only as far as the tree the goddess planted. We place our offerings and make our pleas before it.,"A teraz możemy przejść tylko do drzewa, które zasiała sama bogini. Tam składamy nasze dary i prośby.","""Teraz chodzimy tylko tak daleko, jak drzewo, które zasadziła bogini. Składamy nasze ofiary i modlimy się przed nim.""","""Teraz chodzimy tylko tak daleko, jak sięga drzewo zasadzone przez boginię. Składamy przed nim nasze ofiary i wyjawiamy nasze prośby.""","Teraz chodzimy tylko tak daleko, jak drzewo, które zasadziła bogini. Składamy nasze ofiary i wypowiadamy nasze prośby przed nim.","""Teraz chodzimy tylko tak daleko, jak drzewo, które zasadziła bogini. Składamy nasze ofiary i zanosimy nasze prośby przed nim.""","Teraz chodzimy tylko tak daleko, jak do drzewa, które zasadziła bogini. Składamy nasze ofiary i zanosimy nasze prośby przed nim.","Teraz chodzimy tylko tak daleko, jak sięga drzewo zasadzone przez boginię. Składamy tam nasze ofiary i przedstawiamy nasze prośby.","Teraz chodzimy tylko tak daleko, jak sięga drzewo zasadzone przez boginię. Składamy przed nim nasze ofiary i wyrażamy nasze prośby.",0.44449402929675724,0.016153228406487214,0.793311595916748,0.7854109406471252,0.41649459687993157,0.012673718536830811,0.7968920469284058,0.8489434719085693,0.4826162645034376,0.015226277779914149,0.825908899307251,0.8322198390960693,0.4851120037261379,0.015226277779914149,0.8100183010101318,0.8130925297737122,0.5452485878661744,0.05890548730960053,0.8526330590248108,0.8498293161392212,0.4218218690430244,0.014400124446705301,0.8340522646903992,0.888015627861023,0.4198793671005225,0.013618796864073041,0.8274352550506592,0.8761298060417175
+So her becoming queen of all Skellige - it's changed nothing?,"Czyli nic się nie zmieniło po tym, jak została królową całego Skellige?","""Więc to, że została królową całego Skellige, nic nie zmieniło?""","Tłumaczenie na język polski: ""Więc to, że została królową całego Skelligu - nic nie zmieniło?""",Więc jej zostanie królową całego Skellige - nic się nie zmieniło?,"""Więc zostanie królową całego Skellige - nic się nie zmieniło?""",Więc jej zostanie królową całego Skellige - to nic nie zmieniło?,"Tłumaczenie zdania na język polski:
+
+""Więc to, że została królową całego Skellige - nic nie zmieniło?""",Więc jej zostanie królową całego Skellige - nic się nie zmieniło?,0.6318849626866513,0.09717028343213063,0.8384507894515991,0.9287676215171814,0.6236317804472956,0.07432998184513635,0.7646016478538513,0.8001502156257629,0.62907302104677,0.10711744441669745,0.8388251662254333,0.8062160611152649,0.6273693527250227,0.10753659580649468,0.8193578124046326,0.8763606548309326,0.5557379879335422,0.04328649145305472,0.8285301327705383,0.8347676992416382,0.6314281493236028,0.06917184228205472,0.771023690700531,0.7874037027359009,0.62907302104677,0.10711744441669745,0.8388251662254333,0.8062160611152649
+What do I do to complete the Path of Warriors? Remind me.,"Przypomnij mi, co trzeba zrobić, żeby zakończyć próbę na szlaku wojowników?","""Co muszę zrobić, aby ukończyć Ścieżkę Wojowników? Przypomnij mi.""
+
+To zdanie zostało przetłumaczone dosłownie z języka angielskiego na polski. Zwróć uwagę, że w języku polskim często używamy cudzysłowów dla wyrażeń lub cytatów, podobnie jak w oryginalnym tekście angielskim.","Tłumaczenie na język polski:
+
+""Co muszę zrobić, aby ukończyć Ścieżkę Wojowników? Przypomnij mi.""
+
+To zdanie jest tłumaczeniem dosłownym i oddaje znaczenie oryginalnego tekstu w języku angielskim.","Co muszę zrobić, aby ukończyć Ścieżkę Wojowników? Przypomnij mi.","""Co muszę zrobić, aby ukończyć Ścieżkę Wojowników?""","Co muszę zrobić, aby ukończyć Ścieżkę Wojowników? Przypomnij mi.","Oto tłumaczenie tego zdania na język polski:
+
+""Co muszę zrobić, aby ukończyć Ścieżkę Wojowników? Przypomnij mi.""
+
+To zdanie zostało przetłumaczone dosłownie i zachowuje znaczenie oryginału. Warto zauważyć, że w języku polskim często używamy bardziej formalnego tonu niż w języku angielskim, dlatego ""przypomnij mi"" brzmi bardziej naturalnie niż bezpośrednie ""remind me"".","Co muszę zrobić, aby ukończyć Ścieżkę Wojowników? Przypomnij mi.",0.41622670393515954,0.006414921514603761,0.7024995684623718,0.6146764159202576,0.42395912578551226,0.00956240657444202,0.7248288989067078,0.6780192255973816,0.4558079755002618,0.022835060540062107,0.8213586807250977,0.874801754951477,0.3156525981471407,0.018653567503517977,0.789943516254425,0.8761300444602966,0.4558079755002618,0.022835060540062107,0.8213586807250977,0.874801754951477,0.3796768372026011,0.004826741258911654,0.6763228178024292,0.5983613133430481,0.4558079755002618,0.022835060540062107,0.8213586807250977,0.874801754951477
+"Fine… We'll do as you say. If the need arises, I can cast spells from up here.","Dobrze. Zrobimy, jak mówisz. Jakby co, będę cię wspierać zaklęciami z murów.","""Dobrze... Zrobimy tak, jak mówisz. Jeśli zajdzie taka potrzeba, mogę rzucać zaklęcia stąd.""
+
+To tłumaczenie oddaje sens oryginalnego zdania, zachowując jego strukturę i znaczenie w języku polskim.","Tłumaczenie tego zdania na język polski brzmi:
+
+""Dobrze... Zrobimy jak mówisz. Jeśli zajdzie potrzeba, mogę rzucać zaklęcia stąd.""
+
+To tłumaczenie zachowuje sens oryginalnego zdania, uwzględniając kontekst magiczny i sugerując możliwość rzucania czarów z pewnej odległości lub pozycji.","Dobrze... Zrobimy tak, jak mówisz. Jeśli zajdzie potrzeba, mogę rzucać zaklęcia stąd.","""Dobrze... Zrobimy jak mówisz. Jeśli zajdzie potrzeba, mogę rzucać zaklęcia stąd.""","Dobrze... Zrobimy jak mówisz. Jeśli zajdzie potrzeba, mogę rzucać zaklęcia stąd.","Dobrze... Zrobimy jak mówisz. Jeśli zajdzie taka potrzeba, mogę rzucać zaklęcia stąd.","Dobrze... Zrobimy jak mówisz. Jeśli zajdzie potrzeba, mogę rzucać zaklęcia stąd.",0.4342179727017034,0.014761667142304912,0.7282652258872986,0.7796332240104675,0.40095374427740804,0.011729176379814873,0.7068944573402405,0.6994838118553162,0.4764984693437444,0.03602080288207364,0.8041803240776062,0.8804991841316223,0.4570459212509311,0.03639945549178427,0.7944043278694153,0.8675996661186218,0.45848383868814785,0.03639945549178427,0.8054496645927429,0.8696631193161011,0.4607141391963994,0.03602080288207364,0.7956944108009338,0.8664433360099792,0.45848383868814785,0.03639945549178427,0.8054496645927429,0.8696631193161011
+"Just make sure you stay vigilant, listen to what I say.","Ważne, żebyś był czujny i słuchał moich poleceń.","""Upewnij się tylko, że pozostaniesz czujny i będziesz słuchał tego, co mówię.""
+
+To tłumaczenie zachowuje znaczenie oryginalnego zdania w języku angielskim, uwzględniając kontekst ostrzeżenia lub instrukcji skierowanej do kogoś.","Tłumaczenie tego zdania na język polski brzmi:
+
+""Po prostu upewnij się, że pozostaniesz czujny i słuchaj tego, co mówię.""
+
+To zdanie wyraża ostrzeżenie lub radę, aby osoba była ostrożna i zwracała uwagę na to, co mówi rozmówca. Może być używane w różnych kontekstach, od codziennych rozmów po bardziej formalne sytuacje, gdzie ważne jest, aby ktoś był świadomy i reagował na informacje przekazywane przez inną osobę.","Tylko upewnij się, że pozostaniesz czujny, słuchaj tego, co mówię.","""Upewnij się, że jesteś czujny, słuchaj tego, co mówię.""","Upewnij się, że pozostaniesz czujny i słuchasz tego, co mówię.","Tłumaczenie tego zdania na język polski brzmi:
+
+""Po prostu upewnij się, że pozostaniesz czujny i słuchaj tego, co mówię.""
+
+To zdanie wyraża prośbę lub ostrzeżenie skierowane do kogoś, aby zachował ostrożność i uważnie słuchał instrukcji lub rad dawanych przez osobę wypowiadającą te słowa.","Upewnij się, że zachowujesz czujność, słuchaj, co mówię.",0.25871409790751615,0.0151463165231073,0.7017510533332825,0.7732539176940918,0.27264392288909317,0.0065550184934083005,0.680404007434845,0.7715727686882019,0.25778896880700025,0.0,0.7603257894515991,0.8920229077339172,0.25143980745301747,0.0,0.7610591650009155,0.9002690315246582,0.3386416900153739,0.0446323613785333,0.7589059472084045,0.901732861995697,0.3040061793625746,0.010032055247005962,0.686445415019989,0.796636700630188,0.23738459138011211,0.0,0.7634904384613037,0.8727975487709045
+What do I look for? Did Aki have anything that'll help me recognize him? Something he was wearing that could survive all this time under water?,"Aki miał przy sobie coś, po czym mógłbym go rozpoznać? Coś, co wytrzymałoby pod wodą tyle czasu?","""Czego mam szukać? Czy Aki miał coś, co pomoże mi go rozpoznać? Coś, co mogło przetrwać tyle czasu pod wodą?""","Tłumaczenie tego fragmentu na język polski brzmi następująco:
+
+""Czego szukam? Czy Aki miał coś, co pomoże mi go rozpoznać? Coś, co mógł mieć na sobie i co przetrwałoby tak długi czas pod wodą?""
+
+To zdanie wyraża myśli osoby poszukującej informacji o zaginionej osobie (Aki) i próbującej znaleźć jakiekolwiek ślady lub przedmioty, które mogłyby pomóc w identyfikacji. Wskazuje na trudności związane z upływem czasu i warunkami panującymi pod wodą, które mogły wpłynąć na stan potencjalnych dowodów.","Czego szukam? Czy Aki miał coś, co pomoże mi go rozpoznać? Coś, co mogło przetrwać tak długi czas pod wodą?","""Czego mam szukać? Czy Aki miał coś, co pomoże mi go rozpoznać? Coś, co mogło przetrwać tak długi czas pod wodą?""","Czego szukam? Czy Aki miał coś, co pomoże mi go rozpoznać? Coś, co miał na sobie i co mogło przetrwać tak długo pod wodą?","Oto tłumaczenie podanego zdania na język polski:
+
+""Czego szukam? Czy Aki miał coś, co pomoże mi go rozpoznać? Coś, co nosił i mogło przetrwać tak długo pod wodą?""
+
+To zdanie wyraża zastanowienie się nad tym, jakie informacje lub przedmioty mogłyby pomóc w identyfikacji osoby znalezionej po długim czasie spędzonym pod wodą.","Czego szukam? Czy Aki miał coś, co pomoże mi go rozpoznać? Coś, co miał na sobie i co mogło przetrwać tak długo pod wodą?",0.4842500386933728,0.1577454598068419,0.8308768272399902,0.8722639083862305,0.38689186247957946,0.03963656762381902,0.7077164053916931,0.7447842359542847,0.4299508391110474,0.1531682455208201,0.8323874473571777,0.8677711486816406,0.429323779952695,0.14528679532351443,0.811686635017395,0.8684527277946472,0.4391508675048483,0.12962472880491877,0.8319717049598694,0.8974730372428894,0.40639221265815495,0.05886250626142405,0.7248448729515076,0.7308476567268372,0.4391508675048483,0.12962472880491877,0.8319717049598694,0.8974730372428894
+"So you don't actually know if it works, how it works?","Czyli właściwie nie wiadomo, czy ona działa?","""Więc tak naprawdę nie wiesz, czy to działa i jak to działa?""","Tłumaczenie tego zdania na język polski brzmi:
+
+""Więc tak naprawdę nie wiesz, czy to działa, jak to działa?""
+
+To zdanie wyraża pytanie lub stwierdzenie, że ktoś nie jest pewny, czy coś działa i jak dokładnie działa. Może być użyte w różnych kontekstach, na przykład gdy ktoś pyta o funkcjonowanie nowej technologii, leku lub procesu.","Więc tak naprawdę nie wiesz, czy to działa, jak to działa?","""Więc tak naprawdę nie wiesz, czy to działa, jak to działa?""","Więc tak naprawdę nie wiesz, czy to działa i jak działa?","Więc tak naprawdę nie wiesz, czy to działa i jak to działa?","Więc tak naprawdę nie wiesz, czy to działa, jak to działa?",0.31617124846970485,0.020255986027125642,0.7398568391799927,0.9130955338478088,0.24108832334074692,0.00402899484413971,0.6492551565170288,0.7418506145477295,0.31357502928710357,0.024808415001701823,0.7588185667991638,0.8814616799354553,0.3119195477894327,0.022416933501922302,0.7376673817634583,0.8878737688064575,0.31524820368802037,0.024808415001701823,0.7697575092315674,0.9333013892173767,0.3178485335606079,0.022416933501922302,0.7600188851356506,0.9201233386993408,0.31357502928710357,0.024808415001701823,0.7588185667991638,0.8814616799354553
+"Leave that to me. Go, seek and find your Cirilla.",Ja z nim pogadam. A wy ruszajcie szukać Ciri.,"""Zostaw to mnie. Idź, szukaj i znajdź swoją Cirillę.""","Tłumaczenie na język polski:
+
+""Zostaw to mnie. Idź, szukaj i znajdź swoją Cirillę.""
+
+To zdanie wydaje się być fragmentem dialogu lub narracji z kontekstu literackiego lub filmowego, prawdopodobnie nawiązującego do postaci Ciri (Ciriella) z sagi ""Wiedźmin"" Andrzeja Sapkowskiego lub jej adaptacji w grach komputerowych i serialu Netflixa.","Zostaw to mnie. Idź, szukaj i znajdź swoją Cirillę.","""Zostaw to mnie. Idź, szukaj i znajdź swoją Cirillę.""","Zostaw to mnie. Idź, szukaj i znajdź swoją Cirillę.","Oto tłumaczenie podanego zdania na język polski:
+
+""Zostaw to mnie. Idź, szukaj i znajdź swoją Cirillę.""
+
+To zdanie jest dosyć proste w tłumaczeniu i zachowuje swój oryginalny sens. Warto zauważyć, że imię ""Cirilla"" pozostaje niezmienione, ponieważ jest to nazwa własna pochodząca z fikcyjnego świata, w którym osadzona jest ta fraza.","Zostaw to mnie. Idź, szukaj i znajdź swoją Cirillę.",0.19821519637274362,0.0,0.7166385650634766,0.7373377680778503,0.1761268719557246,0.0039094870602888725,0.5997788906097412,0.6124438643455505,0.19929347761735797,0.0,0.7418660521507263,0.7558481097221375,0.19821519637274362,0.0,0.7166385650634766,0.7373377680778503,0.19929347761735797,0.0,0.7418660521507263,0.7558481097221375,0.1698888868815318,0.00366753025392797,0.6100770235061646,0.6413775086402893,0.19929347761735797,0.0,0.7418660521507263,0.7558481097221375
+But could that truly be so important?,Ale żeby to było aż tak ważne...?,"""Ale czy to naprawdę może być tak ważne?""
+
+To tłumaczenie z języka angielskiego na polski. Zwróć uwagę, że w języku polskim zdanie to brzmi nieco inaczej niż oryginalne angielskie wyrażenie, ale oddaje jego znaczenie i intencję.","Tłumaczenie zdania ""But could that truly be so important?"" na język polski brzmi:
+
+""Ale czy to naprawdę może być tak ważne?""
+
+To tłumaczenie zachowuje sens oryginalnego pytania, wyrażając wątpliwość co do znaczenia lub istotności jakiejś sprawy.",Ale czy to rzeczywiście może być tak ważne?,"""Ale czy to mogłoby być tak ważne?""",Ale czy to rzeczywiście mogłoby być tak ważne?,"Oto tłumaczenie podanego zdania na język polski:
+
+""Ale czy to naprawdę może być tak ważne?""
+
+To zdanie wyraża wątpliwość lub zastanowienie nad znaczeniem jakiejś sytuacji lub informacji. Może być użyte w różnych kontekstach, gdy ktoś chce zakwestionować lub sprawdzić, czy dana sprawa jest rzeczywiście istotna.",Ale czy to mogło być tak ważne?,0.26109467124657887,0.006132910803680854,0.6489433646202087,0.6490397453308105,0.24018878737387403,0.006132910803680854,0.6109485626220703,0.6422662734985352,0.3604540999768629,0.03655552228545124,0.788249135017395,0.9701952338218689,0.36318609287431647,0.039281465090051315,0.7606664299964905,0.9602755308151245,0.3554458648532392,0.03655552228545124,0.7843301892280579,0.9720671772956848,0.2190849130666136,0.004863083928997274,0.6285114884376526,0.6584447622299194,0.3562719029342554,0.043472087194499145,0.8043597340583801,0.9688437581062317
+Pass the mead and a tankard for the man!,Dawać wina i kielich!,"""Podaj miód i kufel dla tego człowieka!""
+
+To zdanie w języku angielskim jest wezwaniem do podania napoju alkoholowego (miodu pitnego) oraz naczynia (tankarda lub kufla) dla jakiejś osoby. W kontekście historycznym, mogło to być używane w średniowiecznych karczmach lub podczas uczt, gdzie miód pitny był popularnym napojem alkoholowym.","Tłumaczenie tego zdania na język polski brzmi:
+
+""Podaj miód pitny i kufel dla tego człowieka!""
+
+To tradycyjne wezwanie w języku angielskim, które można usłyszeć w kontekście historycznym lub fantasy, często używane w opisach scen biesiadnych czy w karczmach. Miód pitny to alkoholowy napój na bazie miodu, popularny w średniowiecznej Europie, a kufel to rodzaj dużej szklanki lub dzbana do picia piwa lub innego napoju.",Podaj miód pitny i kufel dla tego człowieka!,"""Podaj miód pitny i kufel dla mężczyzny!""",Podaj miód pitny i kufel dla tego człowieka!,"Podaj miód pitny i kufel dla tego człowieka!
+
+To zdanie w języku staroangielskim (staroangielski) jest często używane jako przykład w nauce języków germańskich. W kontekście historycznym, mogło być to wezwanie do podania napoju alkoholowego (miodu pitnego) oraz naczynia (kufelka) dla gościa lub uczestnika spotkania towarzyskiego w dawnych czasach.",Podaj miód pitny i kufel dla tego człowieka!,0.10124525775605629,0.0038253628844009133,0.6255881786346436,0.588281512260437,0.09450165983524872,0.00284570245153172,0.5983415246009827,0.5784859657287598,0.1525262999299851,0.02777619034011792,0.7650327086448669,0.6292789578437805,0.11088791769592016,0.033031643180138064,0.7613739967346191,0.6658740639686584,0.1525262999299851,0.02777619034011792,0.7650327086448669,0.6292789578437805,0.10927354475328761,0.0038253628844009133,0.6276835799217224,0.5602573752403259,0.1525262999299851,0.02777619034011792,0.7650327086448669,0.6292789578437805
+Recovered your stolen horn.,Odzyskałem skradziony róg.,"""Odzyskaliśmy Twój skradziony róg.""
+
+To tłumaczenie odnosi się do zdania w języku angielskim, które zostało przetłumaczone na język polski. Zdanie to może być użyte w kontekście informowania kogoś o odzyskaniu jego zagubionej lub skradzionej własności, w tym przypadku rogu (np. instrumentu muzycznego).","Tłumaczenie tego zdania na język polski brzmi: ""Odzyskano twój skradziony róg.""
+
+Warto zauważyć, że w tym kontekście słowo ""horn"" może oznaczać nie tylko instrument muzyczny (róg), ale także rogi zwierzęce lub inne przedmioty przypominające kształtem róg. W zależności od kontekstu, tłumaczenie może się nieco różnić.",Odzyskano skradziony róg.,"""Odzyskaliśmy twój skradziony róg.""",Odzyskano twój skradziony róg.,"Odzyskano skradziony róg.
+
+To tłumaczenie odnosi się do sytuacji, w której ktoś odzyskał coś, co zostało mu skradzione, a przedmiotem tym jest róg (np. instrument muzyczny lub inny przedmiot z rogu). W języku polskim używamy czasownika ""odzyskać"" dla wyrażenia tej czynności, a nie ""recover"", który w tym kontekście oznacza ""odzyskiwać"".",Odzyskałem twój skradziony róg.,0.36567766242052474,0.004392487796991638,0.6792213916778564,0.6467738747596741,0.3605354544733328,0.004863083928997274,0.6615349054336548,0.5946953892707825,0.7395985636206568,0.24028114141347542,0.9048088788986206,0.9429633617401123,0.716609847843888,0.08034284189446518,0.8239858150482178,0.9057272672653198,0.7260912734195281,0.16990442448471224,0.8796034455299377,0.9433462023735046,0.36355238836674547,0.00775588219660462,0.6803749203681946,0.607440173625946,0.8606198909597523,0.1880301546543197,0.923507571220398,0.9437850713729858
+Our wagon's full of loot we ripped from the Black Ones.,Bo nasz wóz cały wyładowany jest łupami wydartymi czarnym.,"""Nasz wóz jest pełen łupów, które zabraliśmy Czarnym.""","Tłumaczenie tego zdania na język polski brzmi:
+
+""Nasz wóz jest pełen łupów, które zabraliśmy Czarnym.""
+
+Wyjaśnienie:
+- ""Our wagon"" to po polsku ""nasz wóz"".
+- ""full of loot"" można przetłumaczyć jako ""pełen łupów"".
+- ""we ripped from the Black Ones"" oznacza ""które zabraliśmy Czarnym"".
+
+Warto zauważyć, że słowo ""Black Ones"" (Czarni) odnosi się prawdopodobnie do jakiejś grupy lub osób, które są określane tym mianem. W oryginalnym kontekście mogło chodzić o rdzenną ludność Ameryki Północnej lub innych członków społeczności, którzy byli tak nazywani przez białych osadników lub najeźdźców.","Nasz wóz jest pełen łupów, które zabraliśmy Czarnym.","""Nasz wóz jest pełen łupów zabranych Czarnym.""",Nasz wóz jest pełen łupów zerwanych od Czarnych.,"Nasza wóz jest pełen łupów, które zrabowaliśmy od Czarnych.",Nasz wóz jest pełen łupów zerwanych od Czarnych.,0.25526094101066676,0.02915032279375143,0.7172733545303345,0.7503525018692017,0.22231010117412522,0.0024735945764034315,0.6045169234275818,0.5718557834625244,0.25632299053405766,0.02915032279375143,0.7400097846984863,0.7552101016044617,0.2661064086909865,0.029519129053903102,0.748458981513977,0.7332830429077148,0.2467683978946159,0.02915032279375143,0.7702673077583313,0.6128995418548584,0.21276636744616342,0.028517539529041507,0.7296352386474609,0.7500245571136475,0.2467683978946159,0.02915032279375143,0.7702673077583313,0.6128995418548584
+Lovely as monickers go.,Sympatyczny przydomek.,"""Przyjemne jako imiona.""
+
+To zdanie wydaje się być niekompletne lub wyrwane z kontekstu. Bez dodatkowego kontekstu trudno jest dokładnie przetłumaczyć jego znaczenie. Jednakże, jeśli chodzi o dosłowne tłumaczenie, brzmiałoby ono tak jak podałem powyżej.","Tłumaczenie tego angielskiego powiedzenia na język polski brzmi: ""Uroczy jak przydomki.""
+
+To wyrażenie jest używane, gdy ktoś lub coś jest tak czarujący lub atrakcyjny, że można by go opisać jedynie za pomocą pieszczotliwych przezwisk czy zdrobnień. Oznacza to, że dana osoba lub rzecz jest niezwykle sympatyczna i miła w odbiorze.",Uroczy jak przezwiska.,"""Urocze jako imiona.""",Uroczy jak przezwiska.,"Przetłumaczone zdanie na język polski brzmi: ""Urocze jak przezwiska.""
+
+To tłumaczenie może nie być dosłowne, ponieważ oryginalne wyrażenie ""Lovely as monickers go"" jest idiomatyczne i może mieć kilka znaczeń lub kontekstów. W zależności od kontekstu, można je interpretować jako komplement dotyczący imienia, pseudonimu lub ogólnie uroczego charakteru czegoś.
+
+Jeśli potrzebujesz bardziej szczegółowego tłumaczenia lub masz dodatkowe informacje o kontekście, chętnie pomogę dostosować tłumaczenie do Twoich potrzeb.",Urocze jak przezwiska.,0.13635406328861482,0.0,0.6250720620155334,0.5128627419471741,0.26241031997329994,0.0,0.6353986263275146,0.5827746391296387,0.13003847791822762,0.0,0.7027662396430969,0.47934597730636597,0.08854571354571363,0.0,0.6996675133705139,0.5363792777061462,0.13003847791822762,0.0,0.7027662396430969,0.47934597730636597,0.11705092486751094,0.0,0.5759998559951782,0.5386717915534973,0.11368878687930091,0.0,0.7041523456573486,0.43725648522377014
+The clans will unite. There'll be peace.,Teraz klany się zjednoczą i będzie pokój.,"""Klany się zjednoczą. Nastanie pokój.""
+
+To tłumaczenie oddaje sens oryginalnego zdania w języku angielskim, przekazując ideę jedności i harmonii między klanami oraz ogólny obraz pokoju.","""Klany się zjednoczą. Będzie pokój.""
+
+To zdanie w języku angielskim zostało przetłumaczone na język polski dosłownie, zachowując oryginalną strukturę i znaczenie. Warto zauważyć, że tłumaczenie to może być użyte w różnych kontekstach, na przykład w literaturze fantasy, gdzie klany mogą odnosić się do grup ludzi lub istot nadprzyrodzonych, lub w szerszym kontekście społecznym, gdzie mowa o jedności i pokoju między różnymi grupami.",Rody się zjednoczą. Nastanie pokój.,"""Klany się zjednoczą. Nastanie pokój.""",Rody się zjednoczą. Nastanie pokój.,"Oto tłumaczenie podanego zdania na język polski:
+
+""Klany się zjednoczą. Będzie pokój.""
+
+To zdanie wyraża ideę jedności i harmonii między różnymi grupami lub społecznościami, co prowadzi do osiągnięcia trwałego pokoju. W kontekście kulturowym lub historycznym, może to oznaczać pojednanie między rywalizującymi plemionami, rodami lub narodami.",Rody się zjednoczą. Nastanie pokój.,0.49119598680712045,0.009009113474307318,0.7388154864311218,0.8367205858230591,0.36867326913376813,0.0038690034505641548,0.6779053807258606,0.7219544649124146,0.5183992679516495,0.04282963710525157,0.8579743504524231,0.9226477742195129,0.5872487942987018,0.036015288308423515,0.8301954865455627,0.9461534023284912,0.5183992679516495,0.04282963710525157,0.8579743504524231,0.9226477742195129,0.39864004697113425,0.004863083928997274,0.6814365386962891,0.7768727540969849,0.5183992679516495,0.04282963710525157,0.8579743504524231,0.9226477742195129
+Can you cut my hair?,Ostrzyżesz mnie?,"""Czy możesz obciąć mi włosy?""
+
+To tłumaczenie odnosi się do zdania ""Can you cut my hair?"", które zostało przetłumaczone dosłownie i zachowuje znaczenie oryginalnego pytania. W języku polskim, podobnie jak w angielskim, jest to prośba skierowana do kogoś o wykonanie usługi fryzjerskiej.","Tłumaczenie tego zdania na język polski brzmi:
+
+""Czy możesz obciąć mi włosy?""
+
+To pytanie jest często używane w salonach fryzjerskich lub w sytuacjach, gdy ktoś prosi o pomoc w strzyżeniu włosów. Warto zauważyć, że w języku polskim zwrot ""obcinać włosy"" jest bardziej powszechny niż ""strzyc włosy"", choć oba te wyrażenia są poprawne i mogą być używane zamiennie.",Czy możesz obciąć mi włosy?,"""Czy możesz obciąć mi włosy?""",Czy możesz obciąć mi włosy?,"Podane zdanie ""Can you cut my hair?"" w tłumaczeniu na język polski brzmi:
+
+""Czy możesz obciąć mi włosy?""
+
+To prośba skierowana zazwyczaj do fryzjera lub osoby, która ma umiejętności strzyżenia włosów. Zdanie to jest często używane w kontekście wizyty u fryzjera lub prośby o pomoc w przycięciu włosów.",Czy możesz mnie ostrzyc?,0.11640234376705615,0.0,0.5620195865631104,0.52503901720047,0.1691831483913744,0.0,0.5550301671028137,0.5635792016983032,0.18770569981786958,0.0,0.7344619631767273,0.7924375534057617,0.18524114774114772,0.0,0.7096461653709412,0.7911288142204285,0.18770569981786958,0.0,0.7344619631767273,0.7924375534057617,0.19289608005469874,0.0,0.5514493584632874,0.5427606701850891,0.5970390278485335,0.0,0.8004630208015442,0.878000020980835
+"Me da fished, as did his da, and his da's da… Just sorta happened.","Ojciec łowił, przed nim dziadek i pradziadek... Jakoś tak wyszło.","""Mnie też się to przytrafiło, tak samo jak jego ojcu, i ojcu jego ojca... Po prostu tak wyszło.""
+
+To zdanie jest próbą przetłumaczenia angielskiego idiomatycznego wyrażenia ""Me da fished, as did his da, and his da's da... Just sorta happened"" na język polski. Należy jednak pamiętać, że tego typu frazy często tracą swój pełny sens po przetłumaczeniu na inny język, ponieważ mogą zawierać elementy kulturowe lub specyficzne dla danego języka. W tym przypadku, wyrażenie sugeruje, że coś wydarzyło się w sposób nieoczekiwany lub przypadkowy, podobnie jak wcześniej u ojca i dziadka osoby mówiącej.","Tłumaczenie tego zdania na język polski brzmi:
+
+""Ja też łowiłem ryby, tak jak mój dziadek, i jego dziadek... Po prostu tak wyszło.""
+
+To zdanie jest nieco poetyckie i może być używane jako metafora lub opis tradycji rodzinnej. Oto kilka dodatkowych wyjaśnień:
+
+1. ""Me da"" to potoczne określenie ojca w języku angielskim (odpowiednik polskiego ""mój tata"").
+2. ""Da"" to skrót od ""dad"", czyli ""ojciec"".
+3. ""Da's da"" oznacza ""ojca mego dziadka"", czyli pradziadka.
+4. Całe zdanie sugeruje, że dana osoba kontynuowała tradycję łowienia ryb, która była przekazywana z pokolenia na pokolenie w jej rodzinie.
+5. Fraza ""Just sorta happened"" podkreśla, że ta tradycja rozwinęła się naturalnie, bez świadomego planowania.
+
+Warto zauważyć, że to zdanie ma charakter potoczny i może być używane w kontekście opowieści rodzinnych lub anegdot.","Ja też łowiłem ryby, tak jak mój dziadek, a dziadek mojego dziadka... Po prostu tak wyszło.","""Mnie też się to przytrafiło, jak jego ojcu, i ojcu jego ojca... Po prostu tak wyszło.""","Dostałem się tu w ten sam sposób, co mój dziadek, a jego dziadek... Po prostu tak wyszło.","Oto tłumaczenie tego zdania na język polski:
+
+""Ja też łowiłem ryby, tak jak mój dziadek, i dziadek mojego dziadka... Po prostu tak wyszło.""
+
+To zdanie jest nieco niejasne i zawiera powtórzenia, ale starałem się oddać jego sens w sposób zrozumiały dla polskiego czytelnika. Warto zauważyć, że oryginalne zdanie wydaje się być celowo niedokładne lub humorystyczne, co zostało odzwierciedlone w tłumaczeniu.","Ja też łowiłem ryby, tak jak mój dziadek, i dziadek mojego dziadka... Po prostu tak wyszło.",0.22614074619809021,0.0023113665798362125,0.644669234752655,0.5311949253082275,0.28769842541335416,0.001698656871277568,0.6369490623474121,0.6418510675430298,0.42622856225810835,0.02878787818101127,0.7937471866607666,0.7462697625160217,0.2576342555409319,0.014628063653657535,0.7529879808425903,0.5658274292945862,0.4027671805019912,0.02432542569851428,0.7923484444618225,0.5757632851600647,0.3205975083821322,0.0040013246159036715,0.6693572998046875,0.5798059701919556,0.41686455812886897,0.030934588294313718,0.7937307953834534,0.7963568568229675
+What do the druids think of Skellige's new ruler?,Jak druidzi zapatrują się na nowego władcę Skellige?,"""Co druidzi myślą o nowym władcy Skellige?""
+
+To pytanie zostało przetłumaczone dosłownie z języka angielskiego na polski. Oto kilka dodatkowych informacji, które mogą być przydatne:
+
+1. Kontekst: Pytanie to odnosi się do fikcyjnego świata gry ""Wiedźmin"", stworzonego przez Andrzeja Sapkowskiego. W tym świecie druidzi są jedną z grup magicznych istot, a Skellige jest krainą zamieszkaną głównie przez ludzi i elfów.
+
+2. Znaczenie: Pytanie sugeruje, że w grze lub opowiadaniach doszło do zmiany władcy w Skellige, a druidzi mają swoje zdanie na ten temat. Może to dotyczyć opinii o nowym władcy, jego polityce, czy też wpływu na relacje między różnymi rasami i frakcjami w Skellige.
+
+3. Tłumaczenie: Użyte słowa są standardowymi polskimi odpowiednikami angielskich terminów. ""Druidzi"" to tłumaczenie słowa ""druids"", a ""Skellige"" pozostaje niezmienione, ponieważ jest to nazwa własna. ""Nowy władca"" to dosłowne tłumaczenie ""new ruler"".
+
+4. Interpretacja: Aby w pełni zrozumieć znaczenie tego pytania, należałoby mieć kontekst związany z fabułą gry lub opowiadań, w których pojawiają się druidzi i zmiana władcy w Skellige. Bez tego kontekstu, pytanie może wydawać się abstrakcyjne dla osób nieznających uniwersum ""Wiedźmina"".","Tłumaczenie na język polski: ""Co myślą druidzi o nowym władcy Skelligu?""
+
+Warto zauważyć, że to tłumaczenie jest dosłowne i może nie oddawać pełnego kontekstu pytania. W języku polskim często używamy bardziej rozbudowanych form pytających, np.:
+
+""Jakie jest zdanie druidów na temat nowego władcy Skelligu?""
+
+lub
+
+""Czy druidzi mają jakieś opinie dotyczące nowego władcy Skelligu?""
+
+To drugie tłumaczenie lepiej oddaje sens oryginalnego pytania, sugerując, że chodzi o ogólny stosunek lub opinię druidów na dany temat.",Co druidzi myślą o nowym władcy Skelligów?,"""Co druidzi myślą o nowym władcy Skellige?""",Co myślą druidzi o nowym władcy Skellige?,"""Co druidzi myślą o nowym władcy Skellige?""
+
+To tłumaczenie uwzględnia kontekst oryginalnego zdania, zachowując jego znaczenie i strukturę gramatyczną w języku polskim.",Co druidzi myślą o nowym władcy Skellige?,0.1546423210880287,0.0013412007780641447,0.6195218563079834,0.6555238962173462,0.2823965653845407,0.0032284492022662025,0.6703227758407593,0.6498156785964966,0.30620713102366015,0.028634401465295497,0.8477460145950317,0.9206134676933289,0.3497581889898234,0.028634401465295497,0.8482878804206848,0.9074229598045349,0.35141780526777694,0.034052233956373766,0.873656153678894,0.9147440195083618,0.3790121305895903,0.008687475782716616,0.7243561148643494,0.6548752188682556,0.35141780526777694,0.034052233956373766,0.8822664618492126,0.9137977957725525
+"Till one day Cerys, a brave lass of Skellige, called the demon out, challenged him to a duel.","Lecz pewnego dnia Cerys, dzielna córa skelligijskiej ziemi, rzuciła demonowi wyzwanie.","""Pewnego dnia odważna dziewczyna ze Skellige wezwała demona i wyzwała go do pojedynku.""
+
+To tłumaczenie oddaje sens oryginalnego zdania w języku angielskim, zachowując główne elementy fabuły i charakterystykę postaci. Warto zauważyć, że w tym kontekście ""Cerys"" jest imieniem własnym i pozostaje niezmienione w tłumaczeniu.","""Aż pewnego dnia Cerys, dzielna panna ze Skelligów, wyzwała demona na pojedynek.""
+
+To tłumaczenie oddaje sens oryginalnego zdania w języku angielskim. Kilka uwag dotyczących tego tłumaczenia:
+
+1. ""Till one day"" zostało przetłumaczone jako ""Aż pewnego dnia"", co jest dosłownym odpowiednikiem i zachowuje znaczenie oryginału.
+
+2. ""Cerys"" pozostawiono bez zmian, ponieważ jest to imię własne.
+
+3. ""A brave lass"" zostało przetłumaczone jako ""dzielna panna"". Wyrażenie ""dzielna panna"" najlepiej oddaje charakterystykę postaci jako odważnej młodej kobiety.
+
+4. ""Of Skellige"" zostało przetłumaczone jako ""ze Skelligów"". Jest to poprawna forma gramatyczna w języku polskim dla określenia miejsca pochodzenia.
+
+5. ""Called the demon out"" zostało przetłumaczone jako ""wyzwała demona"". To wyrażenie najlepiej oddaje czynność opisaną w oryginale.
+
+6. ""Challenged him to a duel"" zostało przetłumaczone jako ""na pojedynek"". To słowo najlepiej pasuje do kontekstu walki między dwoma osobami.
+
+7. Całe zdanie zostało przetłumaczone w sposób zachowujący jego strukturę i znaczenie, jednocześnie dostosowując je do norm języka polskiego.","Aż pewnego dnia Cerys, odważna dziewczyna ze Skelligów, wezwała demona, rzuciła mu wyzwanie do pojedynku.","""Pewnego dnia odważna dziewczyna ze Skellige wezwała demona, wyzywając go do pojedynku.""","Pewnego dnia Cerys, odważna dziewczyna ze Skellige, wezwała demona, rzuciła mu wyzwanie i zaproponowała pojedynek.","Przetłumaczone zdanie na język polski:
+
+""Aż pewnego dnia Cerys, odważna dziewczyna ze Skellige, wyzwała demona, rzucając mu wyzwanie do pojedynku.""
+
+To tłumaczenie zachowuje sens oryginalnego zdania, uwzględniając kontekst i charakterystyczne cechy języka angielskiego, takie jak archaiczny styl wypowiedzi.","Aż pewnego dnia Cerys, odważna dziewczyna ze Skellige, wyzwała demona, rzucając mu wyzwanie.",0.3512206869982674,0.004185635735742376,0.6481499075889587,0.6797970533370972,0.2759046209963045,0.01470714230893279,0.581504762172699,0.5142284631729126,0.49837997906056836,0.07029695662739609,0.8272036910057068,0.8571130633354187,0.3104279455092438,0.017033186037639283,0.7136026620864868,0.8571028709411621,0.4944620557920822,0.030934588294313718,0.8065933585166931,0.8623898029327393,0.43503030773087986,0.02412397368972536,0.700645387172699,0.6730582118034363,0.4786953608507913,0.08263103182212594,0.8341975808143616,0.9051259160041809
+Sure. I'll race.,Wezmę udział w wyścigu.,"""Oczywiście. Z chęcią się ścigam.""
+
+To tłumaczenie oddaje sens oryginalnego zdania w języku angielskim, wyrażając gotowość i entuzjazm do udziału w wyścigu lub rywalizacji.","Tłumaczenie tego zdania na język polski brzmi:
+
+""Jasne. Zawiozę.""
+
+Wyjaśnienie:
+- ""Sure"" w tym kontekście oznacza ""jasne"", ""oczywiście"".
+- ""I'll race"" to forma czasownika ""race"" (wyścig, wyścigiwać się) w pierwszej osobie liczby pojedynczej czasu przyszłego prostego (Future Simple). W tym kontekście najlepszym odpowiednikiem jest ""zawiozę"", co sugeruje gotowość do szybkiego działania lub pomocy.
+
+Zdanie to może być użyte w sytuacji, gdy ktoś prosi o szybką pomoc lub transport w nagłej sytuacji.",Oczywiście. Zróbmy to.,"""Oczywiście. Pobiegnę.""",Oczywiście. Zróbmy to.,"Oczywiście. Zawrócę.
+
+To tłumaczenie jest dosłowne i może nie być w pełni zgodne z kontekstem, ponieważ oryginalne zdanie ""I'll race"" może oznaczać różne rzeczy w zależności od sytuacji. Możliwe znaczenia to:
+
+1. ""Zawrócę"" - jeśli mowa o zmianie kierunku jazdy lub ruchu.
+2. ""Rywalizuję"" - jeśli chodzi o udział w wyścigu lub rywalizacji.
+3. ""Spieszę się"" - jeśli kontekst sugeruje pośpiech lub pilność.
+
+Warto pamiętać, że dokładne tłumaczenie może zależeć od szerszego kontekstu rozmowy lub sytuacji, w której to zdanie zostało użyte.",Oczywiście. Zróbmy wyścig.,0.32223720834389713,0.007913247271422612,0.6457920074462891,0.7005709409713745,0.12917781062493103,0.0025590065762365363,0.5825527310371399,0.4246061444282532,0.11013645224171546,0.0,0.6727278828620911,0.5010503530502319,0.11727769617621109,0.0,0.6601672768592834,0.6169385313987732,0.11013645224171546,0.0,0.6727278828620911,0.5010503530502319,0.21267520015525476,0.004672007287530395,0.5935967564582825,0.5170366168022156,0.237109772463178,0.0,0.7071706652641296,0.7394546270370483
+Thanks… Farewell.,Dzięki... Bywaj.,"""Dziękuję... Żegnaj.""
+
+To tłumaczenie obejmuje dwa wyrażenia:
+- ""Dziękuję"": To słowo jest używane, aby wyrazić wdzięczność lub podziękowanie.
+- ""Żegnaj"": Jest to pożegnalne słowo używane, gdy ktoś odchodzi lub kończy interakcję z inną osobą.
+
+Oba te wyrażenia są powszechnie używane w języku polskim i mają swoje odpowiedniki w wielu innych językach.","Tłumaczenie tego zdania na język polski brzmi: ""Dziękuję... Żegnaj.""
+
+Wyjaśnienie krok po kroku:
+1. ""Thanks"" - w języku angielskim jest to potoczne wyrażenie podziękowania, które można przetłumaczyć jako ""dziękuję"".
+2. ""Farewell"" - oznacza pożegnanie lub rozstanie. W języku polskim używamy słowa ""żegnaj"", które jest bardziej formalnym odpowiednikiem angielskiego ""farewell"".
+3. Łączymy te dwa elementy, aby uzyskać pełne zdanie w języku polskim: ""Dziękuję... Żegnaj.""
+
+To zdanie może być użyte w różnych kontekstach, na przykład gdy ktoś kończy spotkanie lub relację z inną osobą, wyrażając jednocześnie wdzięczność i pożegnanie.",Dziękuję... Żegnaj.,"""Dziękuję... Żegnaj.""",Dziękuję... Żegnaj.,"Podane zdanie ""Thanks... Farewell."" w tłumaczeniu na język polski brzmi:
+
+""Dziękuję... Żegnaj.""
+
+To krótkie pożegnanie, które składa się z dwóch części:
+1. ""Dziękuję"" - wyraża wdzięczność lub podziękowanie za coś.
+2. ""Żegnaj"" - jest to formalne pożegnanie używane przy rozstaniu.
+
+Warto zauważyć, że w języku polskim często dodaje się również słowo ""do widzenia"", aby bardziej precyzyjnie określić charakter pożegnania. Pełna forma mogłaby więc brzmieć: ""Dziękuję... Do widzenia."" lub ""Dziękuję... Żegnaj.""
+
+Jeśli chcesz, mogę omówić różnice między tymi formami i kiedy najlepiej ich używać.",Dziękuję... Żegnaj.,0.13395407516252333,0.0,0.6050481200218201,0.5971176028251648,0.08481398720921536,0.0,0.5631700754165649,0.5684356093406677,0.3175719764446886,0.0,0.7673524618148804,0.6725450754165649,0.31312140823256235,0.0,0.7252134680747986,0.7858538627624512,0.3175719764446886,0.0,0.7673524618148804,0.6725450754165649,0.0899301533440217,0.0,0.5733506083488464,0.6156800389289856,0.3175719764446886,0.0,0.7673524618148804,0.6725450754165649
+"That man in the mask… he's from afar, isn't he?","Ten w masce... On chyba jest z daleka, co?","""Ten człowiek w masce... on jest z daleka, prawda?""
+
+To tłumaczenie oddaje oryginalne zdanie w języku angielskim, zachowując jego strukturę i znaczenie.","Tłumaczenie tego zdania na język polski brzmi: ""Ten człowiek w masce... on jest z daleka, prawda?""
+
+Wyjaśnienie krok po kroku:
+
+1. ""That man"" - oznacza ""ten mężczyzna"".
+2. ""in the mask"" - to ""w masce"".
+3. ""he's"" - to skrócona forma czasownika ""to be"", czyli ""być"". W tym kontekście używamy formy przeczącej ""is not"" lub ""isn't"", co odpowiada polskiemu ""nie jest"".
+4. ""from afar"" - to ""z daleka"".
+5. ""isn't he"" - to pytająca forma czasownika ""to be"", która w języku polskim brzmi ""prawda?"".
+
+Całe zdanie ma charakter pytający i sugeruje, że osoba mówiąca chce potwierdzić, że mężczyzna w masce pochodzi z daleka.","""Ten człowiek w masce... on jest z daleka, prawda?""","""Ten człowiek w masce... on jest z daleka, prawda?""","Ten człowiek w masce... on jest z daleka, prawda?","Oto tłumaczenie podanego zdania na język polski:
+
+""Ten człowiek w masce... on jest z daleka, prawda?""
+
+To zdanie można również przetłumaczyć jako:
+
+""Człowiek w masce... czy nie pochodzi stamtąd?""
+
+Obie wersje oddają sens oryginalnego zdania w języku angielskim.","""Ten człowiek w masce... on jest z daleka, prawda?""",0.4561285091125409,0.05406502668979586,0.7441752552986145,0.6516928672790527,0.24792131324031555,0.01090393169242361,0.6229892373085022,0.5101245641708374,0.5476416598005152,0.14923729480049117,0.8580427765846252,0.8198133707046509,0.5476416598005152,0.14923729480049117,0.8580427765846252,0.8198133707046509,0.5510036393308475,0.1561969968460128,0.8922418355941772,0.8172214031219482,0.37803947346891437,0.03033429097425225,0.6898521184921265,0.6102123856544495,0.5476416598005152,0.14923729480049117,0.8580427765846252,0.8198133707046509
+"Three years! Three years and not a word, not a peep! Until today. You made me break my vow. Happy?!","Trzy lata. Trzy lata i ani słowa, ani pisku nawet! Aż do dziś. Złamałem śluby. Zadowolony?!","""Trzy lata! Trzy lata i ani słowa, ani dźwięku! Aż do dzisiaj. Zmusiłaś mnie, żebym złamał swoje przyrzeczenie. Szczęśliwa?""
+
+To tłumaczenie oddaje oryginalny tekst angielski, zachowując jego emocjonalny wydźwięk i strukturę wypowiedzi.","Tłumaczenie na język polski:
+
+""Trzy lata! Trzy lata i ani słowa, ani dźwięku! Aż do dzisiaj. Zmusiłeś mnie, żebym złamał swoje śluby. Jesteś szczęśliwy?!""
+
+To zdanie wyraża silne emocje i frustrację osoby, która przez długi czas milczała lub powstrzymywała się od kontaktu, ale teraz czuje się zmuszona do przerwania tego milczenia. Może to być reakcja na jakieś wydarzenie lub konfrontację z kimś, kto spodziewał się takiego zachowania.","Trzy lata! Trzy lata i ani słowa, ani piśnięcia! Aż do dziś. Zmusiłeś mnie, żebym złamał swoje przyrzeczenie. Szczęśliwy?!","""Trzy lata! Trzy lata i ani słowa, ani dźwięku! Aż do dzisiaj. Zmusiłeś mnie, żebym złamał swoje przyrzeczenie. Szczęśliwy?""","Trzy lata! Trzy lata i ani słowa, ani piśnięcia! Aż do dziś. Zmusiłeś mnie, żebym złamał swoje śluby. Szczęśliwy?!","Trzy lata! Trzy lata i ani słowa, ani piśnięcia! Aż do dziś. Zmusiłeś mnie, żebym złamał swoje śluby. Szczęśliwy?!","Trzy lata! Trzy lata i ani słowa, ani piśnięcia! Aż do dziś. Zmusiłeś mnie, żebym złamał swoje śluby. Szczęśliwy?!",0.45409328364906504,0.16073034972341446,0.7243120074272156,0.7760128378868103,0.418770534764979,0.07703990423257237,0.6969128847122192,0.7106561660766602,0.5383750704227263,0.32594818888335836,0.8381659388542175,0.8590880632400513,0.4905700931483743,0.28051550320162943,0.7876719236373901,0.8767274022102356,0.5770401953314716,0.33380800216772966,0.8569071292877197,0.8281078934669495,0.5770401953314716,0.33380800216772966,0.8569071292877197,0.8281078338623047,0.5770401953314716,0.33380800216772966,0.8569071292877197,0.8281078934669495
+I have no home.,Ja nie mam domu.,"""Nie mam domu.""
+
+To tłumaczenie jest dosłowne i oddaje znaczenie oryginalnego zdania w języku angielskim. W języku polskim, podobnie jak w angielskim, to proste stwierdzenie może wyrażać różne sytuacje lub uczucia, takie jak fizyczny brak miejsca zamieszkania, poczucie bezdomności emocjonalnej lub metaforyczne odniesienie do braku przynależności czy stabilności w życiu.","Tłumaczenie zdania ""I have no home"" na język polski brzmi:
+
+""Nie mam domu.""
+
+To proste zdanie wyraża brak posiadania miejsca zamieszkania lub poczucia przynależności do jakiegoś miejsca. Może być używane w różnych kontekstach, na przykład gdy ktoś stracił dom z powodu katastrofy naturalnej, został bezdomny lub po prostu nie ma stałego miejsca zamieszkania.",Nie mam domu.,"""Nie mam domu.""",Nie mam domu.,"Podane zdanie ""I have no home"" w tłumaczeniu na język polski brzmi:
+
+""Nie mam domu.""
+
+To proste zdanie oznajmujące wyraża brak posiadania miejsca zamieszkania przez osobę mówiącą. Może być używane w różnych kontekstach, na przykład gdy ktoś stracił swój dom lub nie ma stałego miejsca zamieszkania.",Nie mam domu.,0.20715532108066845,0.00366753025392797,0.653612494468689,0.6454824805259705,0.22512150707919495,0.00410726430147258,0.644485592842102,0.7290424704551697,0.7203053570461763,0.17216896116316355,0.9164784550666809,0.9728286862373352,0.7063616938616937,0.0814136751754278,0.8645884394645691,0.9537222981452942,0.7203053570461763,0.17216896116316355,0.9164784550666809,0.9728286862373352,0.2596042293485319,0.004753731294736233,0.6574949026107788,0.6616183519363403,0.7203053570461763,0.17216896116316355,0.9164784550666809,0.9728286862373352
+"I'd sail out to find them, I would, but I've got to make sure the wedding's proper prepared.","Normalnie sam bym wypłynął na poszukiwania, ale muszę dopilnować, żeby przygotowano wesele jak należy.","""Popłynąłbym ich szukać, naprawdę bym popłynął, ale muszę się upewnić, że wesele jest odpowiednio przygotowane.""","Tłumaczenie tego zdania na język polski brzmi:
+
+""Wypłynąłbym ich szukać, naprawdę bym wypłynął, ale muszę się upewnić, że ślub jest odpowiednio przygotowany.""
+
+To zdanie wyraża chęć podjęcia poszukiwań (prawdopodobnie kogoś lub czegoś), ale jednocześnie osoba mówiąca zaznacza, że ma ważniejsze obowiązki - w tym przypadku przygotowania do ślubu.","Popłynąłbym ich szukać, ale muszę się upewnić, że wesele jest odpowiednio przygotowane.","""Wypłynąłbym ich szukać, naprawdę bym wypłynął, ale muszę się upewnić, że ślub jest odpowiednio przygotowany.""","Popłynąłbym ich szukać, ale muszę się upewnić, że wesele jest odpowiednio przygotowane.","Oto tłumaczenie tego zdania na język polski:
+
+""Wypłynąłbym ich szukać, ale muszę się upewnić, że wesele jest odpowiednio przygotowane.""
+
+To zdanie wyraża chęć wyruszenia w poszukiwaniu kogoś lub czegoś, jednocześnie zaznaczając konieczność zajęcia się inną ważną sprawą - w tym przypadku przygotowaniem wesela.","Popłynąłbym ich szukać, ale muszę się upewnić, że wesele jest odpowiednio przygotowane.",0.39232345845257904,0.033241378434410024,0.769271731376648,0.8257052302360535,0.42548100526616944,0.009620278343028097,0.7176064848899841,0.7294150590896606,0.37372771509460306,0.03374378457966304,0.8079982399940491,0.8614572882652283,0.39557526170229435,0.030934588294313718,0.7691112160682678,0.8007152676582336,0.37372771509460306,0.03374378457966304,0.8079982399940491,0.8614572882652283,0.4268534822984267,0.0107801449228252,0.7212308049201965,0.7479900121688843,0.37372771509460306,0.03374378457966304,0.8079982399940491,0.8614572882652283
+Found a wreck. It's been here a while. Wood's rotted.,Ten wrak już tu leży jakiś czas. Drewno zbutwiało.,"""Znalazłem wrak. Jest tu od jakiegoś czasu. Drewno zgniło.""
+
+To tłumaczenie oddaje sens oryginalnego zdania w języku angielskim, przekazując informację o znalezieniu starego wraku i stanie jego drewnianych elementów.","Tłumaczenie tego zdania na język polski brzmi:
+
+""Znalazłem wrak. Jest tu już od jakiegoś czasu. Drewno zgniło.""
+
+To zdanie opisuje sytuację, w której ktoś natknął się na stary wrak (prawdopodobnie statku lub innej konstrukcji pływającej) i zauważył, że drewno uległo znacznemu rozkładowi, co sugeruje, że obiekt ten jest tam od dłuższego czasu.",Znalazłem wrak. Jest tu od jakiegoś czasu. Drewno zgniło.,"""Znalazłem wrak. Jest tu od jakiegoś czasu. Drewno zgniło.""",Znalazłem wrak. Jest tu od jakiegoś czasu. Drewno zgniło.,"Oto tłumaczenie podanego zdania na język polski:
+
+""Znalazłem wrak. Jest tu od jakiegoś czasu. Drewno zgniło.""
+
+To zdanie opisuje sytuację, w której ktoś natknął się na stary wrak (prawdopodobnie statku lub innej konstrukcji drewnianej), który znajduje się w tym miejscu już od dłuższego czasu i jest w zaawansowanym stanie rozkładu.",Znalazłem wrak. Jest tu od jakiegoś czasu. Drewno zgniło.,0.28054590942883567,0.007696339439306161,0.7032747864723206,0.780290424823761,0.26133726710235855,0.0049811554679751145,0.6942540407180786,0.7479969263076782,0.34255406557494367,0.028517539529041507,0.8224160671234131,0.9072096943855286,0.3409033894984887,0.028517539529041507,0.785279393196106,0.9068848490715027,0.34255406557494367,0.028517539529041507,0.8224160671234131,0.9072096943855286,0.2576346987325943,0.005186671025518576,0.6894540190696716,0.7700918316841125,0.34255406557494367,0.028517539529041507,0.8224160671234131,0.9072096943855286
+Feeble. But I expected as much.,Słabiutko. Ale spodziewałem się tego.,"""Słaby. Ale tego się spodziewałem.""","Tłumaczenie tego zdania na język polski brzmi:
+
+""Słaby. Ale tego się spodziewałem.""
+
+To zdanie wyraża rozczarowanie lub niezadowolenie z czegoś, co okazało się być słabe lub mniej wartościowe niż oczekiwano. Jednocześnie osoba mówiąca przyznaje, że takiego rezultatu się spodziewała, co może sugerować pewną rezygnację lub akceptację sytuacji.",Słaby. Ale tego się spodziewałem.,"""Słaby. Ale tego się spodziewałem.""",Słaby. Ale tego się spodziewałem.,Słabe. Ale tego się spodziewałem.,Mierny. Ale tego się spodziewałem.,0.5049485650986222,0.06389431042462725,0.8632304668426514,0.9345577359199524,0.2924347205122076,0.004649189828106597,0.6805659532546997,0.6870687007904053,0.5082337777090132,0.06389431042462725,0.8976513147354126,0.9537515640258789,0.5049485650986222,0.06389431042462725,0.8632304668426514,0.9345577359199524,0.5082337777090132,0.06389431042462725,0.8976513147354126,0.9537515640258789,0.5082337777090132,0.06389431042462725,0.8934098482131958,0.9577327370643616,0.4590530039647677,0.06389431042462725,0.8626669645309448,0.8780961632728577
+It shan't take long.,To nie zajmie długo.,"""Nie zajmie to długo.""
+
+To tłumaczenie jest dosłowne i oddaje znaczenie oryginalnego angielskiego zdania. ""Shan't"" to skrócona forma od ""shall not"", co oznacza przyszłą formę czasownika ""to do"" w trybie rozkazującym, wyrażającą pewność lub zapewnienie. W tym kontekście zdanie sugeruje, że dana czynność nie potrwa zbyt długo lub zostanie szybko ukończona.","Tłumaczenie zdania ""It shan't take long"" na język polski brzmi:
+
+""Nie zajmie to długo.""
+
+To wyrażenie oznacza, że coś zostanie zrobione lub osiągnięte w krótkim czasie. Może być używane jako zapewnienie lub przewidywanie, że dana czynność nie będzie trwać zbyt długo.",Nie zajmie to długo.,Nie zajmie to długo.,Nie zajmie to długo.,"To zdanie w języku angielskim ""It shan't take long"" można przetłumaczyć na język polski jako:
+
+""Nie zajmie to długo.""
+
+Alternatywnie, można też użyć formy:
+
+""Nie potrwa to zbyt długo.""
+
+Oba tłumaczenia oddają znaczenie oryginalnego zdania, które wyraża pewność lub przekonanie, że dana czynność lub proces nie będzie trwał zbyt długo.",Nie zajmie to długo.,0.234659870391464,0.0047291810340735615,0.6454001069068909,0.5023030638694763,0.2916445550550466,0.006369304104455854,0.632915735244751,0.6228412389755249,0.6108866623572505,0.09554427922043669,0.9444581270217896,0.9836720824241638,0.6108866623572505,0.09554427922043669,0.9444581270217896,0.9836720824241638,0.6108866623572505,0.09554427922043669,0.9444581270217896,0.9836720824241638,0.24820579589808411,0.005186671025518576,0.6279424428939819,0.6206797361373901,0.6108866623572505,0.09554427922043669,0.9444581270217896,0.9836720824241638
+Thanks for sparing a moment.,Dzięki za poświęconą chwilę.,"""Dziękuję za znalezienie chwili.""
+
+To tłumaczenie oddaje znaczenie oryginalnego angielskiego zwrotu ""Thanks for sparing a moment,"" który jest uprzejmym wyrażeniem wdzięczności za poświęcenie czasu lub uwagi. W języku polskim używa się podobnych form, takich jak ""dziękuję za znalezienie chwili"" czy ""dziękuję za poświęcony czas,"" aby wyrazić podobną myśl.","Tłumaczenie tego zdania na język polski brzmi: ""Dzięki za urwanie chwili.""
+
+To wyrażenie jest używane, gdy ktoś prosi o poświęcenie krótkiej chwili czasu lub uwagi. W języku polskim często używa się podobnych zwrotów, takich jak ""dzięki za moment"", ""dzięki za chwilę"" czy właśnie ""dzięki za urwanie chwili"".",Dziękuję za poświęcenie chwili.,"""Dziękuję za znalezienie chwili.""",Dzięki za chwilę.,"Dziękuję za poświęcenie chwili.
+
+To tłumaczenie jest dosłowne i oddaje znaczenie oryginalnego zdania w języku angielskim. W języku polskim można również użyć bardziej naturalnych form, takich jak:
+
+""Dziękuję za znalezienie dla mnie chwili.""
+lub
+""Dziękuję za to, że znalazłeś/znalazłaś czas.""
+
+Warto pamiętać, że w języku polskim często używa się bardziej uprzejmych form wyrażania wdzięczności, np.:
+
+""Bardzo dziękuję za poświęcony mi czas.""
+lub
+""Jestem niezmiernie wdzięczny/wdzięczna za Twoją pomoc.""",Dzięki za chwilę.,0.29869467571984043,0.0038253628844009133,0.6250694394111633,0.7072232961654663,0.3000479772728906,0.0039094870602888725,0.6561745405197144,0.7528533935546875,0.5165967271912105,0.08034284189446518,0.7626065015792847,0.9537780284881592,0.2600222979950131,0.08034284189446518,0.6863338947296143,0.8362948298454285,0.45532445243543646,0.19053627645285995,0.8692716956138611,0.9538587927818298,0.22464522541117105,0.0026744824235784732,0.597837507724762,0.7981505393981934,0.45532445243543646,0.19053627645285995,0.8692716956138611,0.9538587927818298
+"He knew, however, that he could only use it once. So he waited. Waited until his longing grew so strong that it became unbearable.","Wiedział jednak, że może jej użyć tylko raz, dlatego czekał, aż zatęskni tak bardzo, że nie będzie mógł już tego znieść.","""Wiedział jednak, że może tego użyć tylko raz. Czekał więc. Czekał, aż jego pragnienie stanie się tak silne, że stanie się nie do zniesienia.""","Tłumaczenie tego zdania na język polski brzmi:
+
+""Wiedział jednak, że może je wykorzystać tylko raz. Czekał więc. Czekał, aż jego pragnienie stanie się tak silne, że stanie się nie do zniesienia.""
+
+To zdanie opisuje sytuację, w której ktoś ma coś cennego lub ważnego, czego może użyć tylko jeden raz. Ta osoba decyduje się poczekać, aż jej potrzeba lub pragnienie związane z tym czymś będzie wystarczająco silna, aby skorzystać z tej możliwości. W ten sposób buduje napięcie i oczekiwanie przed momentem, gdy faktycznie użyje tego ""jednorazowego"" zasobu.","Wiedział jednak, że może z tego skorzystać tylko raz. Czekał więc. Czekał, aż jego pragnienie stanie się tak silne, że stanie się nie do zniesienia.","""Wiedział jednak, że może tego użyć tylko raz. Czekał więc. Czekał, aż jego pragnienie stanie się tak silne, że stanie się nie do zniesienia.""","Wiedział jednak, że może tego użyć tylko raz. Czekał więc. Czekał, aż jego pragnienie stanie się tak silne, że stanie się nie do zniesienia.","Oto tłumaczenie tego zdania na język polski:
+
+""Wiedział jednak, że może to wykorzystać tylko raz. Czekał więc. Czekał, aż jego pragnienie stało się tak silne, że stało się nie do zniesienia.""
+
+To tłumaczenie zachowuje sens oryginalnego zdania i oddaje jego emocjonalny wydźwięk.","Wiedział jednak, że może z tego skorzystać tylko raz. Czekał więc. Czekał, aż jego pragnienie stało się tak silne, że stało się nie do zniesienia.",0.46471239550444005,0.05856458233275369,0.7718793749809265,0.8055855631828308,0.42417231317228926,0.016302602383550968,0.6779707074165344,0.7088747620582581,0.43888882597783613,0.11856660123276004,0.7735187411308289,0.8394991755485535,0.46471239550444005,0.05856458233275369,0.7718793749809265,0.8055855631828308,0.4656433702732849,0.13629358172407982,0.7968239188194275,0.8343770503997803,0.421973951906554,0.028610713594879558,0.6921325325965881,0.6875098943710327,0.4397630616294184,0.11856660123276004,0.7694963812828064,0.8289005160331726
+"Mummy, whatcha cookin'?","Mamooo, co gotujesz?","""Mamusiu, co gotujesz?""
+
+To tłumaczenie odnosi się do popularnego angielskiego wyrażenia ""Mommy, what are you cooking?"", które jest często używane przez dzieci lub kogoś, kto chce wiedzieć, co aktualnie przygotowuje osoba w kuchni. W języku polskim można to wyrazić jako ""Mamusiu, co gotujesz?"" lub ""Co robisz w kuchni?"". Oba te zwroty są powszechnie używane i oddają sens oryginalnego pytania.","Tłumaczenie tego zdania na język polski brzmi: ""Mamo, co gotujesz?""
+
+To popularne amerykańskie wyrażenie używane w codziennych sytuacjach domowych, gdy ktoś pyta matkę o to, co aktualnie przygotowuje do jedzenia. W języku polskim odpowiednikiem może być również pytanie ""Co robisz?"" lub ""Czym się zajmujesz?"", jeśli kontekst dotyczy gotowania lub przygotowywania posiłków.","""Mamo, co gotujesz?""","""Mamusiu, co gotujesz?""","Mamo, co gotujesz?","Oto tłumaczenie tego zdania na język polski:
+
+""Mamo, co gotujesz?""
+
+To jest potoczne wyrażenie w języku angielskim, które można przetłumaczyć jako pytanie o to, co ktoś aktualnie przygotowuje do jedzenia. W języku polskim używamy formy ""mamo"" zamiast ""mummy"", ponieważ jest to bardziej naturalny sposób zwracania się do matki w codziennych sytuacjach. Słowo ""cookin'"" zostało przetłumaczone jako ""gotujesz"", co odpowiada czynności przygotowywania posiłku.","Mamo, co gotujesz?",0.23752716024800402,0.0030932447039559207,0.6337438225746155,0.576606273651123,0.2668860774496384,0.003593400513595791,0.6677420735359192,0.596761167049408,0.7625528202734085,0.11362193664674995,0.9102013111114502,0.9619961977005005,0.6533259144419175,0.11362193664674995,0.892351508140564,0.9531263709068298,0.7724892522941381,0.24028114141347542,0.9564144611358643,0.9749142527580261,0.23743442321553362,0.002939806889647791,0.6305971741676331,0.5297257900238037,0.7724892522941381,0.24028114141347542,0.9564144611358643,0.9749142527580261

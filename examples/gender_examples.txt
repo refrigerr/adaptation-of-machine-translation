@@ -1,0 +1,79 @@
+Mówca: mężczyzna
+Słuchacz: kobieta
+Angielski: I am the best artist, are you a good artist?
+Polski: Jestem najlepszym artystą, czy ty jesteś dobrą artystką?
+
+Mówca: kobieta
+Słuchacz: mężczyzna
+Angielski: I am the best artist, are you a good artist?
+Polski: Jestem najlepszą artystką, czy ty jesteś dobrym artystą?
+
+Mówca: mężczyzna
+Słuchacz: mężczyzna
+Angielski: I am the best artist, are you a good artist?
+Polski: Jestem najlepszym artystą, czy ty jesteś dobrym artystą?
+
+Mówca: kobieta
+Słuchacz: kobieta
+Angielski: I am the best artist, are you a good artist?
+Polski: Jestem najlepszą artystką, czy ty jesteś dobrą artystką?
+
+Mówca: mężczyzna
+Słuchacz: mężczyzna
+Angielski: I almost killed him, and what did you do?
+Polski: Prawie go zabiłem, a ty co zrobiłeś?
+
+Mówca: mężczyzna
+Słuchacz: kobieta
+Angielski: I almost killed him, and what did you do?
+Polski: Prawie go zabiłem, a ty co zrobiłaś?
+
+Mówca: kobieta
+Słuchacz: mężczyzna
+Angielski: I almost killed him, and what did you do?
+Polski: Prawie go zabiłam, a ty co zrobiłeś?
+
+Mówca: kobieta
+Słuchacz: kobieta
+Angielski: I almost killed him, and what did you do?
+Polski: Prawie go zabiłam, a ty co zrobiłaś?
+
+Mówca: kobieta
+Słuchacz: kobieta
+Angielski: I wanted to paint my walls but you didn't borrow me paint
+Polski: Chciałam pomalować moje ściany ale nie pożyczyłaś mi farby
+
+Mówca: kobieta
+Słuchacz: mężczyzna
+Angielski: I wanted to paint my walls but you didn't borrow me paint
+Polski: Chciałam pomalować moje ściany ale nie pożyczyłeś mi farby
+
+Mówca: mężczyzna
+Słuchacz: kobieta
+Angielski: I wanted to paint my walls but you didn't borrow me paint
+Polski: Chciałem pomalować moje ściany ale nie pożyczyłaś mi farby
+
+Mówca: mężczyzna
+Słuchacz: mężczyzna
+Angielski: I wanted to paint my walls but you didn't borrow me paint
+Polski: Chciałem pomalować moje ściany ale nie pożyczyłeś mi farby
+
+Mówca: kobieta
+Słuchacz: mężczyzna
+Angielski: You cheated on me, now I am sad
+Polski: Zdradziłeś mnie, teraz jestem smutna
+
+Mówca: mężczyzna
+Słuchacz: mężczyzna
+Angielski: You cheated on me, now I am sad
+Polski: Zdradziłeś mnie, teraz jestem smutny
+
+Mówca: mężczyzna
+Słuchacz: kobieta
+Angielski: You cheated on me, now I am sad
+Polski: Zdradziłaś mnie, teraz jestem smutny
+
+Mówca: kobieta
+Słuchacz: kobieta
+Angielski: You cheated on me, now I am sad
+Polski: Zdradziłaś mnie, teraz jestem smutna

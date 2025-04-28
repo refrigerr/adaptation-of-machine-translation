@@ -1,0 +1,2 @@
+bleu_few_shot_two_step,chrf_few_shot_two_step,comet_few_shot_two_step,bertscore_few_shot_two_step
+0.45419298490716065,0.7504176316243483,0.9299357088406881,0.9226033755143483

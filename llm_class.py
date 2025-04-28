@@ -3,10 +3,10 @@ import json
 
 class LLM:
     
-    def __init__(self, model_id):
+    def __init__(self, model_id, key_path):
         self.MODEL_ID = model_id
         self.COMPLETIONS_ENDPOINT = "https://services.clarin-pl.eu/api/v1/oapi/chat/completions"
-        with open("key.txt", "r") as file:
+        with open(key_path, "r") as file:
             self.API_KEY_CLARIN = file.read().strip()
 
     def prompt_chat_custom_temperature(self, prompt, temperature = 0.3):

@@ -1,0 +1,1041 @@
+speaker_gender|listener_gender|en_text|pl_text|no_context|prompt1|prompt2|prompt3|prompt4|prompt5
+mężczyzna|kobieta|I am the best artist, are you a good artist?|Jestem najlepszym artystą, czy ty jesteś dobrą artystką?|Jestem najlepszym artystą, czy jesteś dobrym artystą?|Jestem najlepszym artystą, czy jesteś dobrym artystą?|Jestem najlepszym artystą, czy ty jesteś dobrą artystką?|Jestem najlepszym artystą, czy ty jesteś dobrą artystką?|"### Tłumaczenie:
+
+**Mówca:** Mężczyzna
+**Słuchacz:** Kobieta
+
+**Angielski:** ""I am the best artist, are you a good artist?""
+
+**Polski:**
+""Jestem najlepszym artystą, czy ty jesteś dobrym artystą?""
+
+To tłumaczenie uwzględnia zarówno pytanie o umiejętności artystyczne mówcy (mężczyzny), jak i prośbę o samoocenę słuchacza (kobiety)."|Jestem najlepszym artystą, czy ty jesteś dobrym artystą?
+kobieta|mężczyzna|I am the best artist, are you a good artist?|Jestem najlepszą artystką, czy ty jesteś dobrym artystą?|Jestem najlepszym artystą, czy jesteś dobrym artystą?|Jestem najlepszym artystą, czy jesteś dobrym artystą?|Jestem najlepszą artystką, czy ty jesteś dobrym artystą?|Jestem najlepszą artystką, czy ty jesteś dobrym artystą?|"Mówca (kobieta): Jestem najlepszą artystką. A ty jesteś dobrym artystą?
+
+Słuchacz (mężczyzna): Tak, myślę, że jestem dobrym artystą. Każdy z nas ma swój własny styl i umiejętności. Co sprawia, że uważasz się za najlepszą?
+
+Mówca (kobieta): Cóż, moje prace są bardzo doceniane przez krytyków sztuki i publiczność. Moja technika malarska jest wyjątkowa i niepowtarzalna. Ponadto, zdobyłam wiele nagród i wyróżnień na prestiżowych wystawach.
+
+Słuchacz (mężczyzna): To brzmi imponująco! Ale pamiętaj, że bycie dobrym artystą to nie tylko nagrody i uznanie. Sztuka to subiektywna dziedzina, a gusta ludzi mogą się różnić. Twoje prace mogą podobać się jednym, ale niekoniecznie innym. Ważne jest też, aby ciągle się rozwijać i eksperymentować.
+
+Mówca (kobieta): Masz rację, ale moje osiągnięcia świadczą o tym, że mam talent i pasję do tego, co robię. Nie każdy może pochwalić się takim dorobkiem jak ja.
+
+Słuchacz (mężczyzna): Zgadzam się, że masz duży talent i osiągnęłaś wiele. Ale pamiętaj, że sztuka to także proces twórczy i emocjonalny. Nie można mierzyć wartości artysty tylko liczbą nagród czy sprzedanych obrazów. Każdy artysta ma swoją unikalną drogę i sposób wyrażania siebie.
+
+Mówca (kobieta): Rozumiem twoje stanowisko, ale nadal uważam, że moje prace są wyjątkowe i przewyższają innych artystów.
+
+Słuchacz (mężczyzna): To interesujące, że tak postrzegasz swoją sztukę. Może powinniśmy porównać nasze prace i zobaczyć, co myślą o nich inni ludzie. W końcu, sztuka to także dialog między artystą a odbiorcą.
+
+Mówca (kobieta): Dobrze, zróbmy tak. Chętnie usłyszę twoją opinię na temat moich prac i porównamy je z twoimi.
+
+Słuchacz (mężczyzna): Świetnie, to będzie ciekawe doświadczenie dla nas obojga. Pamiętajmy, że sztuka to nie tylko rywalizacja, ale także inspiracja i wzajemne uczenie się od siebie."|Jestem najlepszą artystką, czy ty jesteś dobrym artystą?
+mężczyzna|mężczyzna|I am the best artist, are you a good artist?|Jestem najlepszym artystą, czy ty jesteś dobrym artystą?|Jestem najlepszym artystą, czy jesteś dobrym artystą?|Jestem najlepszym artystą, czy jesteś dobrym artystą?|Jestem najlepszym artystą, czy jesteś dobrym artystą?|Jestem najlepszym artystą, czy ty jesteś dobrym artystą?|"### Tłumaczenie na język polski:
+
+**Mówca:** Jestem najlepszym artystą. A ty? Czy jesteś dobrym artystą?
+
+**Słuchacz:** Tak, staram się być jak najlepszym artystą. Ciągle doskonalę swoje umiejętności i uczę się nowych technik. Dziękuję za to pytanie, motywuje mnie ono do dalszej pracy nad sobą."|Jestem najlepszym artystą, czy ty jesteś dobrym artystą?
+kobieta|kobieta|I am the best artist, are you a good artist?|Jestem najlepszą artystką, czy ty jesteś dobrą artystką?|Jestem najlepszym artystą, czy jesteś dobrym artystą?|Jestem najlepszym artystą, czy jesteś dobrym artystą?|Jestem najlepszą artystką, czy jesteś dobrą artystką?|Jestem najlepszą artystką, czy ty jesteś dobrą artystką?|"Mówca (kobieta): Jestem najlepszą artystką. A ty? Czy jesteś dobrą artystką?
+
+Słuchacz (kobieta): Och, ja też staram się być jak najlepsza w tym, co robię. Każdy z nas ma swoje mocne strony i możliwości. Ważne jest, aby ciągle się rozwijać i doskonalić swoje umiejętności."|Jestem najlepszą artystką, czy ty jesteś dobrą artystką?
+mężczyzna|mężczyzna|I almost killed him, and what did you do?|Prawie go zabiłem, a ty co zrobiłeś?|Niemal go zabiłem, a co ty zrobiłeś?|Niemal go zabiłem, a co ty zrobiłeś?|Niemal go zabiłem, a co ty zrobiłeś?|Niemal go zabiłem, a co ty zrobiłeś?|"Mówca: Mężczyzna
+Słuchacz: Mężczyzna
+Angielski: ""I almost killed him, and what did you do?""
+Polski:
+
+""Prawie go zabiłem, a co ty zrobiłeś?""
+
+W tym tłumaczeniu:
+- ""I almost killed him"" oznacza ""Prawie go zabiłem"".
+- ""and what did you do?"" oznacza ""a co ty zrobiłeś?"".
+
+To zdanie jest bezpośrednim tłumaczeniem oryginalnego angielskiego tekstu na język polski, zachowując jego strukturę i znaczenie."|Niemal go zabiłem, a co ty zrobiłeś?
+mężczyzna|kobieta|I almost killed him, and what did you do?|Prawie go zabiłem, a ty co zrobiłaś?|Niemal go zabiłem, a co ty zrobiłeś?|Niemal go zabiłem, a co ty zrobiłeś?|Niemal go zabiłem, a co ty zrobiłaś?|Niemal go zabiłem, a co ty zrobiłaś?|"Mówca: Mężczyzna
+Słuchacz: Kobieta
+
+Tłumaczenie na polski:
+
+Mężczyzna: ""Prawie go zabiłem, a co ty zrobiłaś?""
+
+Kilka uwag o tłumaczeniu:
+- W języku polskim często używamy bezpośredniego zwrotu do rozmówcy, stąd forma ""co ty zrobiłaś"" zamiast bardziej formalnego ""co pani zrobiła"".
+- Warto zauważyć, że w oryginalnym zdaniu angielskim nie ma wyraźnego podmiotu (osoby, która coś zrobiła), ale kontekst sugeruje, że chodzi o słuchaczkę.
+- Tłumaczenie to oddaje emocjonalny ton oryginału i jest naturalne w codziennej rozmowie między osobami znającymi się."|Niemal go zabiłem, a co ty zrobiłaś?
+kobieta|mężczyzna|I almost killed him, and what did you do?|Prawie go zabiłam, a ty co zrobiłeś?|Niemal go zabiłem, a co ty zrobiłeś?|Niemal go zabiłem, a co ty zrobiłeś?|Niemal go zabiłam, a co ty zrobiłeś?|Niemal go zabiłam, a co ty zrobiłeś?|"Mówca (kobieta): Prawie go zabiłam, i co ty na to?
+
+Słuchacz (mężczyzna): To brzmi poważnie. Co się stało? Jak mogłaś prawie go zabić? Czy wszystko jest w porządku?
+
+Mówca (kobieta): No cóż, to było przypadkiem. Próbowałam naprawić samochód i... no, po prostu straciłam kontrolę nad narzędziem. Na szczęście nic mu się nie stało, ale byłam przerażona!
+
+Słuchacz (mężczyzna): O rany, to musiało być straszne! Ale cieszę się, że nikomu nic się nie stało. Może lepiej będzie, jeśli następnym razem poprosisz o pomoc profesjonalistę?
+
+Mówca (kobieta): Masz rację. Chyba tak zrobię. Ale teraz czuję się trochę winna i martwię się, jak on się z tym czuje.
+
+Słuchacz (mężczyzna): Rozumiem twoje obawy. Może spróbujesz z nim porozmawiać i przeprosić? To może pomóc rozładować sytuację.
+
+Mówca (kobieta): Dobry pomysł. Tak zrobię. Dziękuję za wsparcie.
+
+Słuchacz (mężczyzna): Zawsze do usług. Pamiętaj, że jesteśmy tu dla siebie nawzajem."|Niemal go zabiłam, a co ty zrobiłeś?
+kobieta|kobieta|I almost killed him, and what did you do?|Prawie go zabiłam, a ty co zrobiłaś?|Niemal go zabiłem, a co ty zrobiłeś?|Niemal go zabiłem, a co ty zrobiłeś?|Niemal go zabiłam, a co ty zrobiłaś?|Niemal go zabiłam, a co ty zrobiłaś?|"Mówca (kobieta): Prawie go zabiłam, i co ty na to?
+
+Słuchacz (kobieta): O mój Boże! Co się stało? Jak on się czuje? Czy wszystko z nim w porządku? Musimy mu pomóc!
+
+Mówca: Nie jestem pewna... Ja... ja po prostu straciłam panowanie nad sobą. On... on powiedział coś, czego nie mogłam znieść, i...
+
+Słuchacz: Rozumiem. Czasami ludzie mówią rzeczy, które nie powinni, ale to nie znaczy, że możemy reagować przemocą. Musisz się uspokoić i pomyśleć o tym, jak naprawić sytuację.
+
+Mówca: Masz rację. Ale co jeśli on jest poważnie ranny? Co jeśli...
+
+Słuchacz: Spokojnie. Najpierw musimy sprawdzić, czy nic mu nie jest. Jeśli potrzebuje pomocy medycznej, musimy wezwać pogotowie. A potem będziemy myśleć o konsekwencjach.
+
+Mówca: Dobrze, masz rację. Chodźmy sprawdzić, co z nim."|Niemal go zabiłam, a co ty zrobiłaś?
+kobieta|kobieta|I wanted to paint my walls but you didn't borrow me paint|Chciałam pomalować moje ściany ale nie pożyczyłaś mi farby|Chciałem pomalować ściany, ale nie pożyczyłeś mi farby.|Chciałem pomalować ściany, ale nie pożyczyłeś mi farby.|Chciałam pomalować ściany, ale nie pożyczyłaś mi farby.|Chciałam pomalować ściany, ale nie pożyczyłaś mi farby.|"Kobieta (mówca): Chciałam pomalować ściany w moim domu, ale nie pożyczyłaś mi farby.
+
+Kobieta (słuchacz): Och, przepraszam! Nie zdawałam sobie sprawy, że potrzebujesz farby do malowania. Czy mogę ci jakoś pomóc? Może mam trochę farby, którą mogłabym ci pożyczyć?
+
+Kobieta (mówca): Tak, byłoby świetnie, gdybyś mogła mi pomóc. Naprawdę chciałabym odświeżyć wygląd mojego domu, a bez farby jest to trudne.
+
+Kobieta (słuchacz): Rozumiem. Zastanówmy się, co mogę zrobić. Mam kilka puszek farby, które zostały mi z ostatniego remontu. Mogę ci je pożyczyć na jakiś czas. Co ty na to?
+
+Kobieta (mówca): To byłoby cudowne! Dziękuję bardzo za twoją pomoc. Czy mogłabyś mi też doradzić, jak najlepiej przygotować ściany przed malowaniem i jakie kolory byłyby najbardziej odpowiednie dla mojego domu?
+
+Kobieta (słuchacz): Oczywiście, z przyjemnością ci pomogę. Najpierw upewnijmy się, że ściany są czyste i suche. Możesz użyć szczotki drucianej, aby usunąć luźną farbę lub tapetę, a następnie zagruntować powierzchnię, aby lepiej przylegała nowa warstwa farby. Jeśli chodzi o kolory, to zależy od tego, jaki efekt chcesz osiągnąć. Może mogłabyś pokazać mi zdjęcia wnętrza, żebym mogła lepiej doradzić?
+
+Kobieta (mówca): Świetny pomysł! Prześlę ci kilka zdjęć, a ty powiesz mi, jakie kolory byłyby najlepsze. Jeszcze raz dziękuję za twoją pomoc. To naprawdę wiele dla mnie znaczy."|Chciałam pomalować ściany, ale nie pożyczyłaś mi farby.
+kobieta|mężczyzna|I wanted to paint my walls but you didn't borrow me paint|Chciałam pomalować moje ściany ale nie pożyczyłeś mi farby|Chciałem pomalować ściany, ale nie pożyczyłeś mi farby.|Chciałem pomalować ściany, ale nie pożyczyłeś mi farby.|Chciałam pomalować ściany, ale nie pożyczyłeś mi farby.|Chciałam pomalować ściany, ale nie pożyczyłeś mi farby.|"Mówca (kobieta): Chciałam pomalować ściany w moim domu, ale nie pożyczyłeś mi farby.
+
+Słuchacz (mężczyzna): Och, przepraszam! Nie zdawałem sobie sprawy, że potrzebujesz farby do malowania. Czy mogę ci jakoś pomóc? Może mógłbym pożyczyć ci trochę farby lub pomóc znaleźć odpowiednią?
+
+Mówca (kobieta): Tak, byłoby świetnie, gdybyś mógł mi pożyczyć farbę. Albo może nawet lepiej, jeśli mógłbyś mi pomóc wybrać odpowiedni kolor i rodzaj farby, który najlepiej pasowałby do mojego domu.
+
+Słuchacz (mężczyzna): Oczywiście, z przyjemnością ci pomogę. Kiedy planujesz rozpocząć malowanie? Moglibyśmy pójść razem do sklepu budowlanego i wybrać odpowiednią farbę oraz narzędzia.
+
+Mówca (kobieta): Dziękuję bardzo za twoją pomoc! Myślę, że mogłabym zacząć w przyszły weekend. Czy to dla ciebie dogodny termin?
+
+Słuchacz (mężczyzna): W porządku, przyszły weekend brzmi dobrze. Spotkajmy się w sklepie budowlanym około godziny 10 rano, żeby mieć wystarczająco dużo czasu na wybór i zakupienie wszystkiego, czego będziesz potrzebować.
+
+Mówca (kobieta): Świetnie, umówione! Bardzo się cieszę, że będę mogła liczyć na twoją pomoc. Dzięki temu malowanie będzie o wiele prostsze i przyjemniejsze."|Chciałam pomalować ściany, ale nie pożyczyłeś mi farby.
+mężczyzna|kobieta|I wanted to paint my walls but you didn't borrow me paint|Chciałem pomalować moje ściany ale nie pożyczyłaś mi farby|Chciałem pomalować ściany, ale nie pożyczyłeś mi farby.|Chciałem pomalować ściany, ale nie pożyczyłeś mi farby.|Chciałem pomalować ściany, ale nie pożyczyłaś mi farby.|Chciałem pomalować ściany, ale nie pożyczyłaś mi farby.|"Mówca (mężczyzna): Chciałem pomalować ściany w moim domu, ale nie pożyczyłaś mi farby.
+
+Słuchaczka (kobieta): Och, przepraszam! Nie zdawałam sobie sprawy, że potrzebujesz farby do malowania. Czy mogę ci jakoś pomóc? Może mogę ci ją pożyczyć lub znaleźć inne rozwiązanie?"|Chciałem pomalować ściany, ale nie pożyczyłaś mi farby.
+mężczyzna|mężczyzna|I wanted to paint my walls but you didn't borrow me paint|Chciałem pomalować moje ściany ale nie pożyczyłeś mi farby|Chciałem pomalować ściany, ale nie pożyczyłeś mi farby.|Chciałem pomalować ściany, ale nie pożyczyłeś mi farby.|Chciałem pomalować ściany, ale nie pożyczyłeś mi farby.|Chciałem pomalować ściany, ale nie pożyczyłeś mi farby.|"Chciałem pomalować ściany, ale nie pożyczyłeś mi farby.
+
+W języku polskim zdanie to brzmi naturalnie i jest poprawne gramatycznie. Zwróć uwagę na kilka kluczowych elementów:
+
+1. ""Chciałem"" - czas przeszły niedokonany, używany do wyrażenia czegoś, co chciano zrobić w przeszłości, ale niekoniecznie zrealizowano.
+2. ""pomalować ściany"" - bezokolicznik w formie osobowej, odpowiadający angielskiemu ""to paint"".
+3. ""ale"" - spójnik wprowadzający kontrast między dwoma częściami zdania.
+4. ""nie pożyczyłeś"" - forma przecząca czasownika ""pożyczyć"", odnosząca się do drugiej osoby liczby pojedynczej (ty).
+5. ""mi farby"" - dopełniacz, wskazujący na przedmiot, który miał być pożyczony.
+
+To zdanie jest przykładem typowego polskiego konstrukcji, gdzie podmiot (mężczyzna) jest domyślny i nie musi być powtarzany. W języku polskim często używa się takich konstrukcji, aby uniknąć powtórzeń i utrzymać płynność wypowiedzi."|Chciałem pomalować ściany, ale nie pożyczyłeś mi farby.
+mężczyzna|kobieta|I fixed the car, did you manage to fix your bike?|Naprawiłem samochód, czy udało ci się naprawić rower?|Naprawiłem samochód, udało ci się naprawić rower?|Naprawiłem samochód, udało ci się naprawić rower?|Naprawiłem samochód, udało ci się naprawić rower?|Naprawiłem samochód, udało ci się naprawić rower?|"Mówca (mężczyzna): Naprawiłem samochód, czy udało ci się naprawić rower?
+
+Słuchaczka (kobieta): Tak, udało mi się naprawić rower. Dzięki za pytanie!"|Naprawiłem samochód, czy udało ci się naprawić rower?
+kobieta|mężczyzna|I fixed the car, did you manage to fix your bike?|Naprawiłam samochód, czy udało ci się naprawić rower?|Naprawiłem samochód, udało ci się naprawić rower?|Naprawiłem samochód, udało ci się naprawić rower?|Naprawiłam samochód, udało ci się naprawić rower?|Naprawiłam samochód, udało ci się naprawić rower?|"Mówca (kobieta): Naprawiłam samochód, czy udało ci się naprawić rower?
+
+Słuchacz (mężczyzna): Tak, udało mi się go naprawić. Dzięki za pytanie!
+
+---
+
+Wyjaśnienie:
+1. ""I fixed the car"" - Mówca informuje słuchacza, że naprawiła samochód.
+2. ""did you manage to fix your bike?"" - Mówca pyta słuchacza, czy udało mu się naprawić jego rower.
+3. Odpowiedź słuchacza potwierdza, że tak, udało mu się naprawić rower i wyraża wdzięczność za zainteresowanie."|Naprawiłam samochód, czy udało ci się naprawić rower?
+mężczyzna|mężczyzna|I fixed the car, did you manage to fix your bike?|Naprawiłem samochód, czy udało ci się naprawić rower?|Naprawiłem samochód, udało ci się naprawić rower?|Naprawiłem samochód, udało ci się naprawić rower?|Naprawiłem samochód, udało ci się naprawić rower?|Naprawiłem samochód, udało ci się naprawić rower?|"Mówca: Naprawiłem samochód, czy udało ci się naprawić rower?
+
+Wyjaśnienie krok po kroku:
+
+1. Analiza zdania w języku angielskim: ""I fixed the car, did you manage to fix your bike?""
+   - ""I fixed the car"" oznacza ""Naprawiłem samochód"".
+   - ""Did you manage to fix your bike?"" można przetłumaczyć jako ""Czy udało ci się naprawić rower?""
+
+2. Tłumaczenie na język polski:
+   - ""I fixed the car"" → ""Naprawiłem samochód""
+   - ""Did you manage to fix your bike?"" → ""Czy udało ci się naprawić rower?""
+
+3. Połączenie obu części zdania:
+   - ""Naprawiłem samochód, czy udało ci się naprawić rower?""
+
+4. Sprawdzenie poprawności gramatycznej i stylistycznej tłumaczenia.
+
+5. Ostateczne tłumaczenie: ""Naprawiłem samochód, czy udało ci się naprawić rower?"""|Naprawiłem samochód, udało ci się naprawić rower?
+kobieta|kobieta|I fixed the car, did you manage to fix your bike?|Naprawiłam samochód, czy udało ci się naprawić rower?|Naprawiłem samochód, udało ci się naprawić rower?|Naprawiłem samochód, udało ci się naprawić rower?|Naprawiłam samochód, udało ci się naprawić rower?|Naprawiłam samochód, udało ci się naprawić rower?|"Mówca (kobieta): Naprawiłam samochód, czy udało ci się naprawić rower?
+
+Słuchacz (kobieta): Tak, udało mi się go naprawić. Dzięki za pomoc!
+
+Wyjaśnienie:
+1. ""I fixed the car"" - Mówca informuje słuchacza, że naprawiła swój samochód.
+2. ""did you manage to fix your bike?"" - Mówca pyta słuchacza, czy również udało mu/jej się naprawić rower.
+3. Odpowiedź słuchacza potwierdza, że tak, udało się naprawić rower i wyraża wdzięczność za pomoc.
+
+Ta wymiana zdań jest typowa dla rozmowy między dwiema osobami, gdzie jedna osoba dzieli się swoim doświadczeniem, a druga odpowiada na pytanie."|Naprawiłam samochód, czy udało ci się naprawić rower?
+mężczyzna|kobieta|I read the whole book, did you finish reading yours?|Przeczytałem całą książkę, czy skończyłaś swoją?|Przeczytałem całą książkę, skończyłeś czytać swoją?|Przeczytałem całą książkę, skończyłeś czytać swoją?|Przeczytałem całą książkę, skończyłaś swoją?|Przeczytałem całą książkę, skończyłaś czytać swoją?|"Mówca (mężczyzna): Czytałem całą książkę, skończyłaś już swoją?
+
+Słuchaczka (kobieta): Tak, udało mi się przeczytać ją w całości. Była naprawdę interesująca! A ty jakie masz wrażenia?"|Przeczytałem całą książkę, skończyłaś swoją?
+kobieta|mężczyzna|I read the whole book, did you finish reading yours?|Przeczytałam całą książkę, czy skończyłeś swoją?|Przeczytałem całą książkę, skończyłeś czytać swoją?|Przeczytałem całą książkę, skończyłeś czytać swoją?|Przeczytałam całą książkę, skończyłeś czytać swoją?|Przeczytałam całą książkę, skończyłeś już swoją?|"Mówca (kobieta): Przeczytałam całą książkę, skończyłeś już swoją?
+
+Słuchacz (mężczyzna): Tak, udało mi się ją skończyć wczoraj wieczorem. To była naprawdę dobra lektura!"|Przeczytałam całą książkę, skończyłeś swoją?
+mężczyzna|mężczyzna|I read the whole book, did you finish reading yours?|Przeczytałem całą książkę, czy skończyłeś swoją?||Przeczytałem całą książkę, skończyłeś czytać swoją?|Przeczytałem całą książkę, skończyłeś czytać swoją?|Przeczytałem całą książkę, skończyłeś czytać swoją?|"Przetłumaczone zdanie na język polski:
+
+""Czy skończyłeś czytać swoją książkę?""
+
+To zdanie jest odpowiednikiem angielskiego ""I read the whole book, did you finish reading yours?"" w kontekście rozmowy między dwoma mężczyznami. Zdanie to wyraża pytanie o to, czy druga osoba ukończyła lekturę tej samej książki, którą on sam przeczytał."|Przeczytałem całą książkę, skończyłeś czytać swoją?
+kobieta|kobieta|I read the whole book, did you finish reading yours?|Przeczytałam całą książkę, czy skończyłaś swoją?||Przeczytałem całą książkę, skończyłeś czytać swoją?|Przeczytałam całą książkę, skończyłaś czytać swoją?|Przeczytałam całą książkę, skończyłaś czytać swoją?|"Mówca (kobieta): Przeczytałam całą książkę, skończyłaś już swoją?
+
+Słuchacz (kobieta): Tak, ja też przeczytałam całą. To była świetna lektura!"|Przeczytałam całą książkę, skończyłaś swoją?
+mężczyzna|kobieta|I cooked dinner, did you bring the drinks?|Ugotowałem obiad, czy przyniosłaś napoje?||Ugotowałem kolację, czy przyniosłeś napoje?|Ugotowałem kolację, czy przyniosłaś napoje?|Ugotowałem kolację, czy przyniosłaś napoje?|"### Tłumaczenie:
+
+**Mówca:** Mężczyzna
+**Słuchacz:** Kobieta
+
+**Angielski:** I cooked dinner, did you bring the drinks?
+
+**Polski:** Przygotowałem kolację, czy przyniosłaś napoje?"|Ugotowałem kolację, czy przyniosłaś napoje?
+kobieta|mężczyzna|I cooked dinner, did you bring the drinks?|Ugotowałam obiad, czy przyniosłeś napoje?||Ugotowałem kolację, czy przyniosłeś napoje?|Ugotowałam kolację, przyniosłeś napoje?|Ugotowałam kolację, przyniosłeś napoje?|"Mówca (kobieta): Przygotowałam kolację, czy przyniosłeś napoje?
+
+Słuchacz (mężczyzna): Tak, oczywiście. Mam wszystko pod kontrolą."|Ugotowałam kolację, czy przyniosłeś napoje?
+mężczyzna|mężczyzna|I cooked dinner, did you bring the drinks?|Ugotowałem obiad, czy przyniosłeś napoje?||Ugotowałem kolację, czy przyniosłeś napoje?|Ugotowałem kolację, przyniosłeś napoje?|Ugotowałem kolację, przyniosłeś napoje?|"### Wynik:
+
+Mówca: mężczyzna
+Słuchacz: mężczyzna
+Angielski: I cooked dinner, did you bring the drinks?
+Polski: Przygotowałem kolację, czy przyniosłeś napoje?"|Ugotowałem kolację, czy przyniosłeś napoje?
+kobieta|kobieta|I cooked dinner, did you bring the drinks?|Ugotowałam obiad, czy przyniosłaś napoje?||Ugotowałem kolację, czy przyniosłeś napoje?|Ugotowałam kolację, czy przyniosłaś napoje?|Ugotowałam kolację, czy przyniosłaś napoje?|"Mówca: Kobieta
+Słuchacz: Kobieta
+Angielski: ""I cooked dinner, did you bring the drinks?""
+Polski:
+
+""Przygotowałam kolację, czy przyniosłaś napoje?""
+
+W tym tłumaczeniu:
+- ""I cooked dinner"" zostało przetłumaczone jako ""Przygotowałam kolację"".
+- ""Did you bring the drinks?"" zostało przetłumaczone jako ""Czy przyniosłaś napoje?"".
+
+To zdanie jest typowym przykładem dialogu między dwiema osobami, w którym jedna z nich pyta drugą o coś, co ta druga miała wykonać lub przynieść. W tym przypadku chodzi o to, że jedna osoba przygotowała kolację i teraz pyta, czy druga osoba przyniosła napoje. Jest to proste i powszechne sytuacja komunikacyjna, która może mieć miejsce na przykład przed wspólnym posiłkiem lub spotkaniem towarzyskim."|Ugotowałam kolację, czy przyniosłaś napoje?
+mężczyzna|kobieta|I watched that movie last night, did you like it?|Obejrzałem ten film wczoraj wieczorem, spodobał ci się?||Obejrzałem ten film wczoraj wieczorem, podobał ci się?|Oglądałem ten film zeszłej nocy, podobał ci się?|Oglądałem ten film zeszłej nocy, podobał ci się?|"Mówca (mężczyzna): Obejrzałem ten film wczoraj wieczorem. Jak Ci się podobał?
+
+Słuchaczka (kobieta): Aha, ja też go widziałam! Był naprawdę dobry. Co najbardziej Ci się spodobało?
+
+Mówca (mężczyzna): Myślę, że najlepsze były efekty specjalne i fabuła. A Tobie co się najbardziej podobało?
+
+Słuchaczka (kobieta): Dla mnie to była świetna gra aktorska głównych bohaterów. Szczególnie ta scena finałowa była niesamowita!
+
+Mówca (mężczyzna): Tak, zgadzam się. To był naprawdę emocjonujący koniec. Czy myślisz, że będzie kontynuacja?
+
+Słuchaczka (kobieta): Mam nadzieję, że tak. Film zakończył się w taki sposób, że na pewno jest miejsce na kolejną część. A Ty co sądzisz?
+
+Mówca (mężczyzna): Też mam taką nadzieję. To byłby świetny sequel. Musimy poczekać na oficjalne informacje od producentów.
+
+Słuchaczka (kobieta): Dokładnie, trzeba być cierpliwym. Ale na razie możemy cieszyć się tym, co już mamy. Miło było porozmawiać o filmie!
+
+Mówca (mężczyzna): Zgadzam się, to była przyjemna rozmowa. Może następnym razem obejrzymy jakiś inny film razem?
+
+Słuchaczka (kobieta): Bardzo chętnie! Jestem otwarta na propozycje. Do zobaczenia!"|Obejrzałem ten film wczoraj wieczorem, czy ci się podobał?
+kobieta|mężczyzna|I watched that movie last night, did you like it?|Obejrzałam ten film wczoraj wieczorem, spodobał ci się?||Obejrzałem ten film wczoraj wieczorem, podobał ci się?|Oglądałam ten film wczoraj wieczorem, podobał ci się?|Widziałam ten film zeszłej nocy, podobał ci się?|"Mówca (kobieta): Obejrzałam ten film wczoraj wieczorem. Jak Ci się podobał?
+
+Słuchacz (mężczyzna): Aha, ja też go widziałem. Był całkiem niezły, ale chyba trochę przewidywalny. Co myślisz o zakończeniu?
+
+Mówca (kobieta): Zgadzam się, że fabuła była dość prosta, ale muszę przyznać, że efekty specjalne i gra aktorska były naprawdę imponujące. Szczególnie podobała mi się rola głównego bohatera.
+
+Słuchacz (mężczyzna): Tak, to prawda. Aktor, który go zagrał, był świetny. Czy uważasz, że film miał jakieś ważne przesłanie lub morał?
+
+Mówca (kobieta): Myślę, że jednym z głównych przesłań było pokazanie, jak ważna jest odwaga i determinacja w dążeniu do celu, nawet w obliczu ogromnych trudności. To uniwersalna lekcja, która może inspirować ludzi w różnych sytuacjach życiowych.
+
+Słuchacz (mężczyzna): Dokładnie tak. A co sądzisz o muzyce w tym filmie? Czy pasowała do atmosfery?
+
+Mówca (kobieta): Muzyka była naprawdę dobrze dopasowana. Tworzyła napięcie w kluczowych momentach i dodawała emocji scenom akcji. Uważam, że kompozytor wykonał świetną robotę.
+
+Słuchacz (mężczyzna): Zgadzam się w stu procentach. Ogólnie rzecz biorąc, cieszę się, że poszedłem na ten film. A Ty, czy poleciłabyś go innym?
+
+Mówca (kobieta): Jeśli ktoś lubi filmy akcji z elementami science fiction, to na pewno warto go obejrzeć. Chociaż, jak już wspomniałeś, fabuła mogłaby być bardziej skomplikowana, to ogólnie był to dobry sposób na spędzenie czasu."|Obejrzałam ten film wczoraj wieczorem, podobał ci się?
+mężczyzna|mężczyzna|I watched that movie last night, did you like it?|Obejrzałem ten film wczoraj wieczorem, spodobał ci się?||Obejrzałem ten film wczoraj wieczorem, podobał ci się?|Oglądałem ten film wczoraj wieczorem, podobał ci się?|Widziałem ten film zeszłej nocy, podobał ci się?|"Oto tłumaczenie na język polski:
+
+Mówca (mężczyzna): Oglądałem ten film wczoraj wieczorem, podobał ci się?
+
+Słuchacz (mężczyzna): Tak, bardzo mi się podobał. A tobie jak się podobał?"|Obejrzałem ten film wczoraj wieczorem, podobał ci się?
+kobieta|kobieta|I watched that movie last night, did you like it?|Obejrzałam ten film wczoraj wieczorem, spodobał ci się?||Obejrzałem ten film wczoraj wieczorem, podobał ci się?|Oglądałam ten film zeszłej nocy, czy ci się podobał?|Widziałam ten film zeszłej nocy, podobał ci się?|"Mówca (kobieta): Obejrzałam ten film wczoraj wieczorem, podobał ci się?
+
+Słuchacz (kobieta): Tak, bardzo mi się podobał. Był naprawdę wciągający i emocjonujący. A tobie jak się podobał?
+
+Mówca: Mnie też się spodobał. Szczególnie zainteresował mnie wątek głównej bohaterki. Jak myślisz, czy jej decyzje były uzasadnione?
+
+Słuchacz: To trudne pytanie. Z jednej strony rozumiem jej motywację, ale z drugiej strony nie jestem pewna, czy sama postąpiłabym tak samo. Co sądzisz o zakończeniu filmu?
+
+Mówca: Myślę, że zakończenie było dość otwarte. Pozostawiło widzom przestrzeń na interpretację. Ciekawe, co reżyser miał na myśli.
+
+Słuchacz: Dokładnie! To sprawia, że film staje się jeszcze bardziej interesujący. A co powiesz o grze aktorskiej? Uważasz, że aktorzy dobrze oddali swoje role?
+
+Mówca: Absolutnie! Byłam pod wrażeniem, jak realistycznie przedstawili swoje postacie. Szczególnie główna aktorka była niesamowita. A ty jak oceniasz obsadę?
+
+Słuchacz: Zgadzam się w 100%. Każdy z aktorów wniósł coś wyjątkowego do swojej roli. To naprawdę podniosło jakość produkcji.
+
+Mówca: Dokładnie! A co sądzisz o scenariuszu? Czy uważasz, że był logiczny i spójny?
+
+Słuchacz: Wydaje mi się, że tak. Chociaż muszę przyznać, że niektóre zwroty akcji były dość niespodziewane. Ale to tylko dodało filmowi dynamiki.
+
+Mówca: Rozumiem twoje podejście. Ja również doceniłam, jak scenarzysta potrafił połączyć różne wątki w spójną całość. To nie jest łatwe zadanie.
+
+Słuchacz: Zdecydowanie. A co powiesz o muzyce i efektach specjalnych? Czy uważasz, że dobrze współgrały z fabułą?
+
+Mówca: Muzyka była świetna! Idealnie podkreślała nastrój poszczególnych scen. Efekty specjalne też były na wysokim poziomie. Nie wydawały się sztuczne ani przesadzone.
+
+Słuchacz: Dokładnie! To pokazuje, jak ważna jest współpraca między różnymi działami produkcji filmowej. Bez tego film nie byłby taki dobry.
+
+Mówca: Zgadzam się całkowicie. A teraz, skoro omówiłyśmy już wszystkie aspekty filmu, chciałabym zapytać, czy poleciłabyś go innym?
+
+Słuchacz: Zdecydowanie tak! To był naprawdę dobry film, który dostarczył mi wiele emocji i tematów do refleksji. Polecam go każdemu, kto lubi dobre kino.
+
+Mówca: Świetnie! Cieszę się, że obie mamy podobne odczucia. Może powinnyśmy zaplanować kolejne spotkanie, żeby porozmawiać o innych filmach, które ostatnio widziałyśmy?
+
+Słuchacz: To świetny pomysł! Z"|Obejrzałam ten film wczoraj wieczorem, czy ci się podobał?
+mężczyzna|kobieta|I cleaned the kitchen, did you take out the trash?|Posprzątałem kuchnię, czy wyniosłaś śmieci?||Posprzątałem kuchnię, czy wyrzuciłeś śmieci?|Posprzątałem kuchnię, czy wyniosłaś śmieci?|Posprzątałem kuchnię, czy wyniosłaś śmieci?|"Mówca (mężczyzna): Sprzątnąłem kuchnię, czy wyrzuciłaś śmieci?
+
+Słuchaczka (kobieta): Tak, wyrzuciłam śmieci. Dziękuję za sprzątanie kuchni!"|Posprzątałem kuchnię, czy wyrzuciłaś śmieci?
+kobieta|mężczyzna|I cleaned the kitchen, did you take out the trash?|Posprzątałam kuchnię, czy wyniosłeś śmieci?||Posprzątałem kuchnię, czy wyrzuciłeś śmieci?|Posprzątałam kuchnię, czy wyniosłeś śmieci?|Posprzątałam kuchnię, czy wyniosłeś śmieci?|"Mówca (kobieta): Posprzątałam kuchnię, czy wyrzuciłeś śmieci?
+
+Słuchacz (mężczyzna): Tak, zrobiłem to. Nie martw się, już są wyrzucone."|Oczyściłam kuchnię, czy wyrzuciłeś śmieci?
+mężczyzna|mężczyzna|I cleaned the kitchen, did you take out the trash?|Posprzątałem kuchnię, czy wyniosłeś śmieci?||Posprzątałem kuchnię, czy wyrzuciłeś śmieci?|Posprzątałem kuchnię, czy wyniosłeś śmieci?|Posprzątałem kuchnię, czy wyniosłeś śmieci?|"Mówca (mężczyzna): Oczyściłem kuchnię, czy wyrzuciłeś śmieci?
+Słuchacz (mężczyzna): Tak, zająłem się tym.
+
+Tłumaczenie na język polski:
+
+Mówca: ""Oczyściłem kuchnię, czy wyrzuciłeś śmieci?""
+Słuchacz: ""Tak, zająłem się tym.""
+
+To tłumaczenie oddaje sens oryginalnego zdania w języku angielskim, uwzględniając kontekst rozmowy między dwoma mężczyznami i odniesienie do czynności domowych."|Posprzątałem kuchnię, czy wyrzuciłeś śmieci?
+kobieta|kobieta|I cleaned the kitchen, did you take out the trash?|Posprzątałam kuchnię, czy wyniosłaś śmieci?||Posprzątałem kuchnię, czy wyrzuciłeś śmieci?|Posprzątałam kuchnię, czy wyniosłaś śmieci?|Posprzątałam kuchnię, czy wyniosłaś śmieci?|"Mówca: Kobieta
+Słuchacz: Kobieta
+Angielski: ""I cleaned the kitchen, did you take out the trash?""
+Polski:
+
+""Posprzątałam kuchnię, czy wyrzuciłaś śmieci?""
+
+W tym przypadku mamy do czynienia z dialogiem między dwiema kobietami. Jedna z nich pyta drugą, czy ta druga wykonała określone zadanie domowe (wyrzucenie śmieci), podczas gdy pierwsza osoba informuje o swoim działaniu (posprzątaniu kuchni). Tłumaczenie jest dosłowne i oddaje sens oryginalnego zdania."|Posprzątałam kuchnię, czy wyrzuciłaś śmieci?
+mężczyzna|kobieta|I bought the tickets, did you remember to book the hotel?|Kupiłem bilety, czy pamiętałaś zarezerwować hotel?||Kupiłem bilety, czy pamiętałeś o zarezerwowaniu hotelu?|Kupiłem bilety, czy pamiętałaś o zarezerwowaniu hotelu?|Kupiłem bilety, czy pamiętałaś o zarezerwowaniu hotelu?|"Mówca (mężczyzna): Kupiłem bilety, czy pamiętałaś o zarezerwowaniu hotelu?
+
+Słuchaczka (kobieta): Tak, pamiętałam. Zarezerwowałam hotel wczoraj wieczorem. Czy wszystko jest już ustalone?"|Kupiłem bilety, czy pamiętałaś o zarezerwowaniu hotelu?
+kobieta|mężczyzna|I bought the tickets, did you remember to book the hotel?|Kupiłam bilety, czy pamiętałeś zarezerwować hotel?||Kupiłem bilety, czy pamiętałeś o zarezerwowaniu hotelu?|Kupiłam bilety, czy pamiętałeś o zarezerwowaniu hotelu?|Kupiłam bilety, czy pamiętałeś o zarezerwowaniu hotelu?|"Mówca (kobieta): Kupiłam bilety, czy pamiętałeś o zarezerwowaniu hotelu?
+
+Słuchacz (mężczyzna): Tak, tak, nie martw się. Zajmowałem się tym wczoraj wieczorem. Wszystko jest już załatwione."|Kupiłam bilety, czy pamiętałeś o zarezerwowaniu hotelu?
+mężczyzna|mężczyzna|I bought the tickets, did you remember to book the hotel?|Kupiłem bilety, czy pamiętałeś zarezerwować hotel?||Kupiłem bilety, czy pamiętałeś o zarezerwowaniu hotelu?|Kupiłem bilety, czy pamiętałeś o zarezerwowaniu hotelu?|Kupiłem bilety, czy pamiętałeś o zarezerwowaniu hotelu?|"Mówca: Kupiłem bilety, czy pamiętałeś o zarezerwowaniu hotelu?
+
+W tym zdaniu ""I bought the tickets"" odnosi się do tego, że mówca kupił bilety. Następnie mówca pyta słuchacza, czy ten pamiętał o zarezerwowaniu hotelu, używając formy ""did you remember"". W języku polskim odpowiednikiem tej konstrukcji jest ""Czy pamiętałeś o zarezerwowaniu hotelu?"".
+
+Zdanie w języku polskim brzmi naturalnie i oddaje sens oryginalnego zdania angielskiego."|Kupiłem bilety, czy pamiętałeś o zarezerwowaniu hotelu?
+kobieta|kobieta|I bought the tickets, did you remember to book the hotel?|Kupiłam bilety, czy pamiętałaś zarezerwować hotel?||Kupiłem bilety, czy pamiętałeś o zarezerwowaniu hotelu?|Kupiłam bilety, czy pamiętałaś o zarezerwowaniu hotelu?|Kupiłam bilety, czy pamiętałaś o zarezerwowaniu hotelu?|"Mówca: Kobieta
+Słuchacz: Kobieta
+Angielski: ""I bought the tickets, did you remember to book the hotel?""
+Polski:
+
+""Kupiłam bilety, czy pamiętałaś o zarezerwowaniu hotelu?""
+
+W tym przypadku mamy do czynienia z dialogiem między dwiema kobietami. Jedna z nich pyta drugą, czy ta druga pamiętała o zarezerwowaniu hotelu, podczas gdy pierwsza kobieta wspomina, że sama już zakupiła bilety."|Kupiłam bilety, czy pamiętałaś o zarezerwowaniu hotelu?
+mężczyzna|kobieta|I found the keys, did you find your wallet?|Znalazłem klucze, czy znalazłaś swój portfel?||Znalazłem klucze, czy znalazłeś swój portfel?|Znalazłem klucze, czy znalazłaś swoją torebkę?|Znalazłem klucze, czy znalazłaś swoją torebkę?|"Mówca (mężczyzna): Znalazłem klucze, czy znalazłaś swoją torebkę?
+
+Słuchaczka (kobieta): Tak, dziękuję. Udało mi się znaleźć moją torebkę. A ty znalazłeś klucze?
+
+Wyjaśnienie:
+1. ""I found the keys"" zostało przetłumaczone jako ""Znalazłem klucze"".
+2. ""Did you find your wallet?"" zostało przetłumaczone jako ""Czy znalazłaś swoją torebkę?"". W języku polskim słowo ""wallet"" (portfel) jest tłumaczone jako ""torebka"", ponieważ w kontekście rozmowy między mężczyzną a kobietą bardziej naturalne jest użycie słowa ""torebka"" niż ""portfel"".
+3. Odpowiedź słuchaczki zawiera podziękowanie za informację o znalezionych kluczach oraz potwierdzenie, że ona również odnalazła swoją torebkę."|Znalazłem klucze, czy znalazłaś swoją torebkę?
+kobieta|mężczyzna|I found the keys, did you find your wallet?|Znalazłam klucze, czy znalazłeś swój portfel?||Znalazłem klucze, czy znalazłeś swój portfel?|Znalazłam klucze, znalazłeś swój portfel?|Znalazłam klucze, znalazłeś swój portfel?|"Mówca (kobieta): Znalazłam klucze, czy znalazłeś swój portfel?
+
+Słuchacz (mężczyzna): Tak, udało mi się znaleźć mój portfel. Dziękuję za pytanie!
+
+---
+
+Wyjaśnienie:
+1. ""I found the keys"" - Mówca informuje słuchacza, że znalazła klucze.
+2. ""did you find your wallet?"" - Mówca pyta słuchacza, czy ten znalazł swój portfel.
+3. Odpowiedź słuchacza potwierdza, że rzeczywiście znalazł swój portfel i wyraża wdzięczność za pytanie."|Znalazłam klucze, czy znalazłeś swój portfel?
+mężczyzna|mężczyzna|I found the keys, did you find your wallet?|Znalazłem klucze, czy znalazłeś swój portfel?||Znalazłem klucze, czy znalazłeś swój portfel?|Znalazłem klucze, znalazłeś swój portfel?|Znalazłem klucze, znalazłeś swój portfel?|"Mówca: Mężczyzna
+Słuchacz: Mężczyzna
+Angielski: ""I found the keys, did you find your wallet?""
+Polski:
+
+""Znalazłem klucze, czy znalazłeś swój portfel?""
+
+W tym tłumaczeniu:
+- ""I found the keys"" zostało przetłumaczone jako ""Znalazłem klucze"".
+- ""Did you find your wallet?"" zostało przetłumaczone jako ""Czy znalazłeś swój portfel?"".
+
+To zdanie jest typowym przykładem dialogu między dwoma osobami, gdzie jedna informuje drugą o znalezieniu przedmiotu i pyta, czy druga osoba również coś znalazła. W języku polskim użyto czasownika w pierwszej osobie liczby pojedynczej (""znalazłem"") oraz pytania warunkowego (""Czy znalazłeś swój portfel?""), aby oddać sens oryginalnego zdania w języku angielskim."|Znalazłem klucze, znalazłeś swój portfel?
+kobieta|kobieta|I found the keys, did you find your wallet?|Znalazłam klucze, czy znalazłaś swój portfel?||Znalazłem klucze, czy znalazłeś swój portfel?|Znalazłam klucze, czy znalazłaś swoją torebkę?|Znalazłam klucze, czy znalazłaś swoją torebkę?|"Mówca (kobieta): Znalazłam klucze, czy ty znalazłaś swoją torebkę?
+
+Słuchacz (kobieta): Och, dzięki za znalezienie kluczy! Niestety, mojej torebki jeszcze nie udało mi się odnaleźć. Mam nadzieję, że wkrótce na nią natrafię."|Znalazłam klucze, czy znalazłaś swoją torebkę?
+mężczyzna|kobieta|I sent the email, did you call the client?|Wysłałem maila, czy zadzwoniłaś do klienta?||Wysłałem e-maila, czy zadzwoniłeś do klienta?|Wysłałem e-maila, czy zadzwoniłaś do klienta?|Wysłałem e-maila, czy zadzwoniłaś do klienta?|"Mówca (mężczyzna): Tak, wysłałem e-mail. A czy ty zadzwoniłaś do klienta?
+
+Słuchaczka (kobieta): Och, przepraszam! Zapomniałam o tym telefonie. Ale teraz już to zrobię. Dzięki za przypomnienie."|Wysłałem e-maila, czy zadzwoniła pani do klienta?
+kobieta|mężczyzna|I sent the email, did you call the client?|Wysłałam maila, czy zadzwoniłeś do klienta?||Wysłałem e-maila, czy zadzwoniłeś do klienta?|Wysłałam e-maila, czy zadzwoniłeś do klienta?|Wysłałam e-maila, czy zadzwoniłeś do klienta?|"Mówca (kobieta): Wysłałam e-maila. Czy dzwoniłeś do klienta?
+
+Słuchacz (mężczyzna): Tak, zadzwoniłem do klienta. Czy otrzymałaś potwierdzenie od niego?"|Wysłałam e-maila, czy zadzwoniłeś do klienta?
+mężczyzna|mężczyzna|I sent the email, did you call the client?|Wysłałem maila, czy zadzwoniłeś do klienta?||Wysłałem e-maila, czy zadzwoniłeś do klienta?|Wysłałem e-maila, czy zadzwoniłeś do klienta?|Wysłałem e-maila, czy zadzwoniłeś do klienta?|"Mówca: Mężczyzna
+Słuchacz: Mężczyzna
+Angielski: I sent the email, did you call the client?
+Polski:
+
+Wysłałem e-maila, czy dzwoniłeś do klienta?
+
+W tym tłumaczeniu:
+- ""I sent the email"" zostało przetłumaczone jako ""Wysłałem e-maila"".
+- ""did you call the client?"" zostało przetłumaczone jako ""czy dzwoniłeś do klienta?"".
+
+To zdanie jest typowym przykładem pytania w języku polskim, gdzie mówca pyta słuchacza o wykonanie dwóch różnych czynności - wysłanie e-maila i zadzwonienie do klienta."|Wysłałem e-maila, czy zadzwoniłeś do klienta?
+kobieta|kobieta|I sent the email, did you call the client?|Wysłałam maila, czy zadzwoniłaś do klienta?||Wysłałem e-maila, czy zadzwoniłeś do klienta?|Wysłałam e-maila, czy zadzwoniłaś do klienta?|Wysłałam e-maila, czy zadzwoniłaś do klienta?|"Mówca: Kobieta
+Słuchacz: Kobieta
+Angielski: ""I sent the email, did you call the client?""
+Polski: ""Wysłałam e-maila, czy dzwoniłaś do klientki?""
+
+W tym tłumaczeniu zachowano znaczenie oryginalnego zdania w języku angielskim, uwzględniając również płeć mówcy i słuchacza. W języku polskim użyto formy żeńskiej czasownika ""dzwonić"" (""dzwoniłaś""), aby dopasować się do płci słuchacza. Ponadto, zmieniono ""client"" na ""klientkę"", co jest bardziej odpowiednim określeniem dla kobiety w kontekście biznesowym."|Wysłałam e-maila, czy zadzwoniłaś do klienta?
+mężczyzna|kobieta|I finished the report, did you complete the presentation?|Skończyłem raport, czy ukończyłaś prezentację?||Skończyłem raport, czy ukończyłeś prezentację?|Skończyłem raport, czy ukończyłaś prezentację?|Skończyłem raport, czy ukończyłaś prezentację?|"Mówca (mężczyzna): Skończyłem raport. Czy ty skończyłaś prezentację?
+
+Słuchaczka (kobieta): Tak, udało mi się zakończyć prezentację. Dziękuję za pytanie."|Skończyłem raport, czy ukończyłaś prezentację?
+kobieta|mężczyzna|I finished the report, did you complete the presentation?|Skończyłam raport, czy ukończyłeś prezentację?||Skończyłem raport, czy ukończyłeś prezentację?|Skończyłam raport, czy ukończyłeś prezentację?|Skończyłam raport, czy udało ci się zrobić prezentację?|"Mówca (kobieta): Skończyłam raport. Czy ty skończyłeś prezentację?
+
+Słuchacz (mężczyzna): Tak, udało mi się zakończyć pracę nad prezentacją. Dziękuję za pytanie."|Skończyłam raport. Czy ukończyłeś prezentację?
+mężczyzna|mężczyzna|I finished the report, did you complete the presentation?|Skończyłem raport, czy ukończyłeś prezentację?||Skończyłem raport, czy ukończyłeś prezentację?|Skończyłem raport, czy ukończyłeś prezentację?|Skończyłem raport, czy ukończyłeś prezentację?|"Mówca: Tak, skończyłem raport. A ty, czy ukończyłeś prezentację?
+
+W języku polskim to zdanie można przetłumaczyć na kilka sposobów, w zależności od kontekstu i stylu wypowiedzi. Oto kilka przykładów:
+
+1. ""Tak, skończyłem raport. A ty, czy ukończyłeś prezentację?""
+2. ""Raport jest gotowy. A jak twoja prezentacja?""
+3. ""Udało mi się zakończyć raport. Czy z prezentacją też już skończyłeś?""
+4. ""Jestem po pracy nad raportem. Jak idzie ci z prezentacją?""
+5. ""Raport został zamknięty. Czy masz już gotową prezentację?""
+
+Każde z tych tłumaczeń oddaje sens oryginalnego zdania w języku angielskim, ale różni się nieco stylem i strukturą. Wybór najlepszego tłumaczenia zależy od sytuacji, w której jest używane, oraz preferencji osoby mówiącej."|Skończyłem raport, czy ukończyłeś prezentację?
+kobieta|kobieta|I finished the report, did you complete the presentation?|Skończyłam raport, czy ukończyłaś prezentację?||Skończyłem raport, czy ukończyłeś prezentację?|Skończyłam raport, czy ukończyłaś prezentację?|Skończyłam raport, czy udało ci się zrobić prezentację?|"Mówca: Kobieta
+Słuchacz: Kobieta
+
+Tekst w języku polskim:
+""Czy skończyłaś prezentację? Ja już zrobiłam raport."""|Skończyłam raport. Czy ukończyłaś prezentację?
+mężczyzna|kobieta|I repaired the sink, did you fix the door?|Naprawiłem zlew, czy naprawiłaś drzwi?||Naprawiłem zlew. Czy naprawiłeś drzwi?|Naprawiłem zlew, czy naprawiłaś drzwi?|Naprawiłem zlew, czy naprawiłaś drzwi?|"Mówca (mężczyzna): Naprawiłem zlew. Czy naprawiłaś drzwi?
+
+Słuchaczka (kobieta): Tak, naprawiłam drzwi. Dziękuję za pomoc przy zlewie."|Naprawiłem zlew. Czy naprawiłaś drzwi?
+kobieta|mężczyzna|I repaired the sink, did you fix the door?|Naprawiłam zlew, czy naprawiłeś drzwi?||Naprawiłem zlew. Czy naprawiłeś drzwi?|Naprawiłam zlew, czy naprawiłeś drzwi?|Naprawiłam zlew, czy naprawiłeś drzwi?|"Mówca (kobieta): Naprawiłam zlew. Czy naprawiłeś drzwi?
+
+Słuchacz (mężczyzna): Tak, naprawiłem drzwi. Dziękuję za pomoc przy zlewie."|Naprawiłam zlew, czy naprawiłeś drzwi?
+mężczyzna|mężczyzna|I repaired the sink, did you fix the door?|Naprawiłem zlew, czy naprawiłeś drzwi?||Naprawiłem zlew. Czy naprawiłeś drzwi?|Naprawiłem zlew, czy naprawiłeś drzwi?|Naprawiłem zlew, czy naprawiłeś drzwi?|"Mówca: Czy naprawiłeś zlew? Ja naprawiłem kran.
+Słuchacz: Aha, ja naprawiłem drzwi. Dzięki za informację."|Naprawiłem zlew. Czy naprawiłeś drzwi?
+kobieta|kobieta|I repaired the sink, did you fix the door?|Naprawiłam zlew, czy naprawiłaś drzwi?||Naprawiłem zlew. Czy naprawiłeś drzwi?|Naprawiłam zlew, czy naprawiłaś drzwi?|Naprawiłam zlew, czy naprawiłaś drzwi?|"Mówca: kobieta
+Słuchacz: kobieta
+Angielski: I repaired the sink, did you fix the door?
+Polski:
+
+Naprawiłam zlew, czy naprawiłaś drzwi?"|Naprawiłam zlew, czy naprawiłaś drzwi?
+mężczyzna|kobieta|I wrote the letter, did you send it?|Napisałem list, czy go wysłałaś?||Napisałem list, czy go wysłałeś?|Napisałem list, czy go wysłałaś?|Napisałem list, czy go wysłałaś?|"Mówca (mężczyzna): Napisałem list, czy go wysłałaś?
+
+Słuchaczka (kobieta): Tak, wysłałam go. Dziękuję za przypomnienie."|Napisałem list, czy go wysłałaś?
+kobieta|mężczyzna|I wrote the letter, did you send it?|Napisałam list, czy go wysłałeś?||Napisałem list, czy go wysłałeś?|Napisałam list, czy go wysłałeś?|Napisałam list, czy go wysłałeś?|"Mówca (kobieta): Napisałam list, czy go wysłałeś?
+
+Słuchacz (mężczyzna): Tak, oczywiście. Wysłałem go dziś rano. Czy jest coś jeszcze, czego potrzebujesz?"|Napisałam list, czy go wysłałeś?
+mężczyzna|mężczyzna|I wrote the letter, did you send it?|Napisałem list, czy go wysłałeś?||Napisałem list, czy go wysłałeś?|Napisałem list, czy go wysłałeś?|Napisałem list, czy go wysłałeś?|"Mówca: Napisałem list. Czy go wysłałeś?
+
+W tym przypadku tłumaczenie z języka angielskiego na polski brzmi: ""Napisałem list. Czy go wysłałeś?"" Jest to dosłowne tłumaczenie pytania ""I wrote the letter, did you send it?"" z uwzględnieniem kontekstu i struktury zdania w obu językach."|Napisałem list, czy go wysłałeś?
+kobieta|kobieta|I wrote the letter, did you send it?|Napisałam list, czy go wysłałaś?||Napisałem list, czy go wysłałeś?|Napisałam list, czy go wysłałaś?|Napisałam list, czy go wysłałaś?|"Mówca (kobieta): Napisałam list, czy go wysłałaś?
+Słuchacz (kobieta): Tak, wysłałam go. Dziękuję za przypomnienie!"|Napisałam list, czy go wysłałaś?
+mężczyzna|kobieta|I repaired my laptop, did you back up your files?|Naprawiłem laptopa, czy zrobiłaś kopię zapasową plików?||Naprawiłem mój laptop, czy zrobiłeś kopię zapasową swoich plików?|Naprawiłem swój laptop, czy zrobiłaś kopię zapasową swoich plików?|Naprawiłem swój laptop, czy zrobiłaś kopię zapasową swoich plików?|"Mówca (mężczyzna): Naprawiłem swój laptop. Czy zrobiłaś kopię zapasową swoich plików?
+
+Słuchaczka (kobieta): Tak, na szczęście zrobiłam kopię zapasową przed tym, jak oddałam go do naprawy. Dzięki temu wszystkie moje ważne dokumenty i zdjęcia są bezpieczne. To bardzo dobra praktyka, aby regularnie tworzyć kopie zapasowe naszych danych, żeby nie stracić ich w przypadku awarii sprzętu lub innych problemów technicznych."|Naprawiłem swój laptop, czy zrobiłaś kopię zapasową swoich plików?
+kobieta|mężczyzna|I repaired my laptop, did you back up your files?|Naprawiłam laptopa, czy zrobiłeś kopię zapasową plików?||Naprawiłem mój laptop, czy zrobiłeś kopię zapasową swoich plików?|Naprawiłam swój laptop, czy zrobiłeś kopię zapasową swoich plików?|Naprawiłam swój laptop, czy zrobiłeś kopię zapasową swoich plików?|"Mówca (kobieta): Naprawiłam swój laptop. Czy zrobiłeś kopię zapasową swoich plików?
+
+Słuchacz (mężczyzna): Tak, na szczęście zrobiłem kopię zapasową przed wyjazdem na wakacje. Dzięki temu nie straciłem ważnych dokumentów i zdjęć.
+
+Mówca: To dobrze! Zawsze warto robić regularne kopie zapasowe, zwłaszcza jeśli pracujesz na komputerze lub masz cenne dane. Nigdy nie wiadomo, kiedy może się coś stać z urządzeniem.
+
+Słuchacz: Masz rację. Od teraz będę bardziej uważny i postaram się częściej tworzyć kopie zapasowe. A ty jak radzisz sobie z tym problemem?
+
+Mówca: Ja korzystam z chmury oraz zewnętrznego dysku twardego. Ustawiłam automatyczne zapisywanie kopii zapasowych, żeby o tym nie zapominać. To naprawdę dużo ułatwia i daje poczucie bezpieczeństwa.
+
+Słuchacz: Rozumiem. Muszę przyznać, że nigdy wcześniej nie myślałem o tym tak poważnie. Twoja historia dała mi do myślenia. Dziękuję za tę rozmowę.
+
+Mówca: Nie ma sprawy. Zawsze warto dzielić się doświadczeniami i uczyć się na błędach innych. Pamiętaj, że lepiej jest być przygotowanym niż zaskoczonym."|Naprawiłam swój laptop, czy zrobiłeś kopię zapasową swoich plików?
+mężczyzna|mężczyzna|I repaired my laptop, did you back up your files?|Naprawiłem laptopa, czy zrobiłeś kopię zapasową plików?||Naprawiłem mój laptop, czy zrobiłeś kopię zapasową swoich plików?|Naprawiłem swój laptop, czy zrobiłeś kopię zapasową swoich plików?|Naprawiłem swój laptop, czy zrobiłeś kopię zapasową swoich plików?|"Mówca: Mężczyzna
+Słuchacz: Mężczyzna
+
+Tłumaczenie na polski:
+
+Mówca (po angielsku): ""I repaired my laptop, did you back up your files?""
+
+Tłumaczenie na polski: ""Naprawiłem swój laptop, czy zrobiłeś kopię zapasową swoich plików?"""|Naprawiłem swój laptop, czy zrobiłeś kopię zapasową swoich plików?
+kobieta|kobieta|I repaired my laptop, did you back up your files?|Naprawiłam laptopa, czy zrobiłaś kopię zapasową plików?||Naprawiłem mój laptop, czy zrobiłeś kopię zapasową swoich plików?|Naprawiłam swój laptop, czy zrobiłaś kopię zapasową swoich plików?|Naprawiłam swój laptop, czy zrobiłaś kopię zapasową swoich plików?|"Mówca: Kobieta
+Słuchacz: Kobieta
+
+Angielski: ""I repaired my laptop, did you back up your files?""
+
+Polski: ""Naprawiłam swój laptop, czy zrobiłaś kopię zapasową swoich plików?""
+
+Warto zauważyć, że w języku polskim często używamy bardziej formalnego lub grzecznościowego tonu w rozmowie między osobami tej samej płci. W tym przypadku, mówiąc do innej kobiety, możemy użyć formy grzecznościowej ""czy zrobiła Pani"" lub ""czy mogłaby Pani"", ale w codziennej, nieformalnej rozmowie między kobietami, forma bezpośrednia jest jak najbardziej odpowiednia i naturalna."|Naprawiłam swój laptop, czy zrobiłaś kopię zapasową swoich plików?
+mężczyzna|kobieta|I sent the documents you asked for yesterday, but you still haven't replied, could you please check your inbox?|Wysłałem wczoraj dokumenty, o które prosiłaś, ale nadal mi nie odpisałaś, czy mogłabyś sprawdzić swoją skrzynkę?||Wysłałem dokumenty, o które prosiłeś wczoraj, ale nadal nie odpowiedziałeś. Czy mógłbyś sprawdzić swoją skrzynkę odbiorczą?|Wysłałem dokumenty, o które prosiłaś wczoraj, ale nadal nie odpowiedziałaś. Czy mogłabyś sprawdzić swoją skrzynkę odbiorczą?|Wysłałem dokumenty, o które prosiłaś wczoraj, ale nadal nie odpowiedziałaś. Czy mogłabyś sprawdzić swoją skrzynkę odbiorczą?|"Mówca: Mężczyzna
+Słuchacz: Kobieta
+
+Tekst w języku polskim:
+""Wysłałem dokumenty, o które prosiłaś wczoraj, ale nadal nie odpowiedziałaś. Czy mogłabyś sprawdzić swoją skrzynkę odbiorczą?"""|Wysłałem dokumenty, o które prosiłaś wczoraj, ale nadal nie odpowiedziałaś. Czy mogłabyś sprawdzić swoją skrzynkę odbiorczą?
+kobieta|mężczyzna|I sent the documents you asked for yesterday, but you still haven't replied, could you please check your inbox?|Wysłałam wczoraj dokumenty, o które prosiłeś, ale nadal mi nie odpisałeś, czy mógłbyś sprawdzić swoją skrzynkę?||Wysłałem dokumenty, o które prosiłeś wczoraj, ale nadal nie odpowiedziałeś. Czy mógłbyś sprawdzić swoją skrzynkę odbiorczą?|Wysłałam dokumenty, o które prosiłeś wczoraj, ale nadal nie odpowiedziałeś. Czy mógłbyś sprawdzić swoją skrzynkę odbiorczą?|Wysłałam dokumenty, o które prosiłeś wczoraj, ale nadal nie odpowiedziałeś. Czy mógłbyś sprawdzić swoją skrzynkę odbiorczą?|"Mówca (kobieta): Wysłałam dokumenty, o które prosiłeś wczoraj, ale nadal nie dostałam odpowiedzi. Czy mógłbyś sprawdzić swoją skrzynkę odbiorczą?
+
+Słuchacz (mężczyzna): Okej, zaraz to zrobię. Dziękuję za przypomnienie."|Wysłałam dokumenty, o które prosiłeś wczoraj, ale nadal nie odpowiedziałeś. Czy mógłbyś sprawdzić swoją skrzynkę odbiorczą?
+mężczyzna|mężczyzna|I sent the documents you asked for yesterday, but you still haven't replied, could you please check your inbox?|Wysłałem wczoraj dokumenty, o które prosiłeś, ale nadal mi nie odpisałeś, czy mógłbyś sprawdzić swoją skrzynkę?||Wysłałem dokumenty, o które prosiłeś wczoraj, ale nadal nie odpowiedziałeś. Czy mógłbyś sprawdzić swoją skrzynkę odbiorczą?|Wysłałem dokumenty, o które prosiłeś wczoraj, ale nadal nie odpowiedziałeś. Czy mógłbyś sprawdzić swoją skrzynkę odbiorczą?|Wysłałem dokumenty, o które prosiłeś wczoraj, ale nadal nie odpowiedziałeś. Czy mógłbyś sprawdzić swoją skrzynkę odbiorczą?|"Oto tłumaczenie na język polski:
+
+""Wysłałem dokumenty, o które prosiłeś wczoraj, ale nadal nie odpowiedziałeś. Czy mógłbyś sprawdzić swoją skrzynkę odbiorczą?""
+
+To zdanie jest bezpośrednim tłumaczeniem oryginalnego tekstu angielskiego na język polski. Zawiera ono uprzejmą prośbę do adresata o sprawdzenie poczty elektronicznej, ponieważ nadawca wysłał już żądane dokumenty, ale nie otrzymał jeszcze potwierdzenia ich odbioru ani odpowiedzi."|Wysłałem dokumenty, o które prosiłeś wczoraj, ale nadal nie odpowiedziałeś. Czy mógłbyś sprawdzić swoją skrzynkę odbiorczą?
+kobieta|kobieta|I sent the documents you asked for yesterday, but you still haven't replied, could you please check your inbox?|Wysłałam wczoraj dokumenty, o które prosiłaś, ale nadal mi nie odpisałaś, czy mogłabyś sprawdzić swoją skrzynkę?||Wysłałem dokumenty, o które prosiłeś wczoraj, ale nadal nie odpowiedziałeś. Czy mógłbyś sprawdzić swoją skrzynkę odbiorczą?|Wysłałam dokumenty, o które prosiłaś wczoraj, ale nadal nie odpowiedziałaś. Czy mogłabyś sprawdzić swoją skrzynkę odbiorczą?|Wysłałam dokumenty, o które prosiłaś wczoraj, ale nadal nie odpowiedziałaś. Czy mogłabyś sprawdzić swoją skrzynkę odbiorczą?|"Polski:
+
+""Wysłałam dokumenty, o które prosiłaś wczoraj, ale nadal nie dostałam odpowiedzi. Czy mogłabyś sprawdzić swoją skrzynkę odbiorczą?""
+
+To tłumaczenie zachowuje znaczenie oryginalnego zdania w języku angielskim i jest poprawne gramatycznie oraz stylistycznie w języku polskim."|Wysłałam dokumenty, o które prosiłaś wczoraj, ale nadal nie odpowiedziałaś. Czy mogłabyś sprawdzić swoją skrzynkę odbiorczą?
+mężczyzna|kobieta|I stayed up all night preparing the presentation because you promised to help me, why didn't you show up?|Siedziałem całą noc przygotowując prezentację, bo obiecałaś, że mi pomożesz — dlaczego się nie pojawiłaś?||Zostałem całą noc przygotowując prezentację, bo obiecałeś mi pomóc. Dlaczego się nie pojawiłeś?|Czekałem całą noc, przygotowując prezentację, bo obiecałaś mi pomóc. Dlaczego się nie pojawiłaś?|Zostałem całą noc przygotowując prezentację, bo obiecałaś mi pomóc. Dlaczego się nie pojawiłaś?|"Mówca (mężczyzna): Przygotowywałem się całą noc do tej prezentacji, bo obiecałaś mi pomóc. Dlaczego nie przyszłaś?
+
+Słuchaczka (kobieta): Och, przepraszam! Coś mi wypadło i nie mogłam przyjść. Naprawdę mi przykro, że cię zawiodłam. Czy możemy to jakoś nadrobić?
+
+Mówca: No cóż, zrobiłem to specjalnie dla ciebie, ale rozumiem, że czasami tak bywa. Może następnym razem uda nam się lepiej skoordynować nasze plany.
+
+Słuchaczka: Tak, oczywiście. Bardzo doceniam twoje starania i chciałabym ci jakoś wynagrodzić ten trud. Czy jest coś, czego potrzebujesz teraz?
+
+Mówca: Nie, myślę, że po prostu muszę odpocząć po tej nocy. Ale dziękuję za troskę.
+
+Słuchaczka: Dobrze, jeśli będziesz czegokolwiek potrzebował, daj mi znać. Jeszcze raz przepraszam za spóźnienie."|Czekałem całą noc, przygotowując prezentację, bo obiecałaś mi pomóc. Dlaczego się nie pojawiłaś?
+kobieta|mężczyzna|I stayed up all night preparing the presentation because you promised to help me, why didn't you show up?|Siedziałam całą noc przygotowując prezentację, bo obiecałeś, że mi pomożesz — dlaczego się nie pojawiłeś?||Zostałem całą noc przygotowując prezentację, bo obiecałeś mi pomóc. Dlaczego się nie pojawiłeś?|Czekałam całą noc, przygotowując prezentację, bo obiecałeś mi pomóc. Dlaczego się nie pojawiłeś?|Zostałam całą noc przygotowując prezentację, bo obiecałeś mi pomóc. Dlaczego się nie pojawiłeś?|"Mówca (kobieta):
+""Przygotowywałam się całą noc do tej prezentacji, bo obiecałeś mi pomóc. Dlaczego nie przyszedłeś?""
+
+Słuchacz (mężczyzna):
+""I stayed up all night preparing the presentation because you promised to help me, why didn't you show up?""
+
+Tłumaczenie na polski:
+""Przygotowywałem się całą noc do prezentacji, ponieważ obiecałeś mi pomóc. Dlaczego nie przyszłaś?""
+
+Wyjaśnienie tłumaczenia:
+1. ""I stayed up all night preparing the presentation"" - W języku polskim używamy czasu przeszłego dokonanego, aby wyrazić czynność zakończoną w przeszłości: ""przygotowywałem się"".
+2. ""because you promised to help me"" - Używamy zaimka osobowego ""mi"", który odpowiada angielskiemu ""me"".
+3. ""why didn't you show up?"" - Pytanie o powód nieobecności jest formułowane jako pytanie retoryczne w drugiej osobie liczby pojedynczej: ""dlaczego nie przyszłaś?""
+4. W języku polskim często używa się formy grzecznościowej ""pan/pani"" w formalnych sytuacjach, ale w tym kontekście może być ona pominięta lub zastąpiona przez bezpośrednie zwrócenie się do rozmówcy."|Czekałam całą noc, przygotowując prezentację, bo obiecałeś mi pomóc. Dlaczego się nie pojawiłeś?
+mężczyzna|mężczyzna|I stayed up all night preparing the presentation because you promised to help me, why didn't you show up?|Siedziałem całą noc przygotowując prezentację, bo obiecałeś, że mi pomożesz — dlaczego się nie pojawiłeś?||Zostałem całą noc przygotowując prezentację, bo obiecałeś mi pomóc. Dlaczego się nie pojawiłeś?|Czekałem całą noc przygotowując prezentację, bo obiecałeś mi pomóc. Dlaczego się nie pojawiłeś?|Zostałem całą noc przygotowując prezentację, bo obiecałeś mi pomóc. Dlaczego się nie pojawiłeś?|"Mówca: Mężczyzna
+Słuchacz: Mężczyzna
+
+Tekst w języku polskim:
+""Przygotowywałem się całą noc do prezentacji, bo obiecałeś mi pomóc. Dlaczego nie przyszedłeś?"""|Czekałem całą noc przygotowując prezentację, bo obiecałeś mi pomóc. Dlaczego się nie pojawiłeś?
+kobieta|kobieta|I stayed up all night preparing the presentation because you promised to help me, why didn't you show up?|Siedziałam całą noc przygotowując prezentację, bo obiecałaś, że mi pomożesz — dlaczego się nie pojawiłaś?||Zostałem całą noc przygotowując prezentację, bo obiecałeś mi pomóc. Dlaczego się nie pojawiłeś?|Czekałam całą noc, przygotowując prezentację, bo obiecałaś mi pomóc. Dlaczego się nie pojawiłaś?|Zostałam do późna przygotowując prezentację, bo obiecałaś mi pomóc. Dlaczego się nie pojawiłaś?|"Mówca (kobieta):
+""Przygotowywałam się całą noc do tej prezentacji, bo obiecałaś mi pomóc. Dlaczego nie przyszłaś?""
+
+Słuchacz (kobieta):
+""Przepraszam cię bardzo za spóźnienie. Miałam nagły problem w pracy i musiałam zostać dłużej. Naprawdę doceniam twoje starania i jestem wdzięczna, że tak się postarałaś. Czy mogę jakoś ci to wynagrodzić?""
+
+Mówca (kobieta):
+""Rozumiem, że czasami takie rzeczy się zdarzają. Ale byłoby miło, gdybyś mnie poinformowała wcześniej. Teraz już trudno, prezentacja poszła dobrze, ale następnym razem proszę pamiętaj o komunikacji.""
+
+Słuchacz (kobieta):
+""Oczywiście, masz rację. Obiecuję, że następnym razem lepiej się przygotuję i dam ci znać na czas. Jeszcze raz przepraszam i dziękuję za wyrozumiałość."""|Czekałam całą noc, przygotowując prezentację, bo obiecałaś mi pomóc. Dlaczego się nie pojawiłaś?
+mężczyzna|kobieta|I bought everything for the party and decorated the room, were you able to invite all our friends?|Kupiłem wszystko na przyjęcie i udekorowałem pokój, czy udało ci się zaprosić wszystkich naszych przyjaciół?||Kupiłem wszystko na imprezę i udekorowałem pokój, czy udało ci się zaprosić wszystkich naszych przyjaciół?|Kupiłem wszystko na imprezę i udekorowałem pokój, czy udało ci się zaprosić wszystkich naszych znajomych?|Kupiłem wszystko na imprezę i udekorowałem pokój, czy udało ci się zaprosić wszystkich naszych znajomych?|"Mówca: Kupiłem wszystko na imprezę i udekorowałem pokój. Czy udało ci się zaprosić wszystkich naszych przyjaciół?
+
+Słuchaczka: Tak, udało mi się zaprosić prawie wszystkich naszych znajomych. Kilku osób nie mogło przyjść z powodu innych zobowiązań, ale większość potwierdziła swoje przybycie. Mam nadzieję, że będzie to świetna impreza!"|Kupiłem wszystko na imprezę i udekorowałem pokój, czy udało ci się zaprosić wszystkich naszych przyjaciół?
+kobieta|mężczyzna|I bought everything for the party and decorated the room, were you able to invite all our friends?|Kupiłam wszystko na przyjęcie i udekorowałam pokój, czy udało ci się zaprosić wszystkich naszych przyjaciół?||Kupiłem wszystko na imprezę i udekorowałem pokój, czy udało ci się zaprosić wszystkich naszych przyjaciół?|Kupiłam wszystko na imprezę i udekorowałam pokój, czy udało ci się zaprosić wszystkich naszych znajomych?|Kupiłam wszystko na imprezę i udekorowałam pokój, czy udało ci się zaprosić wszystkich naszych znajomych?|"Mówca (kobieta): Kupiłam wszystko na imprezę i udekorowałam pokój. Czy udało ci się zaprosić wszystkich naszych przyjaciół?
+
+Słuchacz (mężczyzna): Tak, udało mi się zaprosić prawie wszystkich. Kilka osób nie mogło przyjść z powodu innych zobowiązań, ale większość potwierdziła swoje przybycie.
+
+Mówca (kobieta): Świetnie! Mam nadzieję, że będą się dobrze bawić. Przygotowałam też kilka niespodzianek, które na pewno ich zaskoczą.
+
+Słuchacz (mężczyzna): Brzmi obiecująco. Nie mogę się doczekać tej imprezy. Dziękuję za Twoją pomoc w organizacji.
+
+Mówca (kobieta): To ja dziękuję za wsparcie. Razem stworzymy niezapomniane wspomnienia dla naszych gości. Do zobaczenia wieczorem!
+
+Słuchacz (mężczyzna): Do zobaczenia! Będę gotowy na czas. Miłego popołudnia!
+
+---
+
+Tłumaczenie angielskie:
+
+Speaker (woman): I bought everything for the party and decorated the room. Were you able to invite all our friends?
+
+Listener (man): Yes, I was able to invite most of them. A few people couldn't make it due to other commitments, but the majority confirmed their attendance.
+
+Speaker (woman): Great! I hope they'll have a good time. I also prepared some surprises that will surely catch them off guard.
+
+Listener (man): Sounds promising. I can't wait for the party. Thank you for your help with the organization.
+
+Speaker (woman): You're welcome. Together, we'll create unforgettable memories for our guests. See you tonight!
+
+Listener (man): See you tonight! I'll be ready on time. Have a nice afternoon!"|Kupiłam wszystko na imprezę i udekorowałam pokój, czy udało ci się zaprosić wszystkich naszych przyjaciół?
+mężczyzna|mężczyzna|I bought everything for the party and decorated the room, were you able to invite all our friends?|Kupiłem wszystko na przyjęcie i udekorowałem pokój, czy udało ci się zaprosić wszystkich naszych przyjaciół?||Kupiłem wszystko na imprezę i udekorowałem pokój, czy udało ci się zaprosić wszystkich naszych przyjaciół?|Kupiłem wszystko na imprezę i udekorowałem pokój, czy udało ci się zaprosić wszystkich naszych przyjaciół?|Kupiłem wszystko na imprezę i udekorowałem pokój, czy udało ci się zaprosić wszystkich naszych znajomych?|"Mówca: Kupiłem wszystko na imprezę i udekorowałem pokój, czy udało ci się zaprosić wszystkich naszych przyjaciół?
+
+Słuchacz: Tak, udało mi się zaprosić prawie wszystkich. Kilku osób nie mogło przyjść z powodu innych zobowiązań, ale większość potwierdziła swoje przybycie. Cieszę się, że będzie taka fajna impreza!
+
+(Warto zauważyć, że w języku polskim często dodaje się ""prawie"" lub ""niemal"", aby podkreślić, że nie wszyscy zostali zaproszeni, ale większość tak.)"|Kupiłem wszystko na imprezę i udekorowałem pokój, czy udało ci się zaprosić wszystkich naszych przyjaciół?
+kobieta|kobieta|I bought everything for the party and decorated the room, were you able to invite all our friends?|Kupiłam wszystko na przyjęcie i udekorowałam pokój, czy udało ci się zaprosić wszystkich naszych przyjaciół?||Kupiłem wszystko na imprezę i udekorowałem pokój, czy udało ci się zaprosić wszystkich naszych przyjaciół?|Kupiłam wszystko na imprezę i udekorowałam pokój, czy udało ci się zaprosić wszystkich naszych znajomych?|Kupiłam wszystko na imprezę i udekorowałam pokój, czy udało ci się zaprosić wszystkich naszych znajomych?|"Mówca: Kobieta
+Słuchacz: Kobieta
+
+Tekst w języku polskim:
+""Kupiłam wszystko na imprezę i udekorowałam pokój, czy udało ci się zaprosić wszystkich naszych przyjaciół?"""|Kupiłam wszystko na imprezę i udekorowałam pokój, czy udało ci się zaprosić wszystkich naszych przyjaciół?
+mężczyzna|kobieta|I cleaned the kitchen, did you at least take out the trash?|Posprzątałem kuchnię, wyniosłaś chociaż śmieci?||Posprzątałem kuchnię, czy chociaż wyrzuciłeś śmieci?|Posprzątałem kuchnię, czy chociaż wyniosłaś śmieci?|Posprzątałem kuchnię, czy chociaż wyniosłaś śmieci?|"Mówca (mężczyzna): Posprzątałem kuchnię, czy przynajmniej wyniosłaś śmieci?
+
+Słuchaczka (kobieta): [Odpowiedź]
+
+Warto zauważyć, że w języku polskim często używamy formy grzecznościowej ""pani"" lub ""proszę pani"", gdy zwracamy się do kobiety, której nie znamy osobiście. W tym kontekście możemy dodać ""proszę pani"" na początku zdania:
+
+Mówca (mężczyzna): Proszę pani, posprzątałem kuchnię, czy przynajmniej wyniosła pani śmieci?
+
+Alternatywnie, jeśli mówimy do znajomej osoby, możemy użyć bardziej bezpośredniego tonu:
+
+Mówca (mężczyzna): Hej, Aniu, posprzątałem kuchnię, czy ty przynajmniej wyniosłaś śmieci?
+
+lub
+
+Mówca (mężczyzna): Kasiu, posprzątałem kuchnię, czy mogłaś chociaż wynieść śmieci?
+
+W obu tych wersjach użyto imienia, co nadaje wypowiedzi bardziej osobisty charakter."|Posprzątałem kuchnię, czy chociaż wyrzuciłaś śmieci?
+kobieta|mężczyzna|I cleaned the kitchen, did you at least take out the trash?|Posprzątałam kuchnię, wyniosłeś chociaż śmieci?||Posprzątałem kuchnię, czy chociaż wyrzuciłeś śmieci?|Posprzątałam kuchnię, czy chociaż wyniosłeś śmieci?|Posprzątałam kuchnię, czy chociaż wyniosłeś śmieci?|"Mówca (kobieta): Posprzątałam kuchnię, czy przynajmniej wyniosłeś śmieci?
+
+Słuchacz (mężczyzna): [Odpowiedź zależy od kontekstu i relacji między osobami]
+
+To tłumaczenie jest dosłowne i może być użyte w codziennej rozmowie między partnerami lub współlokatorami. Warto pamiętać, że ton głosu i kontekst mogą wpływać na interpretację tej wypowiedzi."|Posprzątałam kuchnię, czy chociaż wyrzuciłeś śmieci?
+mężczyzna|mężczyzna|I cleaned the kitchen, did you at least take out the trash?|Posprzątałem kuchnię, wyniosłeś chociaż śmieci?||Posprzątałem kuchnię, czy chociaż wyrzuciłeś śmieci?|Posprzątałem kuchnię, czy chociaż wyniosłeś śmieci?|Posprzątałem kuchnię, czy chociaż wyniosłeś śmieci?|"Mówca: Czyściłem kuchnię, czy przynajmniej wyniosłeś śmieci?
+
+Wyjaśnienie:
+- ""I cleaned the kitchen"" w języku polskim tłumaczymy jako ""Czyściłem kuchnię"".
+- ""Did you at least take out the trash?"" to pytanie o to, czy druga osoba wykonała jakąkolwiek czynność, w tym przypadku wyniesienie śmieci. W języku polskim możemy to wyrazić jako ""czy przynajmniej wyniosłeś śmieci?"".
+
+Ta forma pytania jest często używana w języku angielskim i polskim, aby zapytać drugą osobę, czy wykonała choćby minimalną ilość pracy lub obowiązków, szczególnie gdy samemu wykonaliśmy znaczną część zadania."|Posprzątałem kuchnię, czy chociaż wyrzuciłeś śmieci?
+kobieta|kobieta|I cleaned the kitchen, did you at least take out the trash?|Posprzątałam kuchnię, wyniosłaś chociaż śmieci?||Posprzątałem kuchnię, czy chociaż wyrzuciłeś śmieci?|Posprzątałam kuchnię, czy chociaż wyniosłaś śmieci?|Posprzątałam kuchnię, czy chociaż wyniosłaś śmieci?|"Mówca: Kobieta
+Słuchacz: Kobieta
+Angielski: ""I cleaned the kitchen, did you at least take out the trash?""
+Polski: ""Posprzątałam w kuchni, czy chociaż wyniosłaś śmieci?""
+
+Tłumaczenie to oddaje sens oryginalnego zdania, zachowując jego ton i strukturę. W języku polskim użyto bardziej bezpośredniego zwrotu ""czy chociaż"", który odpowiada angielskiemu ""did you at least"". Zdanie jest skonstruowane tak, aby wyrazić pytanie o konkretną czynność domową, jednocześnie sugerując, że mówiąca już wykonała swoją część pracy."|Posprzątałam kuchnię, czy chociaż wyniosłaś śmieci?
+mężczyzna|kobieta|I told you not to forget the tickets, did you bring them or not?|Mówiłem ci, żebyś nie zapomniała biletów — masz je czy nie?||Powiedziałem ci, żebyś nie zapomniał biletów. Przyniosłeś je czy nie?|Mówiłem ci, żebyś nie zapomniała biletów. Przyniosłaś je czy nie?|Mówiłem ci, żebyś nie zapomniała biletów. Przyniosłaś je czy nie?|"Mówca (mężczyzna): ""Pamiętaj, żeby nie zapomnieć biletów. Przyniosłaś je czy nie?""
+
+Słuchaczka (kobieta): ""Tak, przyniosłam.""
+
+Warto zauważyć, że w języku polskim często używamy formy grzecznościowej ""pani"" lub ""proszę pani"", gdy zwracamy się do kobiety, której nie znamy osobiście lub o której statusie społecznym nie mamy pewności. W tym kontekście, mężczyzna mógłby powiedzieć:
+
+""Proszę pani, pamięta pani, żeby nie zapomnieć biletów? Przyniosła je pani czy nie?""
+
+Jednak w codziennych sytuacjach, zwłaszcza między znajomymi, forma bezpośrednia jest bardziej naturalna i powszechnie stosowana."|Powiedziałem ci, żebyś nie zapomniała biletów. Przyniosłaś je czy nie?
+kobieta|mężczyzna|I told you not to forget the tickets, did you bring them or not?|Mówiłam ci, żebyś nie zapomniał biletów — masz je czy nie?||Powiedziałem ci, żebyś nie zapomniał biletów. Przyniosłeś je czy nie?|Mówiłam ci, żebyś nie zapomniał biletów. Przyniosłeś je czy nie?|Mówiłam ci, żebyś nie zapomniał biletów. Przyniosłeś je czy nie?|"Polski:
+
+Mówca (kobieta): Przypominałam ci, żebyś nie zapomniał biletów. Przywiozłeś je czy nie?
+
+Słuchacz (mężczyzna): Tak, tak, spokojnie. Mam je przy sobie. Nie martw się."|Powiedziałam ci, żebyś nie zapomniał biletów. Przyniosłeś je czy nie?
+mężczyzna|mężczyzna|I told you not to forget the tickets, did you bring them or not?|Mówiłem ci, żebyś nie zapomniał biletów — masz je czy nie?||Powiedziałem ci, żebyś nie zapomniał biletów. Przyniosłeś je czy nie?|Mówiłem ci, żebyś nie zapomniał biletów. Przyniosłeś je czy nie?|Mówiłem ci, żebyś nie zapomniał biletów. Przyniosłeś je czy nie?|"Mówca: Czy pamiętałeś o zabraniu biletów? Wziąłeś je czy nie?
+
+Słuchacz: Tak, wziąłem je ze sobą.
+
+---
+
+Wyjaśnienie krok po kroku:
+
+1. Tłumaczenie zdania na język polski:
+   - ""I told you not to forget the tickets"" = ""Czy pamiętałeś o zabraniu biletów?""
+   - ""did you bring them or not?"" = ""Wziąłeś je czy nie?""
+
+2. Uwzględnienie kontekstu:
+   - Zdanie jest skierowane do mężczyzny przez innego mężczyznę, co sugeruje bezpośredni ton i relację między rozmówcami.
+
+3. Struktura dialogu:
+   - Mówca zadaje pytanie, a słuchacz odpowiada.
+
+4. Dostosowanie do naturalnej komunikacji:
+   - Pytanie mówcy jest bezpośrednie i stanowcze, ale jednocześnie wyraża troskę o to, czy bilety zostały zabrane.
+   - Odpowiedź słuchacza jest krótka i potwierdzająca, co wskazuje na to, że bilety zostały spakowane.
+
+5. Użycie czasownika ""pamiętać"":
+   - W tym przypadku użyto czasownika ""pamiętać"" zamiast ""zapomnieć"", aby lepiej oddać sens oryginalnego zdania.
+
+6. Uwzględnienie aspektu czasownika:
+   - Czasownik ""wziąć"" jest w czasie przeszłym dokonanym, co wskazuje na to, że czynność została już wykonana.
+
+7. Naturalne brzmienie dialogu:
+   - Dialog brzmi naturalnie i jest typowy dla codziennej komunikacji między znajomymi lub współpracownikami."|Powiedziałem ci, żebyś nie zapomniał biletów. Przyniosłeś je czy nie?
+kobieta|kobieta|I told you not to forget the tickets, did you bring them or not?|Mówiłam ci, żebyś nie zapomniała biletów — masz je czy nie?||Powiedziałem ci, żebyś nie zapomniał biletów. Przyniosłeś je czy nie?|Powiedziałam ci, żebyś nie zapomniała biletów. Przyniosłaś je czy nie?|Mówiłam ci, żebyś nie zapomniała biletów. Przyniosłaś je czy nie?|"Mówca: Kobieta
+Słuchacz: Kobieta
+
+Tłumaczenie na język polski:
+""Przypominałam ci, żebyś nie zapomniała o biletach. Przyniosłaś je czy nie?"""|Powiedziałam ci, żebyś nie zapomniała o biletach. Przyniosłaś je czy nie?
+mężczyzna|kobieta|I bought all the groceries like you asked, but you forgot to make the list, didn't you?|Kupiłem wszystkie zakupy, jak prosiłaś, ale zapomniałaś zrobić listę, prawda?||Kupiłem wszystkie zakupy spożywcze, o które prosiłeś, ale zapomniałeś zrobić listę, prawda?|Kupiłem wszystkie zakupy, o które prosiłaś, ale zapomniałaś zrobić listę, prawda?|Kupiłem wszystkie zakupy, o które prosiłaś, ale zapomniałaś sporządzić listę, prawda?|"Mówca (mężczyzna): Kupiłem wszystkie zakupy spożywcze tak, jak prosiłaś, ale zapomniałaś zrobić listę, prawda?
+
+Słuchaczka (kobieta): Ojej, masz rację! Przepraszam, że cię o to poprosiłam bez listy. Dziękuję, że i tak to zrobiłeś."|Kupiłem wszystkie zakupy spożywcze, o które prosiłaś, ale zapomniałaś zrobić listę, prawda?
+kobieta|mężczyzna|I bought all the groceries like you asked, but you forgot to make the list, didn't you?|Kupiłam wszystkie zakupy, jak prosiłeś, ale zapomniałeś zrobić listę, prawda?||Kupiłem wszystkie zakupy spożywcze, o które prosiłeś, ale zapomniałeś zrobić listę, prawda?|Kupiłam wszystkie zakupy, o które prosiłeś, ale zapomniałeś zrobić listę, prawda?|Kupiłam wszystkie zakupy, o które prosiłeś, ale zapomniałeś zrobić listę, prawda?|"Mówca (kobieta): Kupiłam wszystkie zakupy spożywcze tak, jak prosiłeś, ale zapomniałeś zrobić listę, prawda?
+
+Słuchacz (mężczyzna): [Zakładając, że słuchacz odpowiada] Ojej, masz rację! Przepraszam, kompletnie o tym zapomniałem. Dziękuję, że to załatwiłaś."|Kupiłem wszystkie zakupy spożywcze, o które prosiłaś, ale zapomniałaś zrobić listę, prawda?
+mężczyzna|mężczyzna|I bought all the groceries like you asked, but you forgot to make the list, didn't you?|Kupiłem wszystkie zakupy, jak prosiłeś, ale zapomniałeś zrobić listę, prawda?||Kupiłem wszystkie zakupy spożywcze, o które prosiłeś, ale zapomniałeś zrobić listę, prawda?|Kupiłem wszystkie zakupy spożywcze, o które prosiłeś, ale zapomniałeś zrobić listę, prawda?|Kupiłem wszystkie zakupy spożywcze tak, jak prosiłeś, ale zapomniałeś zrobić listę, prawda?|"Mówca: Kupiłem wszystkie zakupy spożywcze tak, jak prosiłeś, ale zapomniałeś sporządzić listę, prawda?
+
+W tej polskiej wersji zachowano sens oryginalnego zdania po angielsku, dodając jednocześnie odpowiednią formę gramatyczną i interpunkcję charakterystyczną dla języka polskiego."|Kupiłem wszystkie zakupy spożywcze, o które prosiłeś, ale zapomniałeś sporządzić listę, prawda?
+kobieta|kobieta|I bought all the groceries like you asked, but you forgot to make the list, didn't you?|Kupiłam wszystkie zakupy, jak prosiłaś, ale zapomniałaś zrobić listę, prawda?||Kupiłem wszystkie zakupy spożywcze, o które prosiłeś, ale zapomniałeś zrobić listę, prawda?|Kupiłam wszystkie zakupy, o które prosiłaś, ale zapomniałaś zrobić listę, prawda?|Kupiłam wszystkie zakupy, o które prosiłaś, ale zapomniałaś sporządzić listę, prawda?|"Mówca: Kobieta
+Słuchacz: Kobieta
+
+Angielski: ""I bought all the groceries like you asked, but you forgot to make the list, didn't you?""
+
+Polski: ""Kupiłam wszystkie zakupy tak, jak prosiłaś, ale zapomniałaś zrobić listę, prawda?""
+
+W tym tłumaczeniu:
+- ""I bought"" zostało przetłumaczone jako ""Kupiłam"".
+- ""all the groceries"" oznacza ""wszystkie zakupy"".
+- ""like you asked"" odnosi się do ""tak, jak prosiłaś"".
+- ""but you forgot"" można przetłumaczyć jako ""ale zapomniałaś"".
+- ""to make the list"" oznacza ""zrobić listę"".
+- ""didn't you?"" jest pytającą formą i może być przetłumaczone jako ""prawda?"".
+
+Całe zdanie brzmi naturalnie po polsku i oddaje sens oryginalnego angielskiego tekstu."|Kupiłam wszystkie zakupy spożywcze, o które prosiłaś, ale zapomniałaś zrobić listę, prawda?
+mężczyzna|kobieta|I finally fixed the shower, so now you can't complain anymore!|W końcu naprawiłem prysznic, więc teraz już nie możesz narzekać!||W końcu naprawiłem prysznic, więc teraz już nie możesz narzekać!|W końcu naprawiłem prysznic, więc teraz już nie możesz narzekać!|W końcu naprawiłem prysznic, więc teraz już nie możesz narzekać!|"Mówca (mężczyzna): ""W końcu naprawiłem prysznic, więc teraz nie możesz już narzekać!""
+
+Słuchaczka (kobieta): ""Och, to świetnie! Dziękuję bardzo. Rzeczywiście, ten prysznic sprawiał mi trochę problemów."""|W końcu naprawiłem prysznic, więc teraz nie możesz już narzekać!
+kobieta|mężczyzna|I finally fixed the shower, so now you can't complain anymore!|W końcu naprawiłam prysznic, więc teraz już nie możesz narzekać!||W końcu naprawiłem prysznic, więc teraz już nie możesz narzekać!|W końcu naprawiłam prysznic, więc teraz już nie możesz narzekać!|W końcu naprawiłam prysznic, więc teraz już nie możesz narzekać!|"Mówca (kobieta): W końcu naprawiłam prysznic, więc teraz nie możesz już narzekać!
+
+Słuchacz (mężczyzna): Och, to świetnie! Dziękuję ci bardzo. Czy mogłabyś jeszcze zrobić coś z tym przeciekającym kranem w kuchni?
+
+Mówca (kobieta): Haha, no cóż, skoro już się za to zabrałam, to chyba mogę iść na całość. Ale najpierw muszę znaleźć odpowiednią uszczelkę. Może być trudno, bo wszyscy hydraulicy są na urlopie.
+
+Słuchacz (mężczyzna): No tak, sezon urlopowy... A może ja mógłbym ci pomóc? Mam trochę doświadczenia w tego typu sprawach.
+
+Mówca (kobieta): Naprawdę? To byłoby super! Zawsze myślałam, że jesteś typem kanapowca. Ale dobrze, spróbujmy. Tylko uważaj, żebyś nie zalał podłogi.
+
+Słuchacz (mężczyzna): Spokojnie, mam wprawę. Pamiętasz ten remont łazienki sprzed roku? Sam wszystko zrobiłem!
+
+Mówca (kobieta): Tak, pamiętam... I rzeczywiście, wyglądało to całkiem nieźle. Dobrze, to bierzemy się do roboty. Tylko proszę, nie zapomnij o tej uszczelce. Nie chcę, żebyśmy musieli znowu wracać do tego tematu."|W końcu naprawiłam prysznic, więc teraz już nie możesz narzekać!
+mężczyzna|mężczyzna|I finally fixed the shower, so now you can't complain anymore!|W końcu naprawiłem prysznic, więc teraz już nie możesz narzekać!||W końcu naprawiłem prysznic, więc teraz już nie możesz narzekać!|W końcu naprawiłem prysznic, więc teraz już nie możesz narzekać!|W końcu naprawiłem prysznic, więc teraz już nie możesz narzekać!|"Mówca: Mężczyzna
+Słuchacz: Mężczyzna
+
+Tłumaczenie na polski:
+""W końcu naprawiłem prysznic, więc teraz nie możesz już narzekać!""
+
+To zdanie wyraża satysfakcję mówcy z faktu, że udało mu się rozwiązać problem z prysznicem, co sugeruje, że słuchacz mógł wcześniej skarżyć się na tę niedogodność. Zdanie to ma lekko żartobliwy ton i jest typowe dla codziennej komunikacji między osobami znającymi się dobrze."|W końcu naprawiłem prysznic, więc teraz już nie możesz narzekać!
+kobieta|kobieta|I finally fixed the shower, so now you can't complain anymore!|W końcu naprawiłam prysznic, więc teraz już nie możesz narzekać!||W końcu naprawiłem prysznic, więc teraz już nie możesz narzekać!|W końcu naprawiłam prysznic, więc teraz już nie możesz narzekać!|W końcu naprawiłam prysznic, więc teraz już nie możesz narzekać!|"Mówca: Kobieta
+Słuchacz: Kobieta
+
+Tłumaczenie na polski:
+""W końcu naprawiłam prysznic, więc teraz nie możesz już narzekać!""
+
+To zdanie wyraża satysfakcję mówcy z faktu, że udało się rozwiązać problem z prysznicem, co sugeruje, że słuchaczka mogła wcześniej skarżyć się na tę niedogodność. Zdanie to ma lekko żartobliwy ton i jest typowe dla codziennej komunikacji między osobami bliskimi lub znajomymi."|W końcu naprawiłam prysznic, więc teraz już nie możesz narzekać!
+mężczyzna|kobieta|I called you three times this morning, why didn't you pick up?|Dzwoniłem do ciebie trzy razy rano, czemu nie odebrałaś?||Dzwoniłem do ciebie trzy razy rano, dlaczego nie odebrałeś?|Dzwoniłem do ciebie trzy razy rano, dlaczego nie odebrałaś?|Dzwoniłem do ciebie trzy razy rano, dlaczego nie odebrałaś?|"Mówca (mężczyzna): Dzień dobry.
+
+Słuchaczka (kobieta): Dzień dobry.
+
+Mówca: Dzwoniłem do pani trzy razy dziś rano. Czy mogę zapytać, dlaczego nie odebrała pani telefonu?
+
+Słuchaczka: Przepraszam za to niedopatrzenie. Miałam wyciszony telefon i nie usłyszałam dzwonków. Proszę mi wybaczyć.
+
+Mówca: Rozumiem. To się zdarza. Czy mogę w czymś pomóc?
+
+Słuchaczka: Tak, chciałabym zapytać o spotkanie w sprawie projektu, który mamy omówić. Kiedy byłoby dla pana dogodne?
+
+Mówca: Myślę, że najlepiej będzie umówić się na jutro po południu. Może być około godziny 15:00?
+
+Słuchaczka: Jutro po południu brzmi świetnie. Dziękuję za elastyczność. Będę gotowa na spotkanie.
+
+Mówca: Z przyjemnością. Do zobaczenia jutro o 15:00.
+
+Słuchaczka: Dziękuję. Do widzenia.
+
+Mówca: Do widzenia. Miłego dnia."|Dzwoniłem do ciebie trzy razy rano, dlaczego nie odebrałaś?
+kobieta|mężczyzna|I called you three times this morning, why didn't you pick up?|Dzwoniłam do ciebie trzy razy rano, czemu nie odebrałeś?||Dzwoniłem do ciebie trzy razy rano, dlaczego nie odebrałeś?|Dzwoniłam do ciebie trzy razy rano, dlaczego nie odebrałeś?|Dzwoniłam do ciebie trzy razy rano, dlaczego nie odebrałeś?|"Mówca (kobieta): Dzień dobry. Dzwoniłam do pana trzy razy dziś rano, dlaczego pan nie odebrał telefonu?
+
+Słuchacz (mężczyzna): Och, przepraszam bardzo. Byłem zajęty i nie zauważyłem połączeń. Czy mogę wiedzieć, czego dotyczyły te telefony?
+
+Mówca (kobieta): Tak, oczywiście. Chciałam omówić kilka ważnych spraw związanych z naszym projektem. Pomyślałam, że może uda nam się spotkać na krótką rozmowę dzisiaj po południu.
+
+Słuchacz (mężczyzna): Rozumiem. Przepraszam za niedogodności. Czy moglibyśmy umówić się na spotkanie około godziny 15:00?
+
+Mówca (kobieta): To byłoby idealne. Spotkamy się więc o 15:00 w sali konferencyjnej numer 2. Czy to panu odpowiada?
+
+Słuchacz (mężczyzna): Tak, to mi pasuje. Będę na pewno. Jeszcze raz przepraszam za brak reakcji na państwa telefony.
+
+Mówca (kobieta): Nie ma problemu. Cieszę się, że udało nam się uzgodnić spotkanie. Do zobaczenia o 15:00.
+
+Słuchacz (mężczyzna): Do zobaczenia. Dziękuję za wyrozumiałość."|Dzwoniłam do ciebie trzy razy rano, dlaczego nie odebrałeś?
+mężczyzna|mężczyzna|I called you three times this morning, why didn't you pick up?|Dzwoniłem do ciebie trzy razy rano, czemu nie odebrałeś?||Dzwoniłem do ciebie trzy razy rano, dlaczego nie odebrałeś?|Dzwoniłem do ciebie trzy razy rano, dlaczego nie odebrałeś?|Dzwoniłem do ciebie trzy razy rano, dlaczego nie odebrałeś?|"Dziękuję za przedstawienie tego dialogu. Oto polska wersja:
+
+Mówca (mężczyzna): Dzwoniłem do ciebie trzy razy dziś rano, dlaczego nie odebrałeś?
+
+Słuchacz (mężczyzna): [Odpowiedź słuchacza]
+
+Warto zauważyć, że w języku polskim często używamy bardziej formalnego tonu w rozmowach telefonicznych niż w języku angielskim. W tym przypadku ""I called you three times this morning"" może być wyrażone jako ""Dzwoniłem do pana/pani trzy razy dziś rano"". Jednak w codziennych, nieformalnych rozmowach między znajomymi lub współpracownikami, forma ""Dzwoniłem do ciebie trzy razy dziś rano"" jest bardziej naturalna i powszechnie używana."|Dzwoniłem do ciebie trzy razy rano, dlaczego nie odebrałeś?
+kobieta|kobieta|I called you three times this morning, why didn't you pick up?|Dzwoniłam do ciebie trzy razy rano, czemu nie odebrałaś?||Dzwoniłem do ciebie trzy razy rano, dlaczego nie odebrałeś?|Dzwoniłam do ciebie trzy razy rano, dlaczego nie odebrałaś?|Dzwoniłam do ciebie trzy razy rano, dlaczego nie odebrałaś?|"Dziękuję za podanie kontekstu. Oto tłumaczenie tej wypowiedzi na język polski:
+
+""Dzwoniłam do ciebie trzy razy rano, dlaczego nie odebrałaś?""
+
+To zdanie jest bezpośrednim tłumaczeniem oryginalnego tekstu angielskiego na język polski, zachowując jego znaczenie i strukturę gramatyczną. Warto zauważyć, że w języku polskim często używamy formy ""dzwoniłam"", gdy mówimy o tym, że dzwoniliśmy do kogoś, nawet jeśli to było kilka osób lub grupa osób. W tym przypadku, ponieważ mowa jest o ""mnie"" (I) w języku angielskim, odpowiednikiem w języku polskim będzie ""ja"". Jednak w języku polskim zwykle używamy formy ""dzwoniłam"" dla obu płci, co jest bardziej naturalne i powszechne."|Dzwoniłam do ciebie trzy razy rano, dlaczego nie odebrałaś?
+mężczyzna|kobieta|I finished all my tasks at work today, but you still owe me that coffee, remember?|Skończyłem dziś wszystkie zadania w pracy, a ty wciąż jesteś mi winna tę kawę, pamiętasz?||Skończyłem wszystkie zadania w pracy dzisiaj, ale nadal jesteś mi winien tę kawę, pamiętasz?|Skończyłem wszystkie zadania w pracy dzisiaj, ale nadal jesteś mi winna to kawę, pamiętasz?|Skończyłem wszystkie zadania w pracy dzisiaj, ale nadal jesteś mi winna to kawę, pamiętasz?|"Mówca (mężczyzna): Skończyłem wszystkie zadania w pracy dzisiaj, ale nadal jesteś mi winna tę kawę, pamiętasz?
+
+Słuchaczka (kobieta): A tak, masz rację! Zupełnie o tym zapomniałam. Chodźmy na tę kawę, zasłużyłeś sobie.
+
+(Uwaga: Tłumaczenie jest dosłowne i może być dostosowane do kontekstu oraz stylu komunikacji między osobami.)"|Skończyłem wszystkie zadania w pracy dzisiaj, ale nadal jesteś mi winien tę kawę, pamiętasz?
+kobieta|mężczyzna|I finished all my tasks at work today, but you still owe me that coffee, remember?|Skończyłam dziś wszystkie zadania w pracy, a ty wciąż jesteś mi winien tę kawę, pamiętasz?||Skończyłem wszystkie zadania w pracy dzisiaj, ale nadal jesteś mi winien tę kawę, pamiętasz?|Skończyłam wszystkie zadania w pracy dzisiaj, ale nadal jesteś mi winien to kawę, pamiętasz?|Skończyłam wszystkie zadania w pracy dzisiaj, ale nadal jesteś mi winien to kawę, pamiętasz?|"Mówca (kobieta): Skończyłam wszystkie zadania w pracy dzisiaj, ale nadal jesteś mi winien tę kawę, pamiętasz?
+
+Słuchacz (mężczyzna): A tak, masz rację! Zupełnie o tym zapomniałem. Chodźmy na tę kawę teraz, dobrze?
+
+Mówca (kobieta): Świetnie, dziękuję! To będzie miła nagroda po całym dniu pracy."|Skończyłam wszystkie zadania w pracy dzisiaj, ale nadal jesteś mi winien to kawę, pamiętasz?
+mężczyzna|mężczyzna|I finished all my tasks at work today, but you still owe me that coffee, remember?|Skończyłem dziś wszystkie zadania w pracy, a ty wciąż jesteś mi winien tę kawę, pamiętasz?||Skończyłem wszystkie zadania w pracy dzisiaj, ale nadal jesteś mi winien tę kawę, pamiętasz?|Skończyłem wszystkie moje zadania w pracy dzisiaj, ale nadal jesteś mi winien to kawę, pamiętasz?|Skończyłem wszystkie zadania w pracy dzisiaj, ale nadal jesteś mi winien to kawę, pamiętasz?|"Mówca: Mężczyzna
+Słuchacz: Mężczyzna
+
+Tłumaczenie na język polski:
+
+Mówca (mężczyzna): Skończyłem wszystkie zadania w pracy dzisiaj, ale nadal jesteś mi winien tę kawę, pamiętasz?
+
+Słuchacz (mężczyzna): [Odpowiedź słuchacza może być różna, ale ogólnie brzmiałaby podobnie do oryginalnej angielskiej wersji.]"|Skończyłem wszystkie zadania w pracy dzisiaj, ale nadal jesteś mi winien to kawę, pamiętasz?
+kobieta|kobieta|I finished all my tasks at work today, but you still owe me that coffee, remember?|Skończyłam dziś wszystkie zadania w pracy, a ty wciąż jesteś mi winna tę kawę, pamiętasz?||Skończyłem wszystkie zadania w pracy dzisiaj, ale nadal jesteś mi winien tę kawę, pamiętasz?|Skończyłam wszystkie zadania w pracy dzisiaj, ale nadal jesteś mi winna to kawę, pamiętasz?|Skończyłam wszystkie zadania w pracy dzisiaj, ale nadal jesteś mi winna to kawę, pamiętasz?|"Mówca: Kobieta
+Słuchacz: Kobieta
+
+Angielski: ""I finished all my tasks at work today, but you still owe me that coffee, remember?""
+
+Polski: ""Wykończyłam wszystkie zadania w pracy dzisiaj, ale nadal jesteś mi winna tę kawę, pamiętasz?""
+
+To zdanie jest dosłownym tłumaczeniem i brzmi naturalnie w języku polskim. Warto zauważyć, że w języku polskim często używamy czasu przeszłego dokonanego (""wykończyłam"") dla wyrażenia czynności zakończonej, podczas gdy w angielskim użyto czasu przeszłego prostego (""finished""). Obie formy są poprawne i odpowiednie w tym kontekście."|Skończyłam wszystkie zadania w pracy dzisiaj, ale nadal jesteś mi winna to kawę, pamiętasz?
+mężczyzna|kobieta|I cleaned the whole garage today, can you believe it?|Posprzątałem dziś cały garaż, możesz w to uwierzyć?||Oczyściłem cały garaż dzisiaj, czy możesz w to uwierzyć?|Oczyściłem cały garaż dzisiaj, możesz uwierzyć?|Posprzątałem cały garaż dzisiaj, czy możesz uwierzyć?|"Mówca (mężczyzna): Cześć! Dziś cały garaż wysprzątałem. Uwierzysz?
+
+Słuchaczka (kobieta): Wow! To naprawdę imponujące! Gratulacje! Jak udało Ci się to zrobić tak szybko?
+
+Mówca: Dzięki! Wiesz, po prostu zebrałem się w sobie i zacząłem od najgorszych rzeczy. Najpierw wyniosłem stare graty na śmieci, potem umyłem podłogę i półki. Na koniec posprzątałem narzędzia i poukładałem je na swoich miejscach.
+
+Słuchaczka: Brzmi jak sporo pracy! Ale efekt musi być niesamowity. Co skłoniło Cię do tego?
+
+Mówca: Szczerze mówiąc, chciałem zrobić trochę porządków przed nadchodzącą wiosną. A poza tym, mój syn ostatnio wspominał, że przydałoby się uporządkować garaż. Pomyślałem, że to dobra okazja, żeby się za to zabrać.
+
+Słuchaczka: To bardzo odpowiedzialne podejście. Jestem pewna, że wasz garaż teraz wygląda świetnie. Może moglibyśmy go kiedyś obejrzeć?
+
+Mówca: Oczywiście! Zapraszam cię na małe zwiedzanie. Myślę, że będziesz pod wrażeniem. A może nawet zainspirujesz się i też zrobisz porządki w swoim garażu?
+
+Słuchaczka: Haha, może kiedyś... Ale na razie cieszę się, że ty już to zrobiłeś. Masz moją wdzięczność i podziw!"|Oczyściłem cały garaż dzisiaj, czy możesz w to uwierzyć?
+kobieta|mężczyzna|I cleaned the whole garage today, can you believe it?|Posprzątałam dziś cały garaż, możesz w to uwierzyć?||Oczyściłem cały garaż dzisiaj, czy możesz w to uwierzyć?|Oczyściłam cały garaż dzisiaj, czy możesz uwierzyć?|Posprzątałam cały garaż dzisiaj, czy możesz uwierzyć?|"Mówca (kobieta): Tak, właśnie posprzątałam cały garaż dzisiaj. Nie do wiary, prawda?
+
+Słuchacz (mężczyzna): Wow! To naprawdę imponujące! Czy mogę zapytać, co dokładnie zrobiłaś?
+
+Mówca: Och, zrobiłam generalne porządki. Wyrzuciłam stare graty, które już nie były potrzebne, umyłam ściany i podłogę, a także uporządkowałam narzędzia i inne rzeczy, które tam przechowujemy. Było tego sporo pracy, ale teraz jest tak czysto i schludnie!
+
+Słuchacz: Brzmi jak ogromny wysiłek. Czy to zajęło ci dużo czasu?
+
+Mówca: Tak, zajęło mi to większość dnia. Zaczęłam rano i skończyłam dopiero wieczorem. Ale muszę przyznać, że czuję się bardzo zadowolona z efektu końcowego. To naprawdę odświeżyło nasz garaż!
+
+Słuchacz: To naprawdę godne podziwu! Czy potrzebujesz pomocy przy czymkolwiek jeszcze? Może chciałabyś, żebym ci pomógł przesunąć jakieś ciężkie przedmioty?
+
+Mówca: Dziękuję za propozycję, ale myślę, że na razie sobie poradzę. Jestem trochę zmęczona, ale też bardzo zadowolona z siebie. Może jutro poproszę cię o pomoc przy układaniu nowych rzeczy na półkach.
+
+Słuchacz: Świetnie, będę gotowy ci pomóc. A tymczasem, może chcesz, żebym zrobił ci herbatę albo coś do jedzenia? Wyglądasz, jakbyś potrzebowała odpoczynku po takim wysiłku.
+
+Mówca: Och, to byłoby wspaniałe! Dziękuję bardzo. Herbata byłaby idealna. Naprawdę doceniam twoją pomoc i wsparcie."|Oczyściłam cały garaż dzisiaj, czy możesz w to uwierzyć?
+mężczyzna|mężczyzna|I cleaned the whole garage today, can you believe it?|Posprzątałem dziś cały garaż, możesz w to uwierzyć?||Oczyściłem cały garaż dzisiaj, czy możesz w to uwierzyć?|Oczyściłem cały garaż dzisiaj, możesz uwierzyć?|Posprzątałem cały garaż dzisiaj, czy możesz uwierzyć?|"Mówca: Mężczyzna
+Słuchacz: Mężczyzna
+Angielski: ""I cleaned the whole garage today, can you believe it?""
+Polski:
+
+""Oczyściłem cały garaż dzisiaj, czy możesz w to uwierzyć?""
+
+Warto zauważyć, że tłumaczenie to jest dosłowne i zachowuje strukturę oryginalnego zdania. W języku polskim często używamy podobnych wyrażeń, aby wyrazić zdziwienie lub niedowierzanie co do czegoś, co ktoś zrobił."|Oczyściłem cały garaż dzisiaj, czy możesz w to uwierzyć?
+kobieta|kobieta|I cleaned the whole garage today, can you believe it?|Posprzątałam dziś cały garaż, możesz w to uwierzyć?||Oczyściłem cały garaż dzisiaj, czy możesz w to uwierzyć?|Oczyściłam cały garaż dzisiaj, czy możesz uwierzyć?|Posprzątałam cały garaż dzisiaj, czy możesz uwierzyć?|"Mówca: Kobieta
+Słuchacz: Kobieta
+Angielski: ""I cleaned the whole garage today, can you believe it?""
+Polski:
+
+""Posprzątałam cały garaż dzisiaj, nie do wiary!""
+
+---
+
+Warto zauważyć, że tłumaczenie to jest dosłowne i może brzmieć bardziej naturalnie po dodaniu kilku słów kontekstowych lub zmianie struktury zdania. Na przykład:
+
+""Naprawdę posprzątałam cały garaż dzisiaj! Nie do wiary, prawda?""
+
+lub
+
+""Nie mogę uwierzyć, ale naprawdę udało mi się posprzątać cały garaż dzisiaj.""
+
+Obie te wersje są bardziej naturalne w języku polskim i lepiej oddają ton oraz intencję oryginalnego zdania w języku angielskim."|Oczyściłam cały garaż dzisiaj, czy możesz w to uwierzyć?
+mężczyzna|kobieta|I spent the whole day fixing your laptop, and you didn't even say thank you!|"Spędziłem cały dzień naprawiając twój laptop, a ty nawet nie powiedziałaś ""dziękuję""!"||"Poświęciłem cały dzień na naprawę twojego laptopa, a nawet nie powiedziałeś ""dziękuję""!"|Poświęciłem cały dzień na naprawianie twojego laptopa, a nawet mi nie podziękowałaś!|Poświęciłem cały dzień na naprawianie twojego laptopa, a nawet mi nie podziękowałaś!|"Mówca (mężczyzna): Spędziłem cały dzień naprawiając twój laptop, a ty nawet nie powiedziałaś ""dziękuję""!
+
+Słuchaczka (kobieta): Ojej, przepraszam! Byłam tak zajęta i zestresowana, że po prostu wyleciało mi to z głowy. Dziękuję ci bardzo za pomoc! Doceniam twoje starania i jestem naprawdę wdzięczna."|"Poświęciłem cały dzień na naprawę twojego laptopa, a nawet nie powiedziałeś ""dziękuję""!"
+kobieta|mężczyzna|I spent the whole day fixing your laptop, and you didn't even say thank you!|"Spędziłam cały dzień naprawiając twój laptop, a ty nawet nie powiedziałeś ""dziękuję""!"||"Poświęciłem cały dzień na naprawę twojego laptopa, a nawet nie powiedziałeś ""dziękuję""!"|Poświęciłam cały dzień na naprawianie twojego laptopa, a nawet mi nie podziękowałeś!|Poświęciłam cały dzień na naprawianie twojego laptopa, a nawet mi nie podziękowałeś!|"Mówca (kobieta): Spędziłam cały dzień naprawiając twój laptop, a ty nawet nie powiedziałeś ""dziękuję""!
+
+Słuchacz (mężczyzna): Ojej, przepraszam. Nie zdawałem sobie sprawy, że to zajęło ci tyle czasu. Dziękuję bardzo za twoją pomoc!
+
+Mówca (kobieta): No cóż, myślałam, że docenisz moje wysiłki. Ale skoro już o tym wspomniałeś, to chciałabym, żebyś wiedział, jak trudne było to zadanie i ile pracy włożyłam w naprawę tego laptopa.
+
+Słuchacz (mężczyzna): Rozumiem, masz rację. Naprawdę jestem wdzięczny za twoją pomoc. Czy mogę jakoś się odwdzięczyć? Może zaproszę cię na kolację albo coś w tym stylu?
+
+Mówca (kobieta): To miłe z twojej strony, ale nie musisz robić nic specjalnego. Po prostu chciałam, żebyś wiedział, jak wiele dla mnie znaczy uznanie za moją pracę. Doceniam twoje słowa teraz i mam nadzieję, że następnym razem będziesz bardziej świadomy moich wysiłków.
+
+Słuchacz (mężczyzna): Zrozumiałem. Będę pamiętał o tym w przyszłości. Jeszcze raz dziękuję za naprawienie mojego laptopa. Twoja pomoc była nieoceniona."|Poświęciłam cały dzień na naprawę twojego laptopa, a nawet mi nie podziękowałeś!
+mężczyzna|mężczyzna|I spent the whole day fixing your laptop, and you didn't even say thank you!|"Spędziłem cały dzień naprawiając twój laptop, a ty nawet nie powiedziałeś ""dziękuję""!"||"Poświęciłem cały dzień na naprawę twojego laptopa, a nawet nie powiedziałeś ""dziękuję""!"|Poświęciłem cały dzień na naprawianie twojego laptopa, a nawet mi nie podziękowałeś!|Poświęciłem cały dzień na naprawianie twojego laptopa, a nawet mi nie podziękowałeś!|"Mówca: Mężczyzna
+Słuchacz: Mężczyzna
+
+Tłumaczenie na polski:
+
+Mówca (mężczyzna): Spędziłem cały dzień naprawiając twój laptop, a ty nawet nie powiedziałeś ""dziękuję""!
+
+Słuchacz (mężczyzna): [Brak odpowiedzi w zadaniu]
+
+Warto zauważyć, że tłumaczenie to jest dosłowne i może być użyte w różnych kontekstach komunikacyjnych między dwoma mężczyznami."|"Poświęciłem cały dzień na naprawianie twojego laptopa, a nawet nie powiedziałeś ""dziękuję""!"
+kobieta|kobieta|I spent the whole day fixing your laptop, and you didn't even say thank you!|"Spędziłam cały dzień naprawiając twój laptop, a ty nawet nie powiedziałaś ""dziękuję""!"||"Poświęciłem cały dzień na naprawę twojego laptopa, a nawet nie powiedziałeś ""dziękuję""!"|Poświęciłam cały dzień na naprawianie twojego laptopa, a nawet mi nie podziękowałaś!|Poświęciłam cały dzień na naprawianie twojego laptopa, a nawet mi nie podziękowałaś!|"Mówca (kobieta): Spędziłam cały dzień naprawiając twój laptop, a ty nawet nie powiedziałaś ""dziękuję""!
+
+Słuchacz (kobieta): Ojej, przepraszam bardzo! Nie zdawałam sobie sprawy, że to zajmie tyle czasu. Dziękuję ci ogromnie za twoją pomoc i wysiłek. Doceniam to bardzo.
+
+Mówca: To nic takiego, ale byłoby miło usłyszeć choćby słowo podziękowania. Cieszę się, że udało mi się rozwiązać problem z twoim komputerem. Jeśli będziesz potrzebować jeszcze jakiejkolwiek pomocy technicznej, śmiało daj znać."|Poświęciłam cały dzień na naprawianie twojego laptopa, a nawet mi nie podziękowałaś!
+mężczyzna|kobieta|I stayed up all night helping you with your project, and now you don't even remember it?|Siedziałem całą noc pomagając ci z projektem, a teraz nawet tego nie pamiętasz?||Nie spałem całą noc, pomagając ci przy projekcie, a teraz nawet tego nie pamiętasz?|Całą noc pomagałem ci przy twoim projekcie, a teraz nawet tego nie pamiętasz?|Całą noc pomagałem ci przy twoim projekcie, a teraz nawet tego nie pamiętasz?|"Mówca: Mężczyzna
+Słuchacz: Kobieta
+
+Tekst w języku polskim:
+""Pomagałem ci całą noc przy tym projekcie, a teraz nawet tego nie pamiętasz?"""|Pozostałem/am całą noc, pomagając ci przy twoim projekcie, a teraz nawet tego nie pamiętasz?
+kobieta|mężczyzna|I stayed up all night helping you with your project, and now you don't even remember it?|Siedziałam całą noc pomagając ci z projektem, a teraz nawet tego nie pamiętasz?||Nie spałem całą noc, pomagając ci przy projekcie, a teraz nawet tego nie pamiętasz?|Całą noc pomagałam ci przy twoim projekcie, a teraz nawet tego nie pamiętasz?|Całą noc pomagałam ci przy twoim projekcie, a teraz nawet tego nie pamiętasz?|"Mówca (kobieta): ""Pomagałam ci całą noc przy tym projekcie, a teraz nawet tego nie pamiętasz?""
+
+Słuchacz (mężczyzna): ""Och, przepraszam! Naprawdę doceniam twoją pomoc. Po prostu byłem tak zajęty i zestresowany, że czasami trudno mi wszystko spamiętać.""
+
+Mówca (kobieta): ""Rozumiem, ale to było naprawdę ważne dla ciebie. Czy możemy porozmawiać o tym, jak mogę lepiej się komunikować, abyś mógł zapamiętać te rzeczy?""
+
+Słuchacz (mężczyzna): ""Tak, to dobry pomysł. Może moglibyśmy ustalić regularne spotkania, żebym miał szansę przypomnieć sobie kluczowe informacje?""
+
+Mówca (kobieta): ""Dobrze, to brzmi rozsądnie. Co powiesz na cotygodniowe krótkie podsumowania naszej pracy?""
+
+Słuchacz (mężczyzna): ""To świetny pomysł. Dziękuję za twoją wyrozumiałość i wsparcie.""
+
+Mówca (kobieta): ""Nie ma sprawy. Jesteśmy zespołem i chcę, żebyś odniósł sukces. Razem damy radę!"""|Pozostałam całą noc, pomagając ci przy projekcie, a teraz nawet tego nie pamiętasz?
+mężczyzna|mężczyzna|I stayed up all night helping you with your project, and now you don't even remember it?|Siedziałem całą noc pomagając ci z projektem, a teraz nawet tego nie pamiętasz?||Nie spałem całą noc, pomagając ci przy projekcie, a teraz nawet tego nie pamiętasz?|Całą noc pomagałem ci przy twoim projekcie, a teraz nawet tego nie pamiętasz?|Całą noc pomagałem ci przy twoim projekcie, a teraz nawet tego nie pamiętasz?|"Mówca: Mężczyzna
+Słuchacz: Mężczyzna
+Angielski: ""I stayed up all night helping you with your project, and now you don't even remember it?""
+Polski:
+
+""Pomagałem ci całą noc przy tym projekcie, a teraz nawet tego nie pamiętasz?""
+
+To zdanie w języku polskim oddaje sens oryginalnego zdania w języku angielskim. Zwróć uwagę na to, że w języku polskim czasownik ""pomagać"" jest użyty w pierwszej osobie liczby pojedynczej (ja pomagałem), co odpowiada pierwszej osobie liczby pojedynczej w języku angielskim (I stayed up). Dodatkowo, słowo ""projekt"" zostało użyte zgodnie z kontekstem i znaczeniem w obu językach."|Całą noc pomagałem ci przy twoim projekcie, a teraz nawet tego nie pamiętasz?
+kobieta|kobieta|I stayed up all night helping you with your project, and now you don't even remember it?|Siedziałam całą noc pomagając ci z projektem, a teraz nawet tego nie pamiętasz?||Nie spałem całą noc, pomagając ci przy projekcie, a teraz nawet tego nie pamiętasz?|Całą noc pomagałam ci przy twoim projekcie, a teraz nawet tego nie pamiętasz?|Całą noc pomagałam ci przy twoim projekcie, a teraz nawet tego nie pamiętasz?|"Mówca: kobieta
+Słuchacz: kobieta
+Angielski: I stayed up all night helping you with your project, and now you don't even remember it?
+Polski:
+
+""Poświęciłam całą noc, pomagając ci przy projekcie, a teraz nawet tego nie pamiętasz?""
+
+To zdanie w języku polskim oddaje sens oryginalnego zdania w języku angielskim. Zwróć uwagę na to, że w języku polskim używamy czasu przeszłego ""poświęciłam"" i ""pomagając"", aby wyrazić czynności, które miały miejsce w przeszłości. Dodatkowo, słowo ""teraz"" jest użyte do podkreślenia kontrastu między poświęconym czasem a obecną sytuacją."|Zostałam całą noc, pomagając ci przy projekcie, a teraz nawet tego nie pamiętasz?
+mężczyzna|kobieta|I picked up your parcel from the post office, did you forget to thank me again?|Odebrałem twoją paczkę z poczty, znowu zapomniałaś mi podziękować?||Odebrałem twoją przesyłkę z poczty, czy znów zapomniałeś mi podziękować?|Odebrałem twoją paczkę z poczty, czy znów zapomniałaś mi podziękować?|Odebrałem twoją paczkę z poczty, czy znów zapomniałaś mi podziękować?|"Mówca (mężczyzna):
+""Dzień dobry. Przywiozłem pani paczkę z poczty.""
+
+Słuchaczka (kobieta):
+""Ach, dziękuję bardzo! Czy mogę prosić o przekazanie mi tej paczki?""
+
+Mówca:
+""Oczywiście, już ją podaję.""
+
+Słuchaczka:
+""Przepraszam, ale czy mógłby Pan powtórzyć swoje nazwisko? Chciałabym wiedzieć, komu mam podziękować.""
+
+Mówca:
+""Nazywam się Jan Kowalski. Miło mi było pomóc.""
+
+Słuchaczka:
+""Dziękuję bardzo, panie Janie. Jestem naprawdę wdzięczna za Pana pomoc. Czy mogę jakoś się odwdzięczyć?""
+
+Mówca:
+""Nie ma takiej potrzeby. To była dla mnie przyjemność. Ale jeśli chce się Pani odwdzięczyć, to może zaprosić mnie na filiżankę kawy?""
+
+Słuchaczka:
+""Z przyjemnością! Zapraszam Pana na kawę. To będzie dla mnie zaszczyt.""
+
+Mówca:
+""Dziękuję bardzo. Będę zachwycony!""
+
+(Tłumaczenie na angielski)
+Mówca: ""Good morning. I brought your package from the post office.""
+Słuchaczka: ""Oh, thank you very much! Could you please hand it to me?""
+Mówca: ""Of course, here it is.""
+Słuchaczka: ""Could you repeat your last name, please? I'd like to know whom to thank.""
+Mówca: ""My name is John Smith. It was a pleasure helping you.""
+Słuchaczka: ""Thank you so much, Mr. Smith. I am really grateful for your help. Is there anything I can do in return?""
+Mówca: ""There's no need to. It was a pleasure. But if you want to repay me, maybe you could invite me for a cup of coffee?""
+Słuchaczka: ""I'd be delighted! I'd be honored to have you over for coffee.""
+Mówca: ""Thank you very much. I'll be delighted!"""|Podniosłem twoją paczkę z poczty, czy znów zapomniałaś mi podziękować?
+kobieta|mężczyzna|I picked up your parcel from the post office, did you forget to thank me again?|Odebrałam twoją paczkę z poczty, znowu zapomniałeś mi podziękować?||Odebrałem twoją przesyłkę z poczty, czy znów zapomniałeś mi podziękować?|Odebrałam twoją paczkę z poczty, czy znów zapomniałeś mi podziękować?|Podniosłam twoją paczkę z poczty, czy znów zapomniałeś mi podziękować?|"Mówca (kobieta): Odebrałam twoją paczkę z poczty, czy znów zapomniałeś mi podziękować?
+
+Słuchacz (mężczyzna): Och, przepraszam! Dziękuję bardzo za odbiór mojej paczki. Nie chciałem być niewdzięczny.
+
+Mówca (kobieta): Nie ma sprawy, po prostu następnym razem pamiętaj, żeby mi podziękować od razu. Miło byłoby usłyszeć ""dziękuję"" wcześniej niż po fakcie.
+
+Słuchacz (mężczyzna): Masz rację, postaram się być bardziej uważny w przyszłości. Jeszcze raz dziękuję za pomoc."|Odebrałam twoją paczkę z poczty, czy znów zapomniałaś mi podziękować?
+mężczyzna|mężczyzna|I picked up your parcel from the post office, did you forget to thank me again?|Odebrałem twoją paczkę z poczty, znowu zapomniałeś mi podziękować?||Odebrałem twoją przesyłkę z poczty, czy znów zapomniałeś mi podziękować?|Odebrałem twoją paczkę z poczty, czy znów zapomniałeś mi podziękować?|Odebrałem twoją paczkę z poczty, czy znów zapomniałeś mi podziękować?|"Mówca:
+""I picked up your parcel from the post office, did you forget to thank me again?""
+
+Tłumaczenie na polski:
+""Odebrałem twoją paczkę z poczty, czy znów zapomniałeś mi podziękować?""
+
+Wyjaśnienie krok po kroku:
+1. ""I picked up your parcel from the post office"" - Odebrałem twoją paczkę z poczty
+2. ""did you forget to thank me again"" - czy znów zapomniałeś mi podziękować
+3. Połączenie tych dwóch części daje pełne zdanie w języku polskim."|Odebrałem twoją paczkę z poczty, czy znów zapomniałeś mi podziękować?
+kobieta|kobieta|I picked up your parcel from the post office, did you forget to thank me again?|Odebrałam twoją paczkę z poczty, znowu zapomniałaś mi podziękować?||Odebrałem twoją przesyłkę z poczty, czy znów zapomniałeś mi podziękować?|Podniosłam twoją paczkę z poczty, czy znów zapomniałaś mi podziękować?|Podniosłam twoją paczkę z poczty; czy zapomniałaś znów mi podziękować?|"Mówca (kobieta): Odebrałam twoją paczkę z poczty, czy znów zapomniałaś mi podziękować?
+
+Słuchacz (kobieta): Ojej, przepraszam! Dziękuję bardzo za odbiór mojej paczki. Nie chciałam być niewdzięczna.
+
+Mówca: Nic się nie stało, po prostu czasem warto pamiętać o małych gestach. Cieszę się, że mogłam pomóc!"|Podniosłam twoją paczkę z poczty, czy zapomniałaś znów mi podziękować?
+mężczyzna|kobieta|"I waited for you for almost an hour in the rain, and you just texted ""sorry""?"|Czekałem na ciebie prawie godzinę w deszczu, a ty tylko napisałaś „sorry”?||"Czekałem na ciebie prawie godzinę w deszczu, a ty teraz po prostu wysyłasz ""przepraszam""?"|"Czekałem na ciebie prawie godzinę w deszczu, a ty po prostu napisałaś ""przepraszam""?"|"Czekałem na ciebie prawie godzinę w deszczu, a ty po prostu napisałaś ""przepraszam""?"|"Mówca (mężczyzna): Czekałem na ciebie prawie godzinę w deszczu i teraz po prostu dostałem SMS-a ""przepraszam""?
+
+Słuchaczka (kobieta): Och, przepraszam! Naprawdę mi przykro. Coś mi wypadło i nie mogłam się z tobą skontaktować. Czy możemy porozmawiać o tym?
+
+Mówca: Tak, myślę, że powinniśmy. Byłem naprawdę zmoknięty i zmarznięty, czekając tam. To było bardzo frustrujące.
+
+Słuchaczka: Rozumiem. Przepraszam za to. Mogę ci jakoś wynagrodzić ten czas? Może chciałbyś, żebym zaprosiła cię na gorącą herbatę albo coś do jedzenia?
+
+Mówca: To byłoby miłe. Ale najważniejsze jest dla mnie to, żebyśmy mogli szczerze porozmawiać o tym, co się stało. Dlaczego nie mogłaś się ze mną skontaktować?
+
+Słuchaczka: Dobrze, rozumiem. Miałam problem z telefonem - bateria się wyczerpała i nie mogłam go naładować. Próbowałam znaleźć jakieś miejsce, gdzie mogłabym to zrobić, ale niestety nie udało mi się.
+
+Mówca: Rozumiem, to brzmi logicznie. Ale dlaczego nie spróbowałaś zadzwonić z innego telefonu lub wysłać wiadomości przez internet?
+
+Słuchaczka: Masz rację, powinnam była to zrobić. Przepraszam, że tego nie zrobiłam. Po prostu spanikowałam i nie wiedziałam, co robić.
+
+Mówca: W porządku, rozumiem, że to musiało być stresujące. Ale następnym razem, jeśli coś takiego się wydarzy, proszę, postaraj się znaleźć sposób, aby mnie poinformować. To oszczędzi nam obojgu niepotrzebnego stresu i frustracji.
+
+Słuchaczka: Zgadzam się. Obiecuję, że następnym razem postaram się lepiej zareagować. Jeszcze raz przepraszam za to, co się stało.
+
+Mówca: Doceniam twoje przeprosiny i gotowość do poprawy. Chodźmy teraz na tę herbatę, a potem możemy kontynuować naszą rozmowę."|"Czekałem na ciebie prawie godzinę w deszczu, a ty po prostu napisałaś ""przepraszam""?"
+kobieta|mężczyzna|"I waited for you for almost an hour in the rain, and you just texted ""sorry""?"|Czekałam na ciebie prawie godzinę w deszczu, a ty tylko napisałeś „sorry”?||"Czekałem na ciebie prawie godzinę w deszczu, a ty teraz po prostu wysyłasz ""przepraszam""?"|"Czekałam na ciebie prawie godzinę w deszczu, a ty po prostu napisałeś ""przepraszam""?"|"Czekałam na ciebie prawie godzinę w deszczu, a ty po prostu napisałeś ""przepraszam""?"|"Mówca (kobieta): Czekałam na ciebie prawie godzinę w deszczu, a ty po prostu napisałeś ""przepraszam""?
+
+Słuchacz (mężczyzna): [milczenie lub wyjaśnienie]
+
+To tłumaczenie oddaje emocjonalny ton oryginalnego zdania w języku angielskim, wyrażając frustrację i rozczarowanie mówcy."|"Czekałam na ciebie prawie godzinę w deszczu, a ty po prostu napisałeś ""przepraszam""?"
+mężczyzna|mężczyzna|"I waited for you for almost an hour in the rain, and you just texted ""sorry""?"|Czekałem na ciebie prawie godzinę w deszczu, a ty tylko napisałeś „sorry”?||"Czekałem na ciebie prawie godzinę w deszczu, a ty teraz po prostu wysyłasz ""przepraszam""?"|"Czekałem na ciebie prawie godzinę w deszczu, a teraz po prostu wysyłasz ""przepraszam""?"|"Czekałem na ciebie prawie godzinę w deszczu, a ty po prostu napisałeś ""przepraszam""?"|"Mówca (mężczyzna): Czekałem na ciebie prawie godzinę w deszczu, a ty po prostu napisałeś ""przepraszam""?
+
+Słuchacz (mężczyzna): Och, stary, przepraszam. Naprawdę mi przykro. Coś mi wypadło i nie mogłem się z tym uporać.
+
+Mówca: Rozumiem, że czasami tak bywa, ale to była naprawdę ważna sprawa dla mnie. Mogłeś chociaż dać mi znać wcześniej.
+
+Słuchacz: Masz rację. Powinienem był to zrobić. Przykro mi, że musiałeś tak długo czekać. Obiecuję, że następnym razem będę lepiej komunikował się w takich sytuacjach.
+
+Mówca: Dzięki za te słowa. Doceniam twoją szczerość. Po prostu starajmy się unikać takich sytuacji w przyszłości, dobrze?
+
+Słuchacz: Zgoda. Będę o tym pamiętał i postaram się być bardziej odpowiedzialny. Jeszcze raz przepraszam."|"Czekałem na ciebie prawie godzinę w deszczu, a ty po prostu napisałeś ""przepraszam""?"
+kobieta|kobieta|"I waited for you for almost an hour in the rain, and you just texted ""sorry""?"|Czekałam na ciebie prawie godzinę w deszczu, a ty tylko napisałaś „sorry”?||"Czekałem na ciebie prawie godzinę w deszczu, a ty teraz po prostu wysyłasz ""przepraszam""?"|"Czekałam na ciebie prawie godzinę w deszczu, a ty po prostu napisałaś ""przepraszam""?"|"Czekałam na ciebie prawie godzinę w deszczu, a ty po prostu napisałaś ""przepraszam""?"|"Mówca (kobieta): Czekałam na ciebie prawie godzinę w deszczu, a ty po prostu napisałaś ""przepraszam""?
+
+Słuchacz (kobieta): Ojej, przepraszam! Nie zdawałam sobie sprawy, że czekasz tak długo. Coś mi wypadło i nie mogłam się z tobą skontaktować.
+
+Mówca: Rozumiem, ale to było bardzo frustrujące. Byłam mokra i zmarznięta, a ty nawet nie dałaś mi znać, że się spóźnisz.
+
+Słuchacz: Przykro mi. Naprawdę doceniam, że na mnie czekałaś. Postaram się lepiej komunikować w przyszłości.
+
+Mówca: Dziękuję. Po prostu chciałabym, żebyśmy mogły polegać na sobie nawzajem.
+
+Słuchacz: Zgadzam się. Spróbuję poprawić swoje umiejętności organizacyjne i komunikacyjne.
+
+Mówca: To dobrze. Doceniam twoje starania. Może następnym razem ustalimy plan awaryjny?
+
+Słuchacz: Dobry pomysł. Chcę, żeby nasza przyjaźń była silna i oparta na wzajemnym szacunku.
+
+Mówca: Ja też tego chcę. Dziękuję za tę rozmowę.
+
+Słuchacz: Dziękuję, że wyraziłaś swoje uczucia. Będę pracować nad tym, aby unikać podobnych sytuacji w przyszłości."|"Czekałam na ciebie prawie godzinę w deszczu, a ty po prostu napisałaś ""przepraszam""?"
+mężczyzna|kobieta|I thought we agreed to clean the house together today, so why am I doing everything alone?|Myślałem, że umówiliśmy się na wspólne sprzątanie, więc czemu wszystko robię sam?||Myślałem, że umówiliśmy się na sprzątanie domu razem dzisiaj, więc dlaczego robię wszystko sam?|Myślałem, że umówiliśmy się na sprzątanie domu razem dzisiaj, więc dlaczego robię wszystko sam?|Myślałem, że umówiliśmy się na sprzątanie domu razem dzisiaj, więc dlaczego robię wszystko sam?|"Mówca (mężczyzna): Myślałem, że umówiliśmy się na sprzątanie domu razem dzisiaj, więc dlaczego robię wszystko sam?
+
+Słuchaczka (kobieta): [W odpowiedzi na pytanie]
+
+Tłumaczenie na angielski:
+Mówca: I thought we agreed to clean the house together today, so why am I doing everything alone?
+Słuchaczka: [In response to the question]"|Myślałam, że umówiliśmy się na sprzątanie domu razem dzisiaj, więc dlaczego robię wszystko sama?
+kobieta|mężczyzna|I thought we agreed to clean the house together today, so why am I doing everything alone?|Myślałam, że umówiliśmy się na wspólne sprzątanie, więc czemu wszystko robię sama?||Myślałem, że umówiliśmy się na sprzątanie domu razem dzisiaj, więc dlaczego robię wszystko sam?|Myślałam, że umówiliśmy się na sprzątanie domu razem dzisiaj, więc dlaczego robię wszystko sama?|Myślałam, że umówiliśmy się na sprzątanie domu razem dzisiaj, więc dlaczego robię wszystko sama?|"Mówca (kobieta): Myślałam, że umówiliśmy się na sprzątanie domu razem dzisiaj, więc dlaczego robię wszystko sama?
+
+Słuchacz (mężczyzna): Przepraszam, musiałem zapomnieć. Czy moglibyśmy przełożyć to na jutro?
+
+Mówca (kobieta): Rozumiem, ale myślę, że lepiej będzie, jeśli zrobimy to teraz. Sprzątanie nie zajmie nam dużo czasu, a przynajmniej będziemy mieć to z głowy.
+
+Słuchacz (mężczyzna): Masz rację. Przepraszam za moje niedopatrzenie. Pomogę ci teraz i skończymy jak najszybciej."|Myślałam, że umówiliśmy się na sprzątanie domu razem dzisiaj, więc dlaczego robię wszystko sama?
+mężczyzna|mężczyzna|I thought we agreed to clean the house together today, so why am I doing everything alone?|Myślałem, że umówiliśmy się na wspólne sprzątanie, więc czemu wszystko robię sam?||Myślałem, że umówiliśmy się na sprzątanie domu razem dzisiaj, więc dlaczego robię wszystko sam?|Myślałem, że umówiliśmy się na sprzątanie domu razem dzisiaj, więc dlaczego robię wszystko sam?|Myślałem, że umówiliśmy się na sprzątanie domu razem dzisiaj, więc dlaczego robię wszystko sam?|"Mówca: Myślałem, że umówiliśmy się na sprzątanie domu razem dzisiaj, więc dlaczego robię wszystko sam?
+
+Słuchacz: (mężczyzna) Och, przepraszam. Zapomniałem o naszej umowie. Czy mogę ci teraz pomóc?
+
+Mówca: Tak, byłoby świetnie. Naprawdę potrzebuję twojej pomocy. Dziękuję."|Myślałem, że umówiliśmy się na sprzątanie domu razem dzisiaj, więc dlaczego robię wszystko sam?
+kobieta|kobieta|I thought we agreed to clean the house together today, so why am I doing everything alone?|Myślałam, że umówiliśmy się na wspólne sprzątanie, więc czemu wszystko robię sama?||Myślałem, że umówiliśmy się na sprzątanie domu razem dzisiaj, więc dlaczego robię wszystko sam?|Myślałam, że umówiłyśmy się na sprzątanie domu razem dzisiaj, więc dlaczego robię wszystko sama?|Myślałam, że umówiłyśmy się na sprzątanie domu razem dzisiaj, więc dlaczego robię wszystko sama?|"Mówca: Kobieta
+Słuchacz: Kobieta
+Angielski: ""I thought we agreed to clean the house together today, so why am I doing everything alone?""
+Polski:
+
+""Myślałam, że umówiliśmy się na sprzątanie domu razem dzisiaj, więc dlaczego robię wszystko sama?"""|Myślałam, że umówiłyśmy się na sprzątanie domu razem dzisiaj, więc dlaczego robię wszystko sama?

@@ -1,0 +1,99 @@
+Mówca: mężczyzna
+Słuchacz: kobieta
+Angielski: I was standing in line for an hour to get those concert tickets, and you just stayed at home, didn't you?
+Polski: Stałem godzinę w kolejce po te bilety na koncert, a ty sobie siedziałaś w domu, co nie?
+
+Mówca: kobieta
+Słuchacz: mężczyzna
+Angielski: I was standing in line for an hour to get those concert tickets, and you just stayed at home, didn't you?
+Polski: Stałam godzinę w kolejce po te bilety na koncert, a ty sobie siedziałeś w domu, co nie?
+
+Mówca: mężczyzna
+Słuchacz: mężczyzna
+Angielski: I was standing in line for an hour to get those concert tickets, and you just stayed at home, didn't you?
+Polski: Stałem godzinę w kolejce po te bilety na koncert, a ty sobie siedziałeś w domu, co nie?
+
+Mówca: kobieta
+Słuchacz: kobieta
+Angielski: I was standing in line for an hour to get those concert tickets, and you just stayed at home, didn't you?
+Polski: Stałam godzinę w kolejce po te bilety na koncert, a ty sobie siedziałaś w domu, co nie?
+
+Mówca: mężczyzna
+Słuchacz: kobieta
+Angielski: I spent hours waiting for you at the station, why didn't you answer your phone?
+Polski: Czekałem na ciebie godzinami na dworcu, czemu nie odbierałaś telefonu?
+
+Mówca: kobieta
+Słuchacz: mężczyzna
+Angielski: I spent hours waiting for you at the station, why didn't you answer your phone?
+Polski: Czekałam na ciebie godzinami na dworcu, czemu nie odbierałeś telefonu?
+
+Mówca: mężczyzna
+Słuchacz: mężczyzna
+Angielski: I spent hours waiting for you at the station, why didn't you answer your phone?
+Polski: Czekałem na ciebie godzinami na dworcu, czemu nie odbierałeś telefonu?
+
+Mówca: kobieta
+Słuchacz: kobieta
+Angielski: I spent hours waiting for you at the station, why didn't you answer your phone?
+Polski: Czekałam na ciebie godzinami na dworcu, czemu nie odbierałaś telefonu?
+
+Mówca: mężczyzna
+Słuchacz: kobieta
+Angielski: I spent the whole afternoon fixing the car, while you were supposed to find a mechanic, did you manage to call anyone?
+Polski: Spędziłem całe popołudnie naprawiając samochód, a ty miałaś znaleźć mechanika, czy udało ci się do kogoś zadzwonić?
+
+Mówca: kobieta
+Słuchacz: mężczyzna
+Angielski: I spent the whole afternoon fixing the car, while you were supposed to find a mechanic, did you manage to call anyone?
+Polski: Spędziłam całe popołudnie naprawiając samochód, a ty miałeś znaleźć mechanika, czy udało ci się do kogoś zadzwonić?
+
+Mówca: mężczyzna
+Słuchacz: mężczyzna
+Angielski: I spent the whole afternoon fixing the car, while you were supposed to find a mechanic, did you manage to call anyone?
+Polski: Spędziłem całe popołudnie naprawiając samochód, a ty miałeś znaleźć mechanika, czy udało ci się do kogoś zadzwonić?
+
+Mówca: kobieta
+Słuchacz: kobieta
+Angielski: I spent the whole afternoon fixing the car, while you were supposed to find a mechanic, did you manage to call anyone?
+Polski: Spędziłam całe popołudnie naprawiając samochód, a ty miałaś znaleźć mechanika, czy udało ci się do kogoś zadzwonić?
+
+Mówca: kobieta
+Słuchacz: mężczyzna
+Angielski: You cheated on me, now I am sad
+Polski: Zdradziłeś mnie, teraz jestem smutna
+
+Mówca: mężczyzna
+Słuchacz: mężczyzna
+Angielski: You cheated on me, now I am sad
+Polski: Zdradziłeś mnie, teraz jestem smutny
+
+Mówca: mężczyzna
+Słuchacz: kobieta
+Angielski: You cheated on me, now I am sad
+Polski: Zdradziłaś mnie, teraz jestem smutny
+
+Mówca: kobieta
+Słuchacz: kobieta
+Angielski: You cheated on me, now I am sad
+Polski: Zdradziłaś mnie, teraz jestem smutna
+
+Mówca: mężczyzna
+Słuchacz: kobieta
+Angielski: I told you the truth, why did you lie to me?
+Polski: Powiedziałem ci prawdę, dlaczego mnie okłamałaś?
+
+Mówca: kobieta
+Słuchacz: mężczyzna
+Angielski: I told you the truth, why did you lie to me?
+Polski: Powiedziałam ci prawdę, dlaczego mnie okłamałeś?
+
+Mówca: mężczyzna
+Słuchacz: mężczyzna
+Angielski: I told you the truth, why did you lie to me?
+Polski: Powiedziałem ci prawdę, dlaczego mnie okłamałeś?
+
+Mówca: kobieta
+Słuchacz: kobieta
+Angielski: I told you the truth, why did you lie to me?
+Polski: Powiedziałam ci prawdę, dlaczego mnie okłamałaś?

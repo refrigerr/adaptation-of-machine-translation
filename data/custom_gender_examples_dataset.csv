@@ -1,0 +1,121 @@
+speaker_gender|listener_gender|en_text|pl_text
+mężczyzna|kobieta|I am the best artist, are you a good artist?|Jestem najlepszym artystą, czy ty jesteś dobrą artystką?
+kobieta|mężczyzna|I am the best artist, are you a good artist?|Jestem najlepszą artystką, czy ty jesteś dobrym artystą?
+mężczyzna|mężczyzna|I am the best artist, are you a good artist?|Jestem najlepszym artystą, czy ty jesteś dobrym artystą?
+kobieta|kobieta|I am the best artist, are you a good artist?|Jestem najlepszą artystką, czy ty jesteś dobrą artystką?
+mężczyzna|mężczyzna|I almost killed him, and what did you do?|Prawie go zabiłem, a ty co zrobiłeś?
+mężczyzna|kobieta|I almost killed him, and what did you do?|Prawie go zabiłem, a ty co zrobiłaś?
+kobieta|mężczyzna|I almost killed him, and what did you do?|Prawie go zabiłam, a ty co zrobiłeś?
+kobieta|kobieta|I almost killed him, and what did you do?|Prawie go zabiłam, a ty co zrobiłaś?
+kobieta|kobieta|I wanted to paint my walls but you didn't borrow me paint|Chciałam pomalować moje ściany ale nie pożyczyłaś mi farby
+kobieta|mężczyzna|I wanted to paint my walls but you didn't borrow me paint|Chciałam pomalować moje ściany ale nie pożyczyłeś mi farby
+mężczyzna|kobieta|I wanted to paint my walls but you didn't borrow me paint|Chciałem pomalować moje ściany ale nie pożyczyłaś mi farby
+mężczyzna|mężczyzna|I wanted to paint my walls but you didn't borrow me paint|Chciałem pomalować moje ściany ale nie pożyczyłeś mi farby
+mężczyzna|kobieta|I fixed the car, did you manage to fix your bike?|Naprawiłem samochód, czy udało ci się naprawić rower?
+kobieta|mężczyzna|I fixed the car, did you manage to fix your bike?|Naprawiłam samochód, czy udało ci się naprawić rower?
+mężczyzna|mężczyzna|I fixed the car, did you manage to fix your bike?|Naprawiłem samochód, czy udało ci się naprawić rower?
+kobieta|kobieta|I fixed the car, did you manage to fix your bike?|Naprawiłam samochód, czy udało ci się naprawić rower?
+mężczyzna|kobieta|I read the whole book, did you finish reading yours?|Przeczytałem całą książkę, czy skończyłaś swoją?
+kobieta|mężczyzna|I read the whole book, did you finish reading yours?|Przeczytałam całą książkę, czy skończyłeś swoją?
+mężczyzna|mężczyzna|I read the whole book, did you finish reading yours?|Przeczytałem całą książkę, czy skończyłeś swoją?
+kobieta|kobieta|I read the whole book, did you finish reading yours?|Przeczytałam całą książkę, czy skończyłaś swoją?
+mężczyzna|kobieta|I cooked dinner, did you bring the drinks?|Ugotowałem obiad, czy przyniosłaś napoje?
+kobieta|mężczyzna|I cooked dinner, did you bring the drinks?|Ugotowałam obiad, czy przyniosłeś napoje?
+mężczyzna|mężczyzna|I cooked dinner, did you bring the drinks?|Ugotowałem obiad, czy przyniosłeś napoje?
+kobieta|kobieta|I cooked dinner, did you bring the drinks?|Ugotowałam obiad, czy przyniosłaś napoje?
+mężczyzna|kobieta|I watched that movie last night, did you like it?|Obejrzałem ten film wczoraj wieczorem, spodobał ci się?
+kobieta|mężczyzna|I watched that movie last night, did you like it?|Obejrzałam ten film wczoraj wieczorem, spodobał ci się?
+mężczyzna|mężczyzna|I watched that movie last night, did you like it?|Obejrzałem ten film wczoraj wieczorem, spodobał ci się?
+kobieta|kobieta|I watched that movie last night, did you like it?|Obejrzałam ten film wczoraj wieczorem, spodobał ci się?
+mężczyzna|kobieta|I cleaned the kitchen, did you take out the trash?|Posprzątałem kuchnię, czy wyniosłaś śmieci?
+kobieta|mężczyzna|I cleaned the kitchen, did you take out the trash?|Posprzątałam kuchnię, czy wyniosłeś śmieci?
+mężczyzna|mężczyzna|I cleaned the kitchen, did you take out the trash?|Posprzątałem kuchnię, czy wyniosłeś śmieci?
+kobieta|kobieta|I cleaned the kitchen, did you take out the trash?|Posprzątałam kuchnię, czy wyniosłaś śmieci?
+mężczyzna|kobieta|I bought the tickets, did you remember to book the hotel?|Kupiłem bilety, czy pamiętałaś zarezerwować hotel?
+kobieta|mężczyzna|I bought the tickets, did you remember to book the hotel?|Kupiłam bilety, czy pamiętałeś zarezerwować hotel?
+mężczyzna|mężczyzna|I bought the tickets, did you remember to book the hotel?|Kupiłem bilety, czy pamiętałeś zarezerwować hotel?
+kobieta|kobieta|I bought the tickets, did you remember to book the hotel?|Kupiłam bilety, czy pamiętałaś zarezerwować hotel?
+mężczyzna|kobieta|I found the keys, did you find your wallet?|Znalazłem klucze, czy znalazłaś swój portfel?
+kobieta|mężczyzna|I found the keys, did you find your wallet?|Znalazłam klucze, czy znalazłeś swój portfel?
+mężczyzna|mężczyzna|I found the keys, did you find your wallet?|Znalazłem klucze, czy znalazłeś swój portfel?
+kobieta|kobieta|I found the keys, did you find your wallet?|Znalazłam klucze, czy znalazłaś swój portfel?
+mężczyzna|kobieta|I sent the email, did you call the client?|Wysłałem maila, czy zadzwoniłaś do klienta?
+kobieta|mężczyzna|I sent the email, did you call the client?|Wysłałam maila, czy zadzwoniłeś do klienta?
+mężczyzna|mężczyzna|I sent the email, did you call the client?|Wysłałem maila, czy zadzwoniłeś do klienta?
+kobieta|kobieta|I sent the email, did you call the client?|Wysłałam maila, czy zadzwoniłaś do klienta?
+mężczyzna|kobieta|I finished the report, did you complete the presentation?|Skończyłem raport, czy ukończyłaś prezentację?
+kobieta|mężczyzna|I finished the report, did you complete the presentation?|Skończyłam raport, czy ukończyłeś prezentację?
+mężczyzna|mężczyzna|I finished the report, did you complete the presentation?|Skończyłem raport, czy ukończyłeś prezentację?
+kobieta|kobieta|I finished the report, did you complete the presentation?|Skończyłam raport, czy ukończyłaś prezentację?
+mężczyzna|kobieta|I repaired the sink, did you fix the door?|Naprawiłem zlew, czy naprawiłaś drzwi?
+kobieta|mężczyzna|I repaired the sink, did you fix the door?|Naprawiłam zlew, czy naprawiłeś drzwi?
+mężczyzna|mężczyzna|I repaired the sink, did you fix the door?|Naprawiłem zlew, czy naprawiłeś drzwi?
+kobieta|kobieta|I repaired the sink, did you fix the door?|Naprawiłam zlew, czy naprawiłaś drzwi?
+mężczyzna|kobieta|I wrote the letter, did you send it?|Napisałem list, czy go wysłałaś?
+kobieta|mężczyzna|I wrote the letter, did you send it?|Napisałam list, czy go wysłałeś?
+mężczyzna|mężczyzna|I wrote the letter, did you send it?|Napisałem list, czy go wysłałeś?
+kobieta|kobieta|I wrote the letter, did you send it?|Napisałam list, czy go wysłałaś?
+mężczyzna|kobieta|I repaired my laptop, did you back up your files?|Naprawiłem laptopa, czy zrobiłaś kopię zapasową plików?
+kobieta|mężczyzna|I repaired my laptop, did you back up your files?|Naprawiłam laptopa, czy zrobiłeś kopię zapasową plików?
+mężczyzna|mężczyzna|I repaired my laptop, did you back up your files?|Naprawiłem laptopa, czy zrobiłeś kopię zapasową plików?
+kobieta|kobieta|I repaired my laptop, did you back up your files?|Naprawiłam laptopa, czy zrobiłaś kopię zapasową plików?
+mężczyzna|kobieta|I sent the documents you asked for yesterday, but you still haven't replied, could you please check your inbox?|Wysłałem wczoraj dokumenty, o które prosiłaś, ale nadal mi nie odpisałaś, czy mogłabyś sprawdzić swoją skrzynkę?
+kobieta|mężczyzna|I sent the documents you asked for yesterday, but you still haven't replied, could you please check your inbox?|Wysłałam wczoraj dokumenty, o które prosiłeś, ale nadal mi nie odpisałeś, czy mógłbyś sprawdzić swoją skrzynkę?
+mężczyzna|mężczyzna|I sent the documents you asked for yesterday, but you still haven't replied, could you please check your inbox?|Wysłałem wczoraj dokumenty, o które prosiłeś, ale nadal mi nie odpisałeś, czy mógłbyś sprawdzić swoją skrzynkę?
+kobieta|kobieta|I sent the documents you asked for yesterday, but you still haven't replied, could you please check your inbox?|Wysłałam wczoraj dokumenty, o które prosiłaś, ale nadal mi nie odpisałaś, czy mogłabyś sprawdzić swoją skrzynkę?
+mężczyzna|kobieta|I stayed up all night preparing the presentation because you promised to help me, why didn't you show up?|Siedziałem całą noc przygotowując prezentację, bo obiecałaś, że mi pomożesz — dlaczego się nie pojawiłaś?
+kobieta|mężczyzna|I stayed up all night preparing the presentation because you promised to help me, why didn't you show up?|Siedziałam całą noc przygotowując prezentację, bo obiecałeś, że mi pomożesz — dlaczego się nie pojawiłeś?
+mężczyzna|mężczyzna|I stayed up all night preparing the presentation because you promised to help me, why didn't you show up?|Siedziałem całą noc przygotowując prezentację, bo obiecałeś, że mi pomożesz — dlaczego się nie pojawiłeś?
+kobieta|kobieta|I stayed up all night preparing the presentation because you promised to help me, why didn't you show up?|Siedziałam całą noc przygotowując prezentację, bo obiecałaś, że mi pomożesz — dlaczego się nie pojawiłaś?
+mężczyzna|kobieta|I bought everything for the party and decorated the room, were you able to invite all our friends?|Kupiłem wszystko na przyjęcie i udekorowałem pokój, czy udało ci się zaprosić wszystkich naszych przyjaciół?
+kobieta|mężczyzna|I bought everything for the party and decorated the room, were you able to invite all our friends?|Kupiłam wszystko na przyjęcie i udekorowałam pokój, czy udało ci się zaprosić wszystkich naszych przyjaciół?
+mężczyzna|mężczyzna|I bought everything for the party and decorated the room, were you able to invite all our friends?|Kupiłem wszystko na przyjęcie i udekorowałem pokój, czy udało ci się zaprosić wszystkich naszych przyjaciół?
+kobieta|kobieta|I bought everything for the party and decorated the room, were you able to invite all our friends?|Kupiłam wszystko na przyjęcie i udekorowałam pokój, czy udało ci się zaprosić wszystkich naszych przyjaciół?
+mężczyzna|kobieta|I cleaned the kitchen, did you at least take out the trash?|Posprzątałem kuchnię, wyniosłaś chociaż śmieci?
+kobieta|mężczyzna|I cleaned the kitchen, did you at least take out the trash?|Posprzątałam kuchnię, wyniosłeś chociaż śmieci?
+mężczyzna|mężczyzna|I cleaned the kitchen, did you at least take out the trash?|Posprzątałem kuchnię, wyniosłeś chociaż śmieci?
+kobieta|kobieta|I cleaned the kitchen, did you at least take out the trash?|Posprzątałam kuchnię, wyniosłaś chociaż śmieci?
+mężczyzna|kobieta|I told you not to forget the tickets, did you bring them or not?|Mówiłem ci, żebyś nie zapomniała biletów — masz je czy nie?
+kobieta|mężczyzna|I told you not to forget the tickets, did you bring them or not?|Mówiłam ci, żebyś nie zapomniał biletów — masz je czy nie?
+mężczyzna|mężczyzna|I told you not to forget the tickets, did you bring them or not?|Mówiłem ci, żebyś nie zapomniał biletów — masz je czy nie?
+kobieta|kobieta|I told you not to forget the tickets, did you bring them or not?|Mówiłam ci, żebyś nie zapomniała biletów — masz je czy nie?
+mężczyzna|kobieta|I bought all the groceries like you asked, but you forgot to make the list, didn't you?|Kupiłem wszystkie zakupy, jak prosiłaś, ale zapomniałaś zrobić listę, prawda?
+kobieta|mężczyzna|I bought all the groceries like you asked, but you forgot to make the list, didn't you?|Kupiłam wszystkie zakupy, jak prosiłeś, ale zapomniałeś zrobić listę, prawda?
+mężczyzna|mężczyzna|I bought all the groceries like you asked, but you forgot to make the list, didn't you?|Kupiłem wszystkie zakupy, jak prosiłeś, ale zapomniałeś zrobić listę, prawda?
+kobieta|kobieta|I bought all the groceries like you asked, but you forgot to make the list, didn't you?|Kupiłam wszystkie zakupy, jak prosiłaś, ale zapomniałaś zrobić listę, prawda?
+mężczyzna|kobieta|I finally fixed the shower, so now you can't complain anymore!|W końcu naprawiłem prysznic, więc teraz już nie możesz narzekać!
+kobieta|mężczyzna|I finally fixed the shower, so now you can't complain anymore!|W końcu naprawiłam prysznic, więc teraz już nie możesz narzekać!
+mężczyzna|mężczyzna|I finally fixed the shower, so now you can't complain anymore!|W końcu naprawiłem prysznic, więc teraz już nie możesz narzekać!
+kobieta|kobieta|I finally fixed the shower, so now you can't complain anymore!|W końcu naprawiłam prysznic, więc teraz już nie możesz narzekać!
+mężczyzna|kobieta|I called you three times this morning, why didn't you pick up?|Dzwoniłem do ciebie trzy razy rano, czemu nie odebrałaś?
+kobieta|mężczyzna|I called you three times this morning, why didn't you pick up?|Dzwoniłam do ciebie trzy razy rano, czemu nie odebrałeś?
+mężczyzna|mężczyzna|I called you three times this morning, why didn't you pick up?|Dzwoniłem do ciebie trzy razy rano, czemu nie odebrałeś?
+kobieta|kobieta|I called you three times this morning, why didn't you pick up?|Dzwoniłam do ciebie trzy razy rano, czemu nie odebrałaś?
+mężczyzna|kobieta|I finished all my tasks at work today, but you still owe me that coffee, remember?|Skończyłem dziś wszystkie zadania w pracy, a ty wciąż jesteś mi winna tę kawę, pamiętasz?
+kobieta|mężczyzna|I finished all my tasks at work today, but you still owe me that coffee, remember?|Skończyłam dziś wszystkie zadania w pracy, a ty wciąż jesteś mi winien tę kawę, pamiętasz?
+mężczyzna|mężczyzna|I finished all my tasks at work today, but you still owe me that coffee, remember?|Skończyłem dziś wszystkie zadania w pracy, a ty wciąż jesteś mi winien tę kawę, pamiętasz?
+kobieta|kobieta|I finished all my tasks at work today, but you still owe me that coffee, remember?|Skończyłam dziś wszystkie zadania w pracy, a ty wciąż jesteś mi winna tę kawę, pamiętasz?
+mężczyzna|kobieta|I cleaned the whole garage today, can you believe it?|Posprzątałem dziś cały garaż, możesz w to uwierzyć?
+kobieta|mężczyzna|I cleaned the whole garage today, can you believe it?|Posprzątałam dziś cały garaż, możesz w to uwierzyć?
+mężczyzna|mężczyzna|I cleaned the whole garage today, can you believe it?|Posprzątałem dziś cały garaż, możesz w to uwierzyć?
+kobieta|kobieta|I cleaned the whole garage today, can you believe it?|Posprzątałam dziś cały garaż, możesz w to uwierzyć?
+mężczyzna|kobieta|I spent the whole day fixing your laptop, and you didn't even say thank you!|"Spędziłem cały dzień naprawiając twój laptop, a ty nawet nie powiedziałaś ""dziękuję""!"
+kobieta|mężczyzna|I spent the whole day fixing your laptop, and you didn't even say thank you!|"Spędziłam cały dzień naprawiając twój laptop, a ty nawet nie powiedziałeś ""dziękuję""!"
+mężczyzna|mężczyzna|I spent the whole day fixing your laptop, and you didn't even say thank you!|"Spędziłem cały dzień naprawiając twój laptop, a ty nawet nie powiedziałeś ""dziękuję""!"
+kobieta|kobieta|I spent the whole day fixing your laptop, and you didn't even say thank you!|"Spędziłam cały dzień naprawiając twój laptop, a ty nawet nie powiedziałaś ""dziękuję""!"
+mężczyzna|kobieta|I stayed up all night helping you with your project, and now you don't even remember it?|Siedziałem całą noc pomagając ci z projektem, a teraz nawet tego nie pamiętasz?
+kobieta|mężczyzna|I stayed up all night helping you with your project, and now you don't even remember it?|Siedziałam całą noc pomagając ci z projektem, a teraz nawet tego nie pamiętasz?
+mężczyzna|mężczyzna|I stayed up all night helping you with your project, and now you don't even remember it?|Siedziałem całą noc pomagając ci z projektem, a teraz nawet tego nie pamiętasz?
+kobieta|kobieta|I stayed up all night helping you with your project, and now you don't even remember it?|Siedziałam całą noc pomagając ci z projektem, a teraz nawet tego nie pamiętasz?
+mężczyzna|kobieta|I picked up your parcel from the post office, did you forget to thank me again?|Odebrałem twoją paczkę z poczty, znowu zapomniałaś mi podziękować?
+kobieta|mężczyzna|I picked up your parcel from the post office, did you forget to thank me again?|Odebrałam twoją paczkę z poczty, znowu zapomniałeś mi podziękować?
+mężczyzna|mężczyzna|I picked up your parcel from the post office, did you forget to thank me again?|Odebrałem twoją paczkę z poczty, znowu zapomniałeś mi podziękować?
+kobieta|kobieta|I picked up your parcel from the post office, did you forget to thank me again?|Odebrałam twoją paczkę z poczty, znowu zapomniałaś mi podziękować?
+mężczyzna|kobieta|"I waited for you for almost an hour in the rain, and you just texted ""sorry""?"|Czekałem na ciebie prawie godzinę w deszczu, a ty tylko napisałaś „sorry”?
+kobieta|mężczyzna|"I waited for you for almost an hour in the rain, and you just texted ""sorry""?"|Czekałam na ciebie prawie godzinę w deszczu, a ty tylko napisałeś „sorry”?
+mężczyzna|mężczyzna|"I waited for you for almost an hour in the rain, and you just texted ""sorry""?"|Czekałem na ciebie prawie godzinę w deszczu, a ty tylko napisałeś „sorry”?
+kobieta|kobieta|"I waited for you for almost an hour in the rain, and you just texted ""sorry""?"|Czekałam na ciebie prawie godzinę w deszczu, a ty tylko napisałaś „sorry”?
+mężczyzna|kobieta|I thought we agreed to clean the house together today, so why am I doing everything alone?|Myślałem, że umówiliśmy się na wspólne sprzątanie, więc czemu wszystko robię sam?
+kobieta|mężczyzna|I thought we agreed to clean the house together today, so why am I doing everything alone?|Myślałam, że umówiliśmy się na wspólne sprzątanie, więc czemu wszystko robię sama?
+mężczyzna|mężczyzna|I thought we agreed to clean the house together today, so why am I doing everything alone?|Myślałem, że umówiliśmy się na wspólne sprzątanie, więc czemu wszystko robię sam?
+kobieta|kobieta|I thought we agreed to clean the house together today, so why am I doing everything alone?|Myślałam, że umówiliśmy się na wspólne sprzątanie, więc czemu wszystko robię sama?

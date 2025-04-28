@@ -1,0 +1,599 @@
+Mówca: mężczyzna
+Słuchacz: kobieta
+Angielski: I am the best artist, are you a good artist?
+Polski: Jestem najlepszym artystą, czy ty jesteś dobrą artystką?
+
+Mówca: kobieta
+Słuchacz: mężczyzna
+Angielski: I am the best artist, are you a good artist?
+Polski: Jestem najlepszą artystką, czy ty jesteś dobrym artystą?
+
+Mówca: mężczyzna
+Słuchacz: mężczyzna
+Angielski: I am the best artist, are you a good artist?
+Polski: Jestem najlepszym artystą, czy ty jesteś dobrym artystą?
+
+Mówca: kobieta
+Słuchacz: kobieta
+Angielski: I am the best artist, are you a good artist?
+Polski: Jestem najlepszą artystką, czy ty jesteś dobrą artystką?
+
+Mówca: mężczyzna
+Słuchacz: mężczyzna
+Angielski: I almost killed him, and what did you do?
+Polski: Prawie go zabiłem, a ty co zrobiłeś?
+
+Mówca: mężczyzna
+Słuchacz: kobieta
+Angielski: I almost killed him, and what did you do?
+Polski: Prawie go zabiłem, a ty co zrobiłaś?
+
+Mówca: kobieta
+Słuchacz: mężczyzna
+Angielski: I almost killed him, and what did you do?
+Polski: Prawie go zabiłam, a ty co zrobiłeś?
+
+Mówca: kobieta
+Słuchacz: kobieta
+Angielski: I almost killed him, and what did you do?
+Polski: Prawie go zabiłam, a ty co zrobiłaś?
+
+Mówca: kobieta
+Słuchacz: kobieta
+Angielski: I wanted to paint my walls but you didn't borrow me paint
+Polski: Chciałam pomalować moje ściany ale nie pożyczyłaś mi farby
+
+Mówca: kobieta
+Słuchacz: mężczyzna
+Angielski: I wanted to paint my walls but you didn't borrow me paint
+Polski: Chciałam pomalować moje ściany ale nie pożyczyłeś mi farby
+
+Mówca: mężczyzna
+Słuchacz: kobieta
+Angielski: I wanted to paint my walls but you didn't borrow me paint
+Polski: Chciałem pomalować moje ściany ale nie pożyczyłaś mi farby
+
+Mówca: mężczyzna
+Słuchacz: mężczyzna
+Angielski: I wanted to paint my walls but you didn't borrow me paint
+Polski: Chciałem pomalować moje ściany ale nie pożyczyłeś mi farby
+
+Mówca: mężczyzna
+Słuchacz: kobieta
+Angielski: I fixed the car, did you manage to fix your bike?
+Polski: Naprawiłem samochód, czy udało ci się naprawić rower?
+
+Mówca: kobieta
+Słuchacz: mężczyzna
+Angielski: I fixed the car, did you manage to fix your bike?
+Polski: Naprawiłam samochód, czy udało ci się naprawić rower?
+
+Mówca: mężczyzna
+Słuchacz: mężczyzna
+Angielski: I fixed the car, did you manage to fix your bike?
+Polski: Naprawiłem samochód, czy udało ci się naprawić rower?
+
+Mówca: kobieta
+Słuchacz: kobieta
+Angielski: I fixed the car, did you manage to fix your bike?
+Polski: Naprawiłam samochód, czy udało ci się naprawić rower?
+
+Mówca: mężczyzna
+Słuchacz: kobieta
+Angielski: I read the whole book, did you finish reading yours?
+Polski: Przeczytałem całą książkę, czy skończyłaś swoją?
+
+Mówca: kobieta
+Słuchacz: mężczyzna
+Angielski: I read the whole book, did you finish reading yours?
+Polski: Przeczytałam całą książkę, czy skończyłeś swoją?
+
+Mówca: mężczyzna
+Słuchacz: mężczyzna
+Angielski: I read the whole book, did you finish reading yours?
+Polski: Przeczytałem całą książkę, czy skończyłeś swoją?
+
+Mówca: kobieta
+Słuchacz: kobieta
+Angielski: I read the whole book, did you finish reading yours?
+Polski: Przeczytałam całą książkę, czy skończyłaś swoją?
+
+Mówca: mężczyzna
+Słuchacz: kobieta
+Angielski: I cooked dinner, did you bring the drinks?
+Polski: Ugotowałem obiad, czy przyniosłaś napoje?
+
+Mówca: kobieta
+Słuchacz: mężczyzna
+Angielski: I cooked dinner, did you bring the drinks?
+Polski: Ugotowałam obiad, czy przyniosłeś napoje?
+
+Mówca: mężczyzna
+Słuchacz: mężczyzna
+Angielski: I cooked dinner, did you bring the drinks?
+Polski: Ugotowałem obiad, czy przyniosłeś napoje?
+
+Mówca: kobieta
+Słuchacz: kobieta
+Angielski: I cooked dinner, did you bring the drinks?
+Polski: Ugotowałam obiad, czy przyniosłaś napoje?
+
+Mówca: mężczyzna
+Słuchacz: kobieta
+Angielski: I watched that movie last night, did you like it?
+Polski: Obejrzałem ten film wczoraj wieczorem, spodobał ci się?
+
+Mówca: kobieta
+Słuchacz: mężczyzna
+Angielski: I watched that movie last night, did you like it?
+Polski: Obejrzałam ten film wczoraj wieczorem, spodobał ci się?
+
+Mówca: mężczyzna
+Słuchacz: mężczyzna
+Angielski: I watched that movie last night, did you like it?
+Polski: Obejrzałem ten film wczoraj wieczorem, spodobał ci się?
+
+Mówca: kobieta
+Słuchacz: kobieta
+Angielski: I watched that movie last night, did you like it?
+Polski: Obejrzałam ten film wczoraj wieczorem, spodobał ci się?
+
+Mówca: mężczyzna
+Słuchacz: kobieta
+Angielski: I cleaned the kitchen, did you take out the trash?
+Polski: Posprzątałem kuchnię, czy wyniosłaś śmieci?
+
+Mówca: kobieta
+Słuchacz: mężczyzna
+Angielski: I cleaned the kitchen, did you take out the trash?
+Polski: Posprzątałam kuchnię, czy wyniosłeś śmieci?
+
+Mówca: mężczyzna
+Słuchacz: mężczyzna
+Angielski: I cleaned the kitchen, did you take out the trash?
+Polski: Posprzątałem kuchnię, czy wyniosłeś śmieci?
+
+Mówca: kobieta
+Słuchacz: kobieta
+Angielski: I cleaned the kitchen, did you take out the trash?
+Polski: Posprzątałam kuchnię, czy wyniosłaś śmieci?
+
+Mówca: mężczyzna
+Słuchacz: kobieta
+Angielski: I bought the tickets, did you remember to book the hotel?
+Polski: Kupiłem bilety, czy pamiętałaś zarezerwować hotel?
+
+Mówca: kobieta
+Słuchacz: mężczyzna
+Angielski: I bought the tickets, did you remember to book the hotel?
+Polski: Kupiłam bilety, czy pamiętałeś zarezerwować hotel?
+
+Mówca: mężczyzna
+Słuchacz: mężczyzna
+Angielski: I bought the tickets, did you remember to book the hotel?
+Polski: Kupiłem bilety, czy pamiętałeś zarezerwować hotel?
+
+Mówca: kobieta
+Słuchacz: kobieta
+Angielski: I bought the tickets, did you remember to book the hotel?
+Polski: Kupiłam bilety, czy pamiętałaś zarezerwować hotel?
+
+Mówca: mężczyzna
+Słuchacz: kobieta
+Angielski: I found the keys, did you find your wallet?
+Polski: Znalazłem klucze, czy znalazłaś swój portfel?
+
+Mówca: kobieta
+Słuchacz: mężczyzna
+Angielski: I found the keys, did you find your wallet?
+Polski: Znalazłam klucze, czy znalazłeś swój portfel?
+
+Mówca: mężczyzna
+Słuchacz: mężczyzna
+Angielski: I found the keys, did you find your wallet?
+Polski: Znalazłem klucze, czy znalazłeś swój portfel?
+
+Mówca: kobieta
+Słuchacz: kobieta
+Angielski: I found the keys, did you find your wallet?
+Polski: Znalazłam klucze, czy znalazłaś swój portfel?
+
+Mówca: mężczyzna
+Słuchacz: kobieta
+Angielski: I sent the email, did you call the client?
+Polski: Wysłałem maila, czy zadzwoniłaś do klienta?
+
+Mówca: kobieta
+Słuchacz: mężczyzna
+Angielski: I sent the email, did you call the client?
+Polski: Wysłałam maila, czy zadzwoniłeś do klienta?
+
+Mówca: mężczyzna
+Słuchacz: mężczyzna
+Angielski: I sent the email, did you call the client?
+Polski: Wysłałem maila, czy zadzwoniłeś do klienta?
+
+Mówca: kobieta
+Słuchacz: kobieta
+Angielski: I sent the email, did you call the client?
+Polski: Wysłałam maila, czy zadzwoniłaś do klienta?
+
+Mówca: mężczyzna
+Słuchacz: kobieta
+Angielski: I finished the report, did you complete the presentation?
+Polski: Skończyłem raport, czy ukończyłaś prezentację?
+
+Mówca: kobieta
+Słuchacz: mężczyzna
+Angielski: I finished the report, did you complete the presentation?
+Polski: Skończyłam raport, czy ukończyłeś prezentację?
+
+Mówca: mężczyzna
+Słuchacz: mężczyzna
+Angielski: I finished the report, did you complete the presentation?
+Polski: Skończyłem raport, czy ukończyłeś prezentację?
+
+Mówca: kobieta
+Słuchacz: kobieta
+Angielski: I finished the report, did you complete the presentation?
+Polski: Skończyłam raport, czy ukończyłaś prezentację?
+
+Mówca: mężczyzna
+Słuchacz: kobieta
+Angielski: I repaired the sink, did you fix the door?
+Polski: Naprawiłem zlew, czy naprawiłaś drzwi?
+
+Mówca: kobieta
+Słuchacz: mężczyzna
+Angielski: I repaired the sink, did you fix the door?
+Polski: Naprawiłam zlew, czy naprawiłeś drzwi?
+
+Mówca: mężczyzna
+Słuchacz: mężczyzna
+Angielski: I repaired the sink, did you fix the door?
+Polski: Naprawiłem zlew, czy naprawiłeś drzwi?
+
+Mówca: kobieta
+Słuchacz: kobieta
+Angielski: I repaired the sink, did you fix the door?
+Polski: Naprawiłam zlew, czy naprawiłaś drzwi?
+
+Mówca: mężczyzna
+Słuchacz: kobieta
+Angielski: I wrote the letter, did you send it?
+Polski: Napisałem list, czy go wysłałaś?
+
+Mówca: kobieta
+Słuchacz: mężczyzna
+Angielski: I wrote the letter, did you send it?
+Polski: Napisałam list, czy go wysłałeś?
+
+Mówca: mężczyzna
+Słuchacz: mężczyzna
+Angielski: I wrote the letter, did you send it?
+Polski: Napisałem list, czy go wysłałeś?
+
+Mówca: kobieta
+Słuchacz: kobieta
+Angielski: I wrote the letter, did you send it?
+Polski: Napisałam list, czy go wysłałaś?
+
+Mówca: mężczyzna
+Słuchacz: kobieta
+Angielski: I repaired my laptop, did you back up your files?
+Polski: Naprawiłem laptopa, czy zrobiłaś kopię zapasową plików?
+
+Mówca: kobieta
+Słuchacz: mężczyzna
+Angielski: I repaired my laptop, did you back up your files?
+Polski: Naprawiłam laptopa, czy zrobiłeś kopię zapasową plików?
+
+Mówca: mężczyzna
+Słuchacz: mężczyzna
+Angielski: I repaired my laptop, did you back up your files?
+Polski: Naprawiłem laptopa, czy zrobiłeś kopię zapasową plików?
+
+Mówca: kobieta
+Słuchacz: kobieta
+Angielski: I repaired my laptop, did you back up your files?
+Polski: Naprawiłam laptopa, czy zrobiłaś kopię zapasową plików?
+
+Mówca: mężczyzna
+Słuchacz: kobieta
+Angielski: I sent the documents you asked for yesterday, but you still haven't replied, could you please check your inbox?
+Polski: Wysłałem wczoraj dokumenty, o które prosiłaś, ale nadal mi nie odpisałaś, czy mogłabyś sprawdzić swoją skrzynkę?
+
+Mówca: kobieta
+Słuchacz: mężczyzna
+Angielski: I sent the documents you asked for yesterday, but you still haven't replied, could you please check your inbox?
+Polski: Wysłałam wczoraj dokumenty, o które prosiłeś, ale nadal mi nie odpisałeś, czy mógłbyś sprawdzić swoją skrzynkę?
+
+Mówca: mężczyzna
+Słuchacz: mężczyzna
+Angielski: I sent the documents you asked for yesterday, but you still haven't replied, could you please check your inbox?
+Polski: Wysłałem wczoraj dokumenty, o które prosiłeś, ale nadal mi nie odpisałeś, czy mógłbyś sprawdzić swoją skrzynkę?
+
+Mówca: kobieta
+Słuchacz: kobieta
+Angielski: I sent the documents you asked for yesterday, but you still haven't replied, could you please check your inbox?
+Polski: Wysłałam wczoraj dokumenty, o które prosiłaś, ale nadal mi nie odpisałaś, czy mogłabyś sprawdzić swoją skrzynkę?
+
+Mówca: mężczyzna
+Słuchacz: kobieta
+Angielski: I stayed up all night preparing the presentation because you promised to help me, why didn't you show up?
+Polski: Siedziałem całą noc przygotowując prezentację, bo obiecałaś, że mi pomożesz — dlaczego się nie pojawiłaś?
+
+Mówca: kobieta
+Słuchacz: mężczyzna
+Angielski: I stayed up all night preparing the presentation because you promised to help me, why didn't you show up?
+Polski: Siedziałam całą noc przygotowując prezentację, bo obiecałeś, że mi pomożesz — dlaczego się nie pojawiłeś?
+
+Mówca: mężczyzna
+Słuchacz: mężczyzna
+Angielski: I stayed up all night preparing the presentation because you promised to help me, why didn't you show up?
+Polski: Siedziałem całą noc przygotowując prezentację, bo obiecałeś, że mi pomożesz — dlaczego się nie pojawiłeś?
+
+Mówca: kobieta
+Słuchacz: kobieta
+Angielski: I stayed up all night preparing the presentation because you promised to help me, why didn't you show up?
+Polski: Siedziałam całą noc przygotowując prezentację, bo obiecałaś, że mi pomożesz — dlaczego się nie pojawiłaś?
+
+Mówca: mężczyzna
+Słuchacz: kobieta
+Angielski: I bought everything for the party and decorated the room, were you able to invite all our friends?
+Polski: Kupiłem wszystko na przyjęcie i udekorowałem pokój, czy udało ci się zaprosić wszystkich naszych przyjaciół?
+
+Mówca: kobieta
+Słuchacz: mężczyzna
+Angielski: I bought everything for the party and decorated the room, were you able to invite all our friends?
+Polski: Kupiłam wszystko na przyjęcie i udekorowałam pokój, czy udało ci się zaprosić wszystkich naszych przyjaciół?
+
+Mówca: mężczyzna
+Słuchacz: mężczyzna
+Angielski: I bought everything for the party and decorated the room, were you able to invite all our friends?
+Polski: Kupiłem wszystko na przyjęcie i udekorowałem pokój, czy udało ci się zaprosić wszystkich naszych przyjaciół?
+
+Mówca: kobieta
+Słuchacz: kobieta
+Angielski: I bought everything for the party and decorated the room, were you able to invite all our friends?
+Polski: Kupiłam wszystko na przyjęcie i udekorowałam pokój, czy udało ci się zaprosić wszystkich naszych przyjaciół?
+
+Mówca: mężczyzna
+Słuchacz: kobieta
+Angielski: I cleaned the kitchen, did you at least take out the trash?
+Polski: Posprzątałem kuchnię, wyniosłaś chociaż śmieci?
+
+Mówca: kobieta
+Słuchacz: mężczyzna
+Angielski: I cleaned the kitchen, did you at least take out the trash?
+Polski: Posprzątałam kuchnię, wyniosłeś chociaż śmieci?
+
+Mówca: mężczyzna
+Słuchacz: mężczyzna
+Angielski: I cleaned the kitchen, did you at least take out the trash?
+Polski: Posprzątałem kuchnię, wyniosłeś chociaż śmieci?
+
+Mówca: kobieta
+Słuchacz: kobieta
+Angielski: I cleaned the kitchen, did you at least take out the trash?
+Polski: Posprzątałam kuchnię, wyniosłaś chociaż śmieci?
+
+Mówca: mężczyzna
+Słuchacz: kobieta
+Angielski: I told you not to forget the tickets, did you bring them or not?
+Polski: Mówiłem ci, żebyś nie zapomniała biletów — masz je czy nie?
+
+Mówca: kobieta
+Słuchacz: mężczyzna
+Angielski: I told you not to forget the tickets, did you bring them or not?
+Polski: Mówiłam ci, żebyś nie zapomniał biletów — masz je czy nie?
+
+Mówca: mężczyzna
+Słuchacz: mężczyzna
+Angielski: I told you not to forget the tickets, did you bring them or not?
+Polski: Mówiłem ci, żebyś nie zapomniał biletów — masz je czy nie?
+
+Mówca: kobieta
+Słuchacz: kobieta
+Angielski: I told you not to forget the tickets, did you bring them or not?
+Polski: Mówiłam ci, żebyś nie zapomniała biletów — masz je czy nie?
+
+Mówca: mężczyzna
+Słuchacz: kobieta
+Angielski: I bought all the groceries like you asked, but you forgot to make the list, didn't you?
+Polski: Kupiłem wszystkie zakupy, jak prosiłaś, ale zapomniałaś zrobić listę, prawda?
+
+Mówca: kobieta
+Słuchacz: mężczyzna
+Angielski: I bought all the groceries like you asked, but you forgot to make the list, didn't you?
+Polski: Kupiłam wszystkie zakupy, jak prosiłeś, ale zapomniałeś zrobić listę, prawda?
+
+Mówca: mężczyzna
+Słuchacz: mężczyzna
+Angielski: I bought all the groceries like you asked, but you forgot to make the list, didn't you?
+Polski: Kupiłem wszystkie zakupy, jak prosiłeś, ale zapomniałeś zrobić listę, prawda?
+
+Mówca: kobieta
+Słuchacz: kobieta
+Angielski: I bought all the groceries like you asked, but you forgot to make the list, didn't you?
+Polski: Kupiłam wszystkie zakupy, jak prosiłaś, ale zapomniałaś zrobić listę, prawda?
+
+Mówca: mężczyzna
+Słuchacz: kobieta
+Angielski: I finally fixed the shower, so now you can't complain anymore!
+Polski: W końcu naprawiłem prysznic, więc teraz już nie możesz narzekać!
+
+Mówca: kobieta
+Słuchacz: mężczyzna
+Angielski: I finally fixed the shower, so now you can't complain anymore!
+Polski: W końcu naprawiłam prysznic, więc teraz już nie możesz narzekać!
+
+Mówca: mężczyzna
+Słuchacz: mężczyzna
+Angielski: I finally fixed the shower, so now you can't complain anymore!
+Polski: W końcu naprawiłem prysznic, więc teraz już nie możesz narzekać!
+
+Mówca: kobieta
+Słuchacz: kobieta
+Angielski: I finally fixed the shower, so now you can't complain anymore!
+Polski: W końcu naprawiłam prysznic, więc teraz już nie możesz narzekać!
+
+Mówca: mężczyzna
+Słuchacz: kobieta
+Angielski: I called you three times this morning, why didn't you pick up?
+Polski: Dzwoniłem do ciebie trzy razy rano, czemu nie odebrałaś?
+
+Mówca: kobieta
+Słuchacz: mężczyzna
+Angielski: I called you three times this morning, why didn't you pick up?
+Polski: Dzwoniłam do ciebie trzy razy rano, czemu nie odebrałeś?
+
+Mówca: mężczyzna
+Słuchacz: mężczyzna
+Angielski: I called you three times this morning, why didn't you pick up?
+Polski: Dzwoniłem do ciebie trzy razy rano, czemu nie odebrałeś?
+
+Mówca: kobieta
+Słuchacz: kobieta
+Angielski: I called you three times this morning, why didn't you pick up?
+Polski: Dzwoniłam do ciebie trzy razy rano, czemu nie odebrałaś?
+
+Mówca: mężczyzna
+Słuchacz: kobieta
+Angielski: I finished all my tasks at work today, but you still owe me that coffee, remember?
+Polski: Skończyłem dziś wszystkie zadania w pracy, a ty wciąż jesteś mi winna tę kawę, pamiętasz?
+
+Mówca: kobieta
+Słuchacz: mężczyzna
+Angielski: I finished all my tasks at work today, but you still owe me that coffee, remember?
+Polski: Skończyłam dziś wszystkie zadania w pracy, a ty wciąż jesteś mi winien tę kawę, pamiętasz?
+
+Mówca: mężczyzna
+Słuchacz: mężczyzna
+Angielski: I finished all my tasks at work today, but you still owe me that coffee, remember?
+Polski: Skończyłem dziś wszystkie zadania w pracy, a ty wciąż jesteś mi winien tę kawę, pamiętasz?
+
+Mówca: kobieta
+Słuchacz: kobieta
+Angielski: I finished all my tasks at work today, but you still owe me that coffee, remember?
+Polski: Skończyłam dziś wszystkie zadania w pracy, a ty wciąż jesteś mi winna tę kawę, pamiętasz?
+
+Mówca: mężczyzna
+Słuchacz: kobieta
+Angielski: I cleaned the whole garage today, can you believe it?
+Polski: Posprzątałem dziś cały garaż, możesz w to uwierzyć?
+
+Mówca: kobieta
+Słuchacz: mężczyzna
+Angielski: I cleaned the whole garage today, can you believe it?
+Polski: Posprzątałam dziś cały garaż, możesz w to uwierzyć?
+
+Mówca: mężczyzna
+Słuchacz: mężczyzna
+Angielski: I cleaned the whole garage today, can you believe it?
+Polski: Posprzątałem dziś cały garaż, możesz w to uwierzyć?
+
+Mówca: kobieta
+Słuchacz: kobieta
+Angielski: I cleaned the whole garage today, can you believe it?
+Polski: Posprzątałam dziś cały garaż, możesz w to uwierzyć?
+
+Mówca: mężczyzna
+Słuchacz: kobieta
+Angielski: I spent the whole day fixing your laptop, and you didn't even say thank you!
+Polski: Spędziłem cały dzień naprawiając twój laptop, a ty nawet nie powiedziałaś "dziękuję"!
+
+Mówca: kobieta
+Słuchacz: mężczyzna
+Angielski: I spent the whole day fixing your laptop, and you didn't even say thank you!
+Polski: Spędziłam cały dzień naprawiając twój laptop, a ty nawet nie powiedziałeś "dziękuję"!
+
+Mówca: mężczyzna
+Słuchacz: mężczyzna
+Angielski: I spent the whole day fixing your laptop, and you didn't even say thank you!
+Polski: Spędziłem cały dzień naprawiając twój laptop, a ty nawet nie powiedziałeś "dziękuję"!
+
+Mówca: kobieta
+Słuchacz: kobieta
+Angielski: I spent the whole day fixing your laptop, and you didn't even say thank you!
+Polski: Spędziłam cały dzień naprawiając twój laptop, a ty nawet nie powiedziałaś "dziękuję"!
+
+Mówca: mężczyzna
+Słuchacz: kobieta
+Angielski: I stayed up all night helping you with your project, and now you don't even remember it?
+Polski: Siedziałem całą noc pomagając ci z projektem, a teraz nawet tego nie pamiętasz?
+
+Mówca: kobieta
+Słuchacz: mężczyzna
+Angielski: I stayed up all night helping you with your project, and now you don't even remember it?
+Polski: Siedziałam całą noc pomagając ci z projektem, a teraz nawet tego nie pamiętasz?
+
+Mówca: mężczyzna
+Słuchacz: mężczyzna
+Angielski: I stayed up all night helping you with your project, and now you don't even remember it?
+Polski: Siedziałem całą noc pomagając ci z projektem, a teraz nawet tego nie pamiętasz?
+
+Mówca: kobieta
+Słuchacz: kobieta
+Angielski: I stayed up all night helping you with your project, and now you don't even remember it?
+Polski: Siedziałam całą noc pomagając ci z projektem, a teraz nawet tego nie pamiętasz?
+
+Mówca: mężczyzna
+Słuchacz: kobieta
+Angielski: I picked up your parcel from the post office, did you forget to thank me again?
+Polski: Odebrałem twoją paczkę z poczty, znowu zapomniałaś mi podziękować?
+
+Mówca: kobieta
+Słuchacz: mężczyzna
+Angielski: I picked up your parcel from the post office, did you forget to thank me again?
+Polski: Odebrałam twoją paczkę z poczty, znowu zapomniałeś mi podziękować?
+
+Mówca: mężczyzna
+Słuchacz: mężczyzna
+Angielski: I picked up your parcel from the post office, did you forget to thank me again?
+Polski: Odebrałem twoją paczkę z poczty, znowu zapomniałeś mi podziękować?
+
+Mówca: kobieta
+Słuchacz: kobieta
+Angielski: I picked up your parcel from the post office, did you forget to thank me again?
+Polski: Odebrałam twoją paczkę z poczty, znowu zapomniałaś mi podziękować?
+
+Mówca: mężczyzna
+Słuchacz: kobieta
+Angielski: I waited for you for almost an hour in the rain, and you just texted "sorry"?
+Polski: Czekałem na ciebie prawie godzinę w deszczu, a ty tylko napisałaś „sorry”?
+
+Mówca: kobieta
+Słuchacz: mężczyzna
+Angielski: I waited for you for almost an hour in the rain, and you just texted "sorry"?
+Polski: Czekałam na ciebie prawie godzinę w deszczu, a ty tylko napisałeś „sorry”?
+
+Mówca: mężczyzna
+Słuchacz: mężczyzna
+Angielski: I waited for you for almost an hour in the rain, and you just texted "sorry"?
+Polski: Czekałem na ciebie prawie godzinę w deszczu, a ty tylko napisałeś „sorry”?
+
+Mówca: kobieta
+Słuchacz: kobieta
+Angielski: I waited for you for almost an hour in the rain, and you just texted "sorry"?
+Polski: Czekałam na ciebie prawie godzinę w deszczu, a ty tylko napisałaś „sorry”?
+
+Mówca: mężczyzna
+Słuchacz: kobieta
+Angielski: I thought we agreed to clean the house together today, so why am I doing everything alone?
+Polski: Myślałem, że umówiliśmy się na wspólne sprzątanie, więc czemu wszystko robię sam?
+
+Mówca: kobieta
+Słuchacz: mężczyzna
+Angielski: I thought we agreed to clean the house together today, so why am I doing everything alone?
+Polski: Myślałam, że umówiliśmy się na wspólne sprzątanie, więc czemu wszystko robię sama?
+
+Mówca: mężczyzna
+Słuchacz: mężczyzna
+Angielski: I thought we agreed to clean the house together today, so why am I doing everything alone?
+Polski: Myślałem, że umówiliśmy się na wspólne sprzątanie, więc czemu wszystko robię sam?
+
+Mówca: kobieta
+Słuchacz: kobieta
+Angielski: I thought we agreed to clean the house together today, so why am I doing everything alone?
+Polski: Myślałam, że umówiliśmy się na wspólne sprzątanie, więc czemu wszystko robię sama?

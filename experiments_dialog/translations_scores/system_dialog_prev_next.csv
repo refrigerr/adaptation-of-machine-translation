@@ -1,0 +1,2 @@
+bleu_dialog_prev,chrf_dialog_prev,comet_dialog_prev,bertscore_dialog_prev,bleu_dialog_next,chrf_dialog_next,comet_dialog_next,bertscore_dialog_next
+0.09866027633713123,0.4179654284503403,0.8200841391086579,0.8206872415542602,0.09927525402685129,0.41507380818502887,0.819754021525383,0.8205811855196953

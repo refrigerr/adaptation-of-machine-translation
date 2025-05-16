@@ -1,0 +1,2624 @@
+{
+    "Geralt": {
+        "gender": "mê¿czyzna"
+    },
+    "Temerian Bandit 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Temerian Bandit 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Merchant 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Verden Vendor 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Tailor Sjusta": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Drunk 06": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Trader 04": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Trader 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Boy 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Girl 03": {
+        "gender": "kobieta"
+    },
+    "Elf Female 01": {
+        "gender": "kobieta"
+    },
+    "Halfling Man 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Prostitute 01": {
+        "gender": "kobieta"
+    },
+    "Eternal Fire Guard 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Thug Strong 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Thug Strong 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Witch Hunter 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Witch Hunter 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Witch Hunter 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Peasant 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Peasant 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Prostitute 02": {
+        "gender": "kobieta"
+    },
+    "Novigrad Prostitute 03": {
+        "gender": "kobieta"
+    },
+    "Elf Female 03": {
+        "gender": "kobieta"
+    },
+    "Eternal Fire Priest 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Chorus Novigrad": {
+        "gender": "unknown"
+    },
+    "Novigrad Drunk 11": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Drunk 13": {
+        "gender": "mê¿czyzna"
+    },
+    "Redanian Soldier 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Redanian Soldier 04": {
+        "gender": "mê¿czyzna"
+    },
+    "Redanian Soldier 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Redanian Soldier 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Verden Boy 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Rich Man 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Rich Man 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Redanian Officer 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Baron Bandit Strong 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Baron Bandit Strong 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Baron Bandit Weak 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Baron Bandit Weak 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Baron Bandit Strong 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Verden Peasant 05": {
+        "gender": "mê¿czyzna"
+    },
+    "Verden Smith 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Verden Peasant 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Verden Peasant 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Verden Peasant 04": {
+        "gender": "mê¿czyzna"
+    },
+    "Verden Woman 04": {
+        "gender": "kobieta"
+    },
+    "Verden Woman 05": {
+        "gender": "kobieta"
+    },
+    "Verden Woman 03": {
+        "gender": "kobieta"
+    },
+    "Verden Old Man 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Verden Peasant 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Verden Old Man 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Verden Woman 01": {
+        "gender": "kobieta"
+    },
+    "Verden Old Woman 02": {
+        "gender": "kobieta"
+    },
+    "Verden Old Woman 03": {
+        "gender": "kobieta"
+    },
+    "Verden Girl 03": {
+        "gender": "kobieta"
+    },
+    "Verden Old Man 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Verden Woman 02": {
+        "gender": "kobieta"
+    },
+    "Chorus Eve": {
+        "gender": "unknown"
+    },
+    "Verden Old Woman 01": {
+        "gender": "kobieta"
+    },
+    "Verden Girl 02": {
+        "gender": "kobieta"
+    },
+    "Nilfgaardian Soldier 04": {
+        "gender": "mê¿czyzna"
+    },
+    "Verden Infected Man 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Verden Infected Woman 02": {
+        "gender": "kobieta"
+    },
+    "Verden Infected Man 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Verden Infected Man 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Verden Vendor 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Verden Boy 05": {
+        "gender": "mê¿czyzna"
+    },
+    "Verden Boy 04": {
+        "gender": "mê¿czyzna"
+    },
+    "Verden Peasant 31": {
+        "gender": "mê¿czyzna"
+    },
+    "Verden Peasant 32": {
+        "gender": "mê¿czyzna"
+    },
+    "Verden Boy 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Verden Boy 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Baron Bandit Weak 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Fergus Graem": {
+        "gender": "unknown"
+    },
+    "Blacksmith Woman": {
+        "gender": "kobieta"
+    },
+    "Verden Vendor 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Baron Bandit Weak 31": {
+        "gender": "mê¿czyzna"
+    },
+    "Deamon 03": {
+        "gender": "unknown"
+    },
+    "Nilfgaardian Lazaret 04": {
+        "gender": "mê¿czyzna"
+    },
+    "Nilfgaardian Officer 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Nilfgaardian Officer 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Nilfgaardian Soldier 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Nilfgaardian Soldier 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Nilfgaardian Soldier 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Nilfgaardian Soldier 05": {
+        "gender": "mê¿czyzna"
+    },
+    "Verden Scavenger Woman 01": {
+        "gender": "kobieta"
+    },
+    "Verden Scavenger Woman 02": {
+        "gender": "kobieta"
+    },
+    "Temerian Bandit 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Troll_1": {
+        "gender": "mê¿czyzna"
+    },
+    "Troll_2": {
+        "gender": "mê¿czyzna"
+    },
+    "Troll_3": {
+        "gender": "mê¿czyzna"
+    },
+    "Verden Bandit 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Verden Bandit 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Verden Bandit 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Verden Bandit 04": {
+        "gender": "mê¿czyzna"
+    },
+    "Verden Bandit 05": {
+        "gender": "mê¿czyzna"
+    },
+    "Verden Bandit 31": {
+        "gender": "mê¿czyzna"
+    },
+    "Verden Girl 01": {
+        "gender": "kobieta"
+    },
+    "Verden Infected Woman 01": {
+        "gender": "kobieta"
+    },
+    "Verden Infected Woman 03": {
+        "gender": "kobieta"
+    },
+    "Verden Old Woman 31": {
+        "gender": "kobieta"
+    },
+    "Verden Old Woman 32": {
+        "gender": "kobieta"
+    },
+    "Verden Scavenger 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Verden Scavenger 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Verden Scavenger 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Verden Warchild Boy 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Verden Warchild Boy 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Verden Warchild Girl 01": {
+        "gender": "kobieta"
+    },
+    "Verden Warchild Girl 02": {
+        "gender": "kobieta"
+    },
+    "Novigrad Citizen Woman 02": {
+        "gender": "kobieta"
+    },
+    "Elihal": {
+        "gender": "unknown"
+    },
+    "Novigrad Peasant 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Peasant Woman 02": {
+        "gender": "kobieta"
+    },
+    "Novigrad Rich Man 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Rich Woman 01": {
+        "gender": "kobieta"
+    },
+    "Novigrad Rich Woman 02": {
+        "gender": "kobieta"
+    },
+    "Novigrad Citizen Woman 03": {
+        "gender": "kobieta"
+    },
+    "Novigrad Poor Woman 01": {
+        "gender": "kobieta"
+    },
+    "Novigrad Poor Man 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Citizen Man 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Citizen Man 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Citizen Man 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Old Man 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Peasant Woman 03": {
+        "gender": "kobieta"
+    },
+    "Novigrad Nobleman 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Dwarf Man 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Dwarf Man 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Refugee Man 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Refugee Man 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Sailor 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Sailor 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Sailor 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Girl 01": {
+        "gender": "kobieta"
+    },
+    "Novigrad Traveler Man 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Traveler Man 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Traveler Woman 03": {
+        "gender": "kobieta"
+    },
+    "Novigrad Poor Woman 02": {
+        "gender": "kobieta"
+    },
+    "Novigrad Poor Man 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Poor Man 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Peasant 16": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Refugee Man 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Peasant 13": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Peasant Woman 13": {
+        "gender": "kobieta"
+    },
+    "Novigrad Refugee Woman 02": {
+        "gender": "kobieta"
+    },
+    "Redanian Soldier 13": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Peasant 11": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Peasant Woman 11": {
+        "gender": "kobieta"
+    },
+    "Novigrad Old Man 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Peasant 17": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Drunk 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Thug Weak 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Rich Woman 03": {
+        "gender": "kobieta"
+    },
+    "Novigrad Girl 02": {
+        "gender": "kobieta"
+    },
+    "Novigrad Thug Strong 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Halfling Man 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Nobleman 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Boy 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Boy 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Eternal Fire Guard 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Eternal Fire Guard 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Elf Man 31": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Bard 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Trader 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Citizen Woman 01": {
+        "gender": "kobieta"
+    },
+    "Novigrad Dockworker 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Dockworker 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Dockworker 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Trader 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Eternal Fire Priest 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Female Bard 01": {
+        "gender": "kobieta"
+    },
+    "Novigrad Beggar 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Beggar 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Beggar 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Drunk 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Poor Woman 03": {
+        "gender": "kobieta"
+    },
+    "Novigrad Nobleman 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Bard 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Noblewoman 02": {
+        "gender": "kobieta"
+    },
+    "Novigrad Noblewoman 03": {
+        "gender": "kobieta"
+    },
+    "Novigrad Noblewoman 01": {
+        "gender": "kobieta"
+    },
+    "Eternal Fire Priest 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Refugee Man 04": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Drunk 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Traveler Man 04": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Drunk 05": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Peasant Woman 01": {
+        "gender": "kobieta"
+    },
+    "Novigrad Old Woman 02": {
+        "gender": "kobieta"
+    },
+    "Witch Hunter 04": {
+        "gender": "mê¿czyzna"
+    },
+    "Redanian Townsman 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Redanian Townsman 04": {
+        "gender": "mê¿czyzna"
+    },
+    "Redanian Townsman 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Elf Man 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Redanian Townswoman 02": {
+        "gender": "kobieta"
+    },
+    "Redanian Townswoman 01": {
+        "gender": "kobieta"
+    },
+    "Novigrad Citizen Man 11": {
+        "gender": "mê¿czyzna"
+    },
+    "Dwarf Man 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Female Bard 02": {
+        "gender": "kobieta"
+    },
+    "Halfling Man 04": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Noblewoman 11": {
+        "gender": "kobieta"
+    },
+    "Novigrad Nobleman 13": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Noblewoman 12": {
+        "gender": "kobieta"
+    },
+    "Novigrad Noblewoman 13": {
+        "gender": "kobieta"
+    },
+    "Novigrad Old Man 11": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Old Woman 11": {
+        "gender": "kobieta"
+    },
+    "Novigrad Peasant 15": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Peasant Woman 15": {
+        "gender": "kobieta"
+    },
+    "Novigrad Peasant Woman 25": {
+        "gender": "kobieta"
+    },
+    "Novigrad Poor Man 19": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Poor Woman 16": {
+        "gender": "kobieta"
+    },
+    "Novigrad Poor Woman 17": {
+        "gender": "kobieta"
+    },
+    "Novigrad Poor Woman 20": {
+        "gender": "kobieta"
+    },
+    "Novigrad Prostitute 16": {
+        "gender": "kobieta"
+    },
+    "Novigrad Rich Man 18": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Rich Woman 20": {
+        "gender": "kobieta"
+    },
+    "Novigrad Sailor 11": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Sailor 13": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Thug Strong 11": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Thug Weak 12": {
+        "gender": "mê¿czyzna"
+    },
+    "Gnome Man 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Mage 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Thug Weak 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Innkeeper Golden Sturgeon": {
+        "gender": "mê¿czyzna"
+    },
+    "Olivier Kingfisher": {
+        "gender": "unknown"
+    },
+    "Marquise Serenity": {
+        "gender": "unknown"
+    },
+    "Stjepan Innkeeper": {
+        "gender": "mê¿czyzna"
+    },
+    "Redanian Blacksmith 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Scoiatael Man 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Redanian Merchant 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Gnome Man 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Redanian Armorer 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Dwarf Man 31": {
+        "gender": "mê¿czyzna"
+    },
+    "Dwarf Man 32": {
+        "gender": "mê¿czyzna"
+    },
+    "Dwarf Man 33": {
+        "gender": "mê¿czyzna"
+    },
+    "Dwarf Man 34": {
+        "gender": "mê¿czyzna"
+    },
+    "Dwarf Man 35": {
+        "gender": "mê¿czyzna"
+    },
+    "Dwarf Man 40": {
+        "gender": "mê¿czyzna"
+    },
+    "Dwarf Man 42": {
+        "gender": "mê¿czyzna"
+    },
+    "Elf Female 02": {
+        "gender": "kobieta"
+    },
+    "Elf Female 31": {
+        "gender": "kobieta"
+    },
+    "Elf Female 32": {
+        "gender": "kobieta"
+    },
+    "Elf Female 33": {
+        "gender": "kobieta"
+    },
+    "Elf Female 34": {
+        "gender": "kobieta"
+    },
+    "Elf Female 35": {
+        "gender": "kobieta"
+    },
+    "Elf Female 44": {
+        "gender": "kobieta"
+    },
+    "Elf Man 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Elf Man 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Elf Man 32": {
+        "gender": "mê¿czyzna"
+    },
+    "Elf Man 33": {
+        "gender": "mê¿czyzna"
+    },
+    "Elf Man 34": {
+        "gender": "mê¿czyzna"
+    },
+    "Elf Man 35": {
+        "gender": "mê¿czyzna"
+    },
+    "Elf Man 36": {
+        "gender": "mê¿czyzna"
+    },
+    "Elf Man 37": {
+        "gender": "mê¿czyzna"
+    },
+    "Elf Man 38": {
+        "gender": "mê¿czyzna"
+    },
+    "Elf Man 39": {
+        "gender": "mê¿czyzna"
+    },
+    "Elf Man 40": {
+        "gender": "mê¿czyzna"
+    },
+    "Elf Man 41": {
+        "gender": "mê¿czyzna"
+    },
+    "Elf Man 42": {
+        "gender": "mê¿czyzna"
+    },
+    "Eternal Fire Guard 11": {
+        "gender": "mê¿czyzna"
+    },
+    "Eternal Fire Guard 12": {
+        "gender": "mê¿czyzna"
+    },
+    "Eternal Fire Guard 13": {
+        "gender": "mê¿czyzna"
+    },
+    "Eternal Fire Guard 14": {
+        "gender": "mê¿czyzna"
+    },
+    "Eternal Fire Guard 15": {
+        "gender": "mê¿czyzna"
+    },
+    "Eternal Fire Guard 16": {
+        "gender": "mê¿czyzna"
+    },
+    "Eternal Fire Guard 31": {
+        "gender": "mê¿czyzna"
+    },
+    "Eternal Fire Guard 32": {
+        "gender": "mê¿czyzna"
+    },
+    "Eternal Fire Guard 33": {
+        "gender": "mê¿czyzna"
+    },
+    "Eternal Fire Guard 34": {
+        "gender": "mê¿czyzna"
+    },
+    "Eternal Fire Guard 35": {
+        "gender": "mê¿czyzna"
+    },
+    "Eternal Fire Guard 36": {
+        "gender": "mê¿czyzna"
+    },
+    "Eternal Fire Guard 43": {
+        "gender": "mê¿czyzna"
+    },
+    "Eternal Fire Guard 44": {
+        "gender": "mê¿czyzna"
+    },
+    "Eternal Fire Guard 45": {
+        "gender": "mê¿czyzna"
+    },
+    "Eternal Fire Guard 46": {
+        "gender": "mê¿czyzna"
+    },
+    "Eternal Fire Priest 11": {
+        "gender": "mê¿czyzna"
+    },
+    "Eternal Fire Priest 12": {
+        "gender": "mê¿czyzna"
+    },
+    "Eternal Fire Priest 13": {
+        "gender": "mê¿czyzna"
+    },
+    "Eternal Fire Priest 14": {
+        "gender": "mê¿czyzna"
+    },
+    "Eternal Fire Priest 15": {
+        "gender": "mê¿czyzna"
+    },
+    "Eternal Fire Priest 16": {
+        "gender": "mê¿czyzna"
+    },
+    "Eternal Fire Priest 17": {
+        "gender": "mê¿czyzna"
+    },
+    "Eternal Fire Priest 18": {
+        "gender": "mê¿czyzna"
+    },
+    "Eternal Fire Priest 19": {
+        "gender": "mê¿czyzna"
+    },
+    "Eternal Fire Priest 20": {
+        "gender": "mê¿czyzna"
+    },
+    "Eternal Fire Priest 21": {
+        "gender": "mê¿czyzna"
+    },
+    "Eternal Fire Priest 22": {
+        "gender": "mê¿czyzna"
+    },
+    "Eternal Fire Priest 31": {
+        "gender": "mê¿czyzna"
+    },
+    "Halfling Man 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Halfling Man 05": {
+        "gender": "mê¿czyzna"
+    },
+    "Mage 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Mage 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Bard 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Bard 11": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Bard 12": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Bard 13": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Bard 14": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Bard 15": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Bard 16": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Beggar 12": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Beggar 13": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Beggar 14": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Beggar 15": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Beggar 16": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Beggar 17": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Beggar 18": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Boy 12": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Boy 13": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Boy 14": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Boy 31": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Boy 32": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Boy 33": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Boy 34": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Boy 35": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Boy 36": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Citizen Man 12": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Citizen Man 13": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Citizen Man 14": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Citizen Man 15": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Citizen Man 16": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Citizen Man 17": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Citizen Man 18": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Citizen Man 19": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Citizen Man 20": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Citizen Man 21": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Citizen Man 22": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Citizen Man 37": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Citizen Woman 11": {
+        "gender": "kobieta"
+    },
+    "Novigrad Citizen Woman 12": {
+        "gender": "kobieta"
+    },
+    "Novigrad Citizen Woman 13": {
+        "gender": "kobieta"
+    },
+    "Novigrad Citizen Woman 14": {
+        "gender": "kobieta"
+    },
+    "Novigrad Citizen Woman 15": {
+        "gender": "kobieta"
+    },
+    "Novigrad Citizen Woman 16": {
+        "gender": "kobieta"
+    },
+    "Novigrad Citizen Woman 17": {
+        "gender": "kobieta"
+    },
+    "Novigrad Citizen Woman 18": {
+        "gender": "kobieta"
+    },
+    "Novigrad Citizen Woman 19": {
+        "gender": "kobieta"
+    },
+    "Novigrad Citizen Woman 21": {
+        "gender": "kobieta"
+    },
+    "Novigrad Citizen Woman 22": {
+        "gender": "kobieta"
+    },
+    "Novigrad Citizen Woman 23": {
+        "gender": "kobieta"
+    },
+    "Novigrad Citizen Woman 24": {
+        "gender": "kobieta"
+    },
+    "Novigrad Citizen Woman 25": {
+        "gender": "kobieta"
+    },
+    "Novigrad Citizen Woman 31": {
+        "gender": "kobieta"
+    },
+    "Novigrad Citizen Woman 32": {
+        "gender": "kobieta"
+    },
+    "Novigrad Citizen Woman 33": {
+        "gender": "kobieta"
+    },
+    "Novigrad Citizen Woman 34": {
+        "gender": "kobieta"
+    },
+    "Novigrad Cook 31": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Dockworker 11": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Dockworker 12": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Dockworker 13": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Dockworker 14": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Dockworker 15": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Dockworker 16": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Dockworker 31": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Drunk 04": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Drunk 12": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Drunk 14": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Drunk 15": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Drunk 16": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Drunk Woman 01": {
+        "gender": "kobieta"
+    },
+    "Novigrad Drunk Woman 03": {
+        "gender": "kobieta"
+    },
+    "Novigrad Female Bard 03": {
+        "gender": "kobieta"
+    },
+    "Novigrad Female Bard 11": {
+        "gender": "kobieta"
+    },
+    "Novigrad Female Bard 12": {
+        "gender": "kobieta"
+    },
+    "Novigrad Female Bard 13": {
+        "gender": "kobieta"
+    },
+    "Novigrad Female Bard 15": {
+        "gender": "kobieta"
+    },
+    "Novigrad Female Bard 16": {
+        "gender": "kobieta"
+    },
+    "Novigrad Girl 11": {
+        "gender": "kobieta"
+    },
+    "Novigrad Girl 12": {
+        "gender": "kobieta"
+    },
+    "Novigrad Girl 13": {
+        "gender": "kobieta"
+    },
+    "Novigrad Girl 31": {
+        "gender": "kobieta"
+    },
+    "Novigrad Girl 32": {
+        "gender": "kobieta"
+    },
+    "Novigrad Girl 33": {
+        "gender": "kobieta"
+    },
+    "Novigrad Guard 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Guard 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Guard 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Nobleman 11": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Nobleman 12": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Nobleman 14": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Nobleman 15": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Nobleman 16": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Noblewoman 14": {
+        "gender": "kobieta"
+    },
+    "Novigrad Noblewoman 15": {
+        "gender": "kobieta"
+    },
+    "Novigrad Noblewoman 16": {
+        "gender": "kobieta"
+    },
+    "Novigrad Old Man 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Old Man 12": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Old Man 13": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Old Man 14": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Old Man 15": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Old Man 16": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Old Man 17": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Old Man 18": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Old Man 19": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Old Man 20": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Old Man 31": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Old Woman 01": {
+        "gender": "kobieta"
+    },
+    "Novigrad Old Woman 03": {
+        "gender": "kobieta"
+    },
+    "Novigrad Old Woman 13": {
+        "gender": "kobieta"
+    },
+    "Novigrad Old Woman 14": {
+        "gender": "kobieta"
+    },
+    "Novigrad Old Woman 15": {
+        "gender": "kobieta"
+    },
+    "Novigrad Old Woman 16": {
+        "gender": "kobieta"
+    },
+    "Novigrad Old Woman 17": {
+        "gender": "kobieta"
+    },
+    "Novigrad Old Woman 18": {
+        "gender": "kobieta"
+    },
+    "Novigrad Old Woman 19": {
+        "gender": "kobieta"
+    },
+    "Novigrad Old Woman 20": {
+        "gender": "kobieta"
+    },
+    "Novigrad Peasant 12": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Peasant 14": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Peasant 18": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Peasant 19": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Peasant 20": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Peasant 21": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Peasant 22": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Peasant 23": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Peasant 24": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Peasant 25": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Peasant 31": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Peasant 32": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Peasant 33": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Peasant 34": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Peasant 35": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Peasant 36": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Peasant 37": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Peasant 38": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Peasant 39": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Peasant Woman 12": {
+        "gender": "kobieta"
+    },
+    "Novigrad Peasant Woman 16": {
+        "gender": "kobieta"
+    },
+    "Novigrad Peasant Woman 17": {
+        "gender": "kobieta"
+    },
+    "Novigrad Peasant Woman 18": {
+        "gender": "kobieta"
+    },
+    "Novigrad Peasant Woman 19": {
+        "gender": "kobieta"
+    },
+    "Novigrad Peasant Woman 20": {
+        "gender": "kobieta"
+    },
+    "Novigrad Peasant Woman 21": {
+        "gender": "kobieta"
+    },
+    "Novigrad Peasant Woman 22": {
+        "gender": "kobieta"
+    },
+    "Novigrad Peasant Woman 23": {
+        "gender": "kobieta"
+    },
+    "Novigrad Peasant Woman 24": {
+        "gender": "kobieta"
+    },
+    "Novigrad Peasant Woman 31": {
+        "gender": "kobieta"
+    },
+    "Novigrad Peasant Woman 32": {
+        "gender": "kobieta"
+    },
+    "Novigrad Peasant Woman 33": {
+        "gender": "kobieta"
+    },
+    "Novigrad Peasant Woman 34": {
+        "gender": "kobieta"
+    },
+    "Novigrad Peasant Woman 35": {
+        "gender": "kobieta"
+    },
+    "Novigrad Peasant Woman 36": {
+        "gender": "kobieta"
+    },
+    "Novigrad Citizen Man 40": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Thug Weak 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Poor Man 11": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Poor Man 12": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Poor Man 13": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Poor Man 14": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Poor Man 15": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Poor Man 16": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Poor Man 17": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Poor Man 18": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Poor Man 20": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Poor Man 21": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Poor Man 22": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Poor Man 23": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Poor Man 24": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Poor Man 25": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Poor Man 31": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Poor Man 32": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Poor Man 33": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Poor Man 34": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Poor Man 35": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Poor Man 36": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Poor Man 37": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Poor Man 38": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Poor Man 39": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Poor Man 40": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Poor Man 41": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Poor Man 42": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Poor Man 43": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Poor Man 44": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Poor Man 45": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Poor Man 46": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Poor Man 47": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Poor Man 48": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Poor Man 49": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Poor Woman 11": {
+        "gender": "kobieta"
+    },
+    "Novigrad Poor Woman 12": {
+        "gender": "kobieta"
+    },
+    "Novigrad Poor Woman 13": {
+        "gender": "kobieta"
+    },
+    "Novigrad Poor Woman 14": {
+        "gender": "kobieta"
+    },
+    "Novigrad Poor Woman 15": {
+        "gender": "kobieta"
+    },
+    "Novigrad Poor Woman 18": {
+        "gender": "kobieta"
+    },
+    "Novigrad Poor Woman 19": {
+        "gender": "kobieta"
+    },
+    "Novigrad Poor Woman 21": {
+        "gender": "kobieta"
+    },
+    "Novigrad Poor Woman 22": {
+        "gender": "kobieta"
+    },
+    "Novigrad Poor Woman 23": {
+        "gender": "kobieta"
+    },
+    "Novigrad Poor Woman 24": {
+        "gender": "kobieta"
+    },
+    "Novigrad Poor Woman 25": {
+        "gender": "kobieta"
+    },
+    "Novigrad Poor Woman 31": {
+        "gender": "kobieta"
+    },
+    "Novigrad Poor Woman 32": {
+        "gender": "kobieta"
+    },
+    "Novigrad Poor Woman 33": {
+        "gender": "kobieta"
+    },
+    "Novigrad Poor Woman 34": {
+        "gender": "kobieta"
+    },
+    "Novigrad Poor Woman 35": {
+        "gender": "kobieta"
+    },
+    "Novigrad Poor Woman 36": {
+        "gender": "kobieta"
+    },
+    "Novigrad Poor Woman 37": {
+        "gender": "kobieta"
+    },
+    "Novigrad Poor Woman 38": {
+        "gender": "kobieta"
+    },
+    "Novigrad Poor Woman 39": {
+        "gender": "kobieta"
+    },
+    "Novigrad Prostitute 11": {
+        "gender": "kobieta"
+    },
+    "Novigrad Prostitute 12": {
+        "gender": "kobieta"
+    },
+    "Novigrad Prostitute 13": {
+        "gender": "kobieta"
+    },
+    "Novigrad Prostitute 14": {
+        "gender": "kobieta"
+    },
+    "Novigrad Prostitute 15": {
+        "gender": "kobieta"
+    },
+    "Novigrad Prostitute 31": {
+        "gender": "kobieta"
+    },
+    "Novigrad Prostitute 32": {
+        "gender": "kobieta"
+    },
+    "Novigrad Prostitute 33": {
+        "gender": "kobieta"
+    },
+    "Novigrad Prostitute 34": {
+        "gender": "kobieta"
+    },
+    "Novigrad Prostitute 35": {
+        "gender": "kobieta"
+    },
+    "Novigrad Prostitute 36": {
+        "gender": "kobieta"
+    },
+    "Novigrad Prostitute 37": {
+        "gender": "kobieta"
+    },
+    "Novigrad Prostitute 38": {
+        "gender": "kobieta"
+    },
+    "Novigrad Prostitute 39": {
+        "gender": "kobieta"
+    },
+    "Novigrad Prostitute 40": {
+        "gender": "kobieta"
+    },
+    "Novigrad Prostitute 41": {
+        "gender": "kobieta"
+    },
+    "Novigrad Prostitute 42": {
+        "gender": "kobieta"
+    },
+    "Novigrad Prostitute 43": {
+        "gender": "kobieta"
+    },
+    "Novigrad Prostitute 44": {
+        "gender": "kobieta"
+    },
+    "Novigrad Refugee Woman 01": {
+        "gender": "kobieta"
+    },
+    "Novigrad Refugee Woman 03": {
+        "gender": "kobieta"
+    },
+    "Novigrad Refugee Woman 04": {
+        "gender": "kobieta"
+    },
+    "Novigrad Rich Man 11": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Rich Man 12": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Rich Man 13": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Rich Man 14": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Rich Man 15": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Rich Man 16": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Rich Man 19": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Rich Man 20": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Rich Man 31": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Rich Man 32": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Rich Man 33": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Rich Man 34": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Rich Woman 11": {
+        "gender": "kobieta"
+    },
+    "Novigrad Rich Woman 12": {
+        "gender": "kobieta"
+    },
+    "Novigrad Rich Woman 13": {
+        "gender": "kobieta"
+    },
+    "Novigrad Rich Woman 14": {
+        "gender": "kobieta"
+    },
+    "Novigrad Rich Woman 15": {
+        "gender": "kobieta"
+    },
+    "Novigrad Rich Woman 16": {
+        "gender": "kobieta"
+    },
+    "Novigrad Rich Woman 17": {
+        "gender": "kobieta"
+    },
+    "Novigrad Rich Woman 18": {
+        "gender": "kobieta"
+    },
+    "Novigrad Rich Woman 19": {
+        "gender": "kobieta"
+    },
+    "Novigrad Rich Woman 31": {
+        "gender": "kobieta"
+    },
+    "Novigrad Rich Woman 32": {
+        "gender": "kobieta"
+    },
+    "Novigrad Rich Woman 33": {
+        "gender": "kobieta"
+    },
+    "Novigrad Sailor 12": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Sailor 14": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Sailor 15": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Sailor 16": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Sailor 31": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Sailor 32": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Thug Strong 12": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Thug Strong 13": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Thug Strong 14": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Thug Strong 15": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Thug Strong 16": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Thug Strong 31": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Thug Strong 32": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Thug Strong 33": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Thug Strong 34": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Thug Strong 35": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Thug Weak 11": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Thug Weak 13": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Thug Weak 14": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Thug Weak 15": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Thug Weak 16": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Thug Weak 31": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Thug Weak 32": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Thug Weak 33": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Thug Weak 34": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Thug Weak 35": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Thug Weak 36": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Thug Weak 37": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Trader 31": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Traveler Man 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Novigrad Traveler Woman 01": {
+        "gender": "kobieta"
+    },
+    "Novigrad Traveler Woman 02": {
+        "gender": "kobieta"
+    },
+    "Novigrad Traveler Woman 04": {
+        "gender": "kobieta"
+    },
+    "Scoiatael Dwarf 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Scoiatael Dwarf 31": {
+        "gender": "mê¿czyzna"
+    },
+    "Scoiatael Dwarf 32": {
+        "gender": "mê¿czyzna"
+    },
+    "Scoiatael Dwarf 33": {
+        "gender": "mê¿czyzna"
+    },
+    "Scoiatael Dwarf 34": {
+        "gender": "mê¿czyzna"
+    },
+    "Scoiatael Dwarf 35": {
+        "gender": "mê¿czyzna"
+    },
+    "Scoiatael Dwarf 36": {
+        "gender": "mê¿czyzna"
+    },
+    "Scoiatael Dwarf 37": {
+        "gender": "mê¿czyzna"
+    },
+    "Scoiatael Dwarf 38": {
+        "gender": "mê¿czyzna"
+    },
+    "Scoiatael Dwarf 39": {
+        "gender": "mê¿czyzna"
+    },
+    "Scoiatael Man 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Scoiatael Elf Man 31": {
+        "gender": "mê¿czyzna"
+    },
+    "Scoiatael Elf Man 32": {
+        "gender": "mê¿czyzna"
+    },
+    "Scoiatael Elf Man 33": {
+        "gender": "mê¿czyzna"
+    },
+    "Scoiatael Elf Man 34": {
+        "gender": "mê¿czyzna"
+    },
+    "Scoiatael Elf Man 35": {
+        "gender": "mê¿czyzna"
+    },
+    "Scoiatael Elf Man 36": {
+        "gender": "mê¿czyzna"
+    },
+    "Scoiatael Woman 01": {
+        "gender": "kobieta"
+    },
+    "Scoiatael Elf Woman 31": {
+        "gender": "kobieta"
+    },
+    "Scoiatael Elf Woman 32": {
+        "gender": "kobieta"
+    },
+    "Scoiatael Elf Woman 33": {
+        "gender": "kobieta"
+    },
+    "Scoiatael Elf Woman 34": {
+        "gender": "kobieta"
+    },
+    "Scoiatael Elf Woman 36": {
+        "gender": "kobieta"
+    },
+    "Sorceress 01": {
+        "gender": "kobieta"
+    },
+    "Sorceress 02": {
+        "gender": "kobieta"
+    },
+    "Sorceress 03": {
+        "gender": "kobieta"
+    },
+    "Sorceress 04": {
+        "gender": "kobieta"
+    },
+    "Succubus 03": {
+        "gender": "kobieta"
+    },
+    "Temerian Guard 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Temerian Guard 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Temerian Guard 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Vampire Medic 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Vampire Medic 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Vampire Medic 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Redanian Townsman 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Redanian Noble 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Redanian Noble 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Redanian Officer 11": {
+        "gender": "mê¿czyzna"
+    },
+    "Redanian Officer 12": {
+        "gender": "mê¿czyzna"
+    },
+    "Redanian Soldier 11": {
+        "gender": "mê¿czyzna"
+    },
+    "Redanian Soldier 12": {
+        "gender": "mê¿czyzna"
+    },
+    "Redanian Soldier 14": {
+        "gender": "mê¿czyzna"
+    },
+    "Temerian Merchant 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Temerian Peasant 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Temerian Woman 02": {
+        "gender": "kobieta"
+    },
+    "Temerian Woman 03": {
+        "gender": "kobieta"
+    },
+    "Temerian Peasant 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Temerian Peasant 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Temerian Woman 01": {
+        "gender": "kobieta"
+    },
+    "Nilfgaardian Nobleman 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Nilfgaardian Prologue 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Nilfgaardian Prologue 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Nilfgaardian Prologue 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Nilfgaardian Prologue 31": {
+        "gender": "mê¿czyzna"
+    },
+    "Nilfgaardian Prologue 32": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Woman 02": {
+        "gender": "kobieta"
+    },
+    "Skellige Fisherman 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Warrior 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Fisherman 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Villager 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Boatbuilder 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Fisherman 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Guard 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Guard 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Villager 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Villager 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Woman 01": {
+        "gender": "kobieta"
+    },
+    "Skellige Old Man 04": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Villager 05": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Villager 06": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Villager 04": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Boy 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Girl 02": {
+        "gender": "kobieta"
+    },
+    "Skellige Fisherman 04": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Fisherman 06": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Hunter 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Hunter 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Warrior 04": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Old Man 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Woman 03": {
+        "gender": "kobieta"
+    },
+    "Skellige Innkeeper 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Fisherman 05": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Merchant 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Butcher 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Boy 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Boy 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Girl 01": {
+        "gender": "kobieta"
+    },
+    "Skellige Old Woman 04": {
+        "gender": "kobieta"
+    },
+    "Skellige Warrior 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Warrior 05": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Woman 05": {
+        "gender": "kobieta"
+    },
+    "Skellige Boatbuilder 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Boatbuilder 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Warrior 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Druid 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Druid 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Druid 05": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Druid 04": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Druid 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Old Man 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Priestess 01": {
+        "gender": "kobieta"
+    },
+    "Skellige Old Man 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Woman 04": {
+        "gender": "kobieta"
+    },
+    "Skellige Guard 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Old Woman 01": {
+        "gender": "kobieta"
+    },
+    "Skellige Hunter 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Armorer 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Blacksmith Helper 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Guard 05": {
+        "gender": "mê¿czyzna"
+    },
+    "Jonas": {
+        "gender": "unknown"
+    },
+    "Skellige Old Woman 02": {
+        "gender": "kobieta"
+    },
+    "Skellige Bandit 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Bandit 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Bandit 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Girl 03": {
+        "gender": "kobieta"
+    },
+    "Chorus Skellige": {
+        "gender": "unknown"
+    },
+    "Skellige Guard 04": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Guard 06": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Blacksmith Helper 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Old Woman 03": {
+        "gender": "kobieta"
+    },
+    "Druid Yolar": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Merchant 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Blacksmith Helper 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Armorer 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Armorer 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Nilfgaardian Scholar 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Bard 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Berserker 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Berserker 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Berserker 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Berserker 05": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Captive 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Captive 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Captive 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Captive 04": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Drunk 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Drunk 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Drunk 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Drunk 04": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Priestess 02": {
+        "gender": "kobieta"
+    },
+    "Skellige Priestess 03": {
+        "gender": "kobieta"
+    },
+    "Skellige Scribe 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Scribe 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Skellige Waitress 01": {
+        "gender": "kobieta"
+    },
+    "Skellige Waitress 02": {
+        "gender": "kobieta"
+    },
+    "Wild Hunt Warrior 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Wild Hunt Warrior 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Wild Hunt Warrior 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Julia": {
+        "gender": "kobieta"
+    },
+    "Coroner": {
+        "gender": "unknown"
+    },
+    "Yennefer": {
+        "gender": "kobieta"
+    },
+    "Werewolf Berem": {
+        "gender": "unknown"
+    },
+    "Witch Weavess": {
+        "gender": "kobieta"
+    },
+    "Zoltan Chivay": {
+        "gender": "mê¿czyzna"
+    },
+    "Dandelion": {
+        "gender": "mê¿czyzna"
+    },
+    "Triss": {
+        "gender": "kobieta"
+    },
+    "Cirilla": {
+        "gender": "kobieta"
+    },
+    "Emhyr": {
+        "gender": "unknown"
+    },
+    "Dwarf Sleepy": {
+        "gender": "mê¿czyzna"
+    },
+    "Dwarf Doc": {
+        "gender": "mê¿czyzna"
+    },
+    "Dwarf Sneezy": {
+        "gender": "mê¿czyzna"
+    },
+    "Dwarf Bashful": {
+        "gender": "mê¿czyzna"
+    },
+    "Dwarf Grumpy": {
+        "gender": "mê¿czyzna"
+    },
+    "Baron": {
+        "gender": "mê¿czyzna"
+    },
+    "Talar": {
+        "gender": "unknown"
+    },
+    "Sergeant": {
+        "gender": "mê¿czyzna"
+    },
+    "Grave Hag 01": {
+        "gender": "kobieta"
+    },
+    "Dijkstra": {
+        "gender": "mê¿czyzna"
+    },
+    "Lambert": {
+        "gender": "mê¿czyzna"
+    },
+    "Vimme Vivaldi": {
+        "gender": "unknown"
+    },
+    "Roche": {
+        "gender": "unknown"
+    },
+    "Gnome Man 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Katakan 01": {
+        "gender": "unknown"
+    },
+    "Crach": {
+        "gender": "unknown"
+    },
+    "Gremista": {
+        "gender": "unknown"
+    },
+    "Lugos The Mad": {
+        "gender": "unknown"
+    },
+    "Ermion": {
+        "gender": "unknown"
+    },
+    "Jorund": {
+        "gender": "unknown"
+    },
+    "Avallach": {
+        "gender": "unknown"
+    },
+    "Cerys": {
+        "gender": "unknown"
+    },
+    "Hjalmar": {
+        "gender": "unknown"
+    },
+    "Radovid": {
+        "gender": "unknown"
+    },
+    "Ves": {
+        "gender": "unknown"
+    },
+    "Ugliest Man Alive": {
+        "gender": "mê¿czyzna"
+    },
+    "Vesemir": {
+        "gender": "mê¿czyzna"
+    },
+    "Voorhis": {
+        "gender": "unknown"
+    },
+    "Caranthir": {
+        "gender": "unknown"
+    },
+    "Cyprian Willey": {
+        "gender": "unknown"
+    },
+    "Eredin": {
+        "gender": "unknown"
+    },
+    "Philippa Eilhart": {
+        "gender": "kobieta"
+    },
+    "Witch Brewess": {
+        "gender": "kobieta"
+    },
+    "Witch Whispess": {
+        "gender": "kobieta"
+    },
+    "Cirilla Young": {
+        "gender": "kobieta"
+    },
+    "Ghost Witcher": {
+        "gender": "mê¿czyzna"
+    },
+    "Fire Elemental": {
+        "gender": "unknown"
+    },
+    "Borys The Troll": {
+        "gender": "mê¿czyzna"
+    },
+    "Verden Ghost Peasant 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Nilfgaardian Woman Old 01": {
+        "gender": "kobieta"
+    },
+    "Fugas": {
+        "gender": "unknown"
+    },
+    "Karl Varese": {
+        "gender": "unknown"
+    },
+    "King Beggar": {
+        "gender": "mê¿czyzna"
+    },
+    "Rosa Var Attre": {
+        "gender": "unknown"
+    },
+    "Noonwraith": {
+        "gender": "unknown"
+    },
+    "Water Hag 01": {
+        "gender": "kobieta"
+    },
+    "Skellige Ghost Warrior 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Foreigner Woman 01": {
+        "gender": "kobieta"
+    },
+    "Blogger Troll 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Blogger Troll 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Blogger Troll 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Cirilla choice": {
+        "gender": "kobieta"
+    },
+    "Guslar": {
+        "gender": "unknown"
+    },
+    "Tamara": {
+        "gender": "unknown"
+    },
+    "Graden": {
+        "gender": "unknown"
+    },
+    "Keira Metz": {
+        "gender": "unknown"
+    },
+    "Golem": {
+        "gender": "mê¿czyzna"
+    },
+    "Celina": {
+        "gender": "kobieta"
+    },
+    "Godling Johnny": {
+        "gender": "unknown"
+    },
+    "Ghost In The Tree": {
+        "gender": "unknown"
+    },
+    "Steingrim": {
+        "gender": "unknown"
+    },
+    "Lady Bran": {
+        "gender": "kobieta"
+    },
+    "Arnvald": {
+        "gender": "unknown"
+    },
+    "Bard Drogodar": {
+        "gender": "mê¿czyzna"
+    },
+    "Holger Blackhand": {
+        "gender": "unknown"
+    },
+    "Donar An Hindar": {
+        "gender": "unknown"
+    },
+    "Svanrige": {
+        "gender": "unknown"
+    },
+    "Halbjorn": {
+        "gender": "unknown"
+    },
+    "Otrygg An Hindar": {
+        "gender": "unknown"
+    },
+    "Lugos The Glaucous": {
+        "gender": "unknown"
+    },
+    "Udalryk": {
+        "gender": "unknown"
+    },
+    "Hjort": {
+        "gender": "unknown"
+    },
+    "Navigator": {
+        "gender": "unknown"
+    },
+    "Eight": {
+        "gender": "unknown"
+    },
+    "Folan": {
+        "gender": "unknown"
+    },
+    "Vigi": {
+        "gender": "unknown"
+    },
+    "Felicia Cori": {
+        "gender": "unknown"
+    },
+    "Menge": {
+        "gender": "unknown"
+    },
+    "Godling Sara": {
+        "gender": "unknown"
+    },
+    "Dreamer Corine Tilly": {
+        "gender": "unknown"
+    },
+    "Eunuch Happen": {
+        "gender": "unknown"
+    },
+    "Hemmelfart": {
+        "gender": "unknown"
+    },
+    "Rico": {
+        "gender": "unknown"
+    },
+    "Dudu Biberveldt": {
+        "gender": "unknown"
+    },
+    "Cyclops": {
+        "gender": "unknown"
+    },
+    "Edna Var Attre": {
+        "gender": "unknown"
+    },
+    "Vespula": {
+        "gender": "unknown"
+    },
+    "Luiza La Valette": {
+        "gender": "unknown"
+    },
+    "Molly": {
+        "gender": "unknown"
+    },
+    "Marabella": {
+        "gender": "unknown"
+    },
+    "Inkeeper Elza": {
+        "gender": "kobieta"
+    },
+    "Priscilla": {
+        "gender": "kobieta"
+    },
+    "Irina Renarde": {
+        "gender": "kobieta"
+    },
+    "Ida Emean": {
+        "gender": "kobieta"
+    },
+    "Eskel": {
+        "gender": "mê¿czyzna"
+    },
+    "Verden Ghost Peasant M 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Verden Ghost Peasant M 03": {
+        "gender": "mê¿czyzna"
+    },
+    "Verden Ghost Peasant  M 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Popiel": {
+        "gender": "unknown"
+    },
+    "Graham": {
+        "gender": "unknown"
+    },
+    "Anabelle": {
+        "gender": "kobieta"
+    },
+    "Plague Maiden": {
+        "gender": "unknown"
+    },
+    "Verden Ghost Peasant 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Verden Ghost Peasant 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Celina Monster": {
+        "gender": "unknown"
+    },
+    "Hallgrim": {
+        "gender": "unknown"
+    },
+    "Von Gratz": {
+        "gender": "unknown"
+    },
+    "Nathanel": {
+        "gender": "unknown"
+    },
+    "Whistling Wendy": {
+        "gender": "unknown"
+    },
+    "Eustace": {
+        "gender": "unknown"
+    },
+    "Letho": {
+        "gender": "unknown"
+    },
+    "Imlerith": {
+        "gender": "unknown"
+    },
+    "Chamberlain Emhyr": {
+        "gender": "unknown"
+    },
+    "Margarita Laux Antille": {
+        "gender": "unknown"
+    },
+    "Sea Witch": {
+        "gender": "kobieta"
+    },
+    "Eyvind": {
+        "gender": "unknown"
+    },
+    "Fringilla Vigo": {
+        "gender": "kobieta"
+    },
+    "Sheala": {
+        "gender": "unknown"
+    },
+    "Geels": {
+        "gender": "unknown"
+    },
+    "Mirror": {
+        "gender": "unknown"
+    },
+    "Nilfgaardian Imperial 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Nilfgaardian Nobleman 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Nilfgaardian Imperial 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Temerian Noble 01": {
+        "gender": "mê¿czyzna"
+    },
+    "Ambassador Var Attre": {
+        "gender": "unknown"
+    },
+    "Carduin": {
+        "gender": "unknown"
+    },
+    "Hattori": {
+        "gender": "unknown"
+    },
+    "Morkvarg": {
+        "gender": "unknown"
+    },
+    "Sukrus": {
+        "gender": "unknown"
+    },
+    "Ernst Van Hoorn": {
+        "gender": "unknown"
+    },
+    "Vernossiel": {
+        "gender": "unknown"
+    },
+    "Novigrad Scribe 02": {
+        "gender": "mê¿czyzna"
+    },
+    "Finneas": {
+        "gender": "unknown"
+    },
+    "Sacha": {
+        "gender": "unknown"
+    },
+    "Bernard Tulle": {
+        "gender": "unknown"
+    },
+    "Patrick Hazelnutt": {
+        "gender": "unknown"
+    },
+    "Count Tybalt": {
+        "gender": "unknown"
+    },
+    "Morkvarg Warewolf": {
+        "gender": "unknown"
+    },
+    "Djinn": {
+        "gender": "mê¿czyzna"
+    },
+    "Succubus 01": {
+        "gender": "kobieta"
+    },
+    "Siren 02": {
+        "gender": "kobieta"
+    },
+    "Tower": {
+        "gender": "unknown"
+    }
+}

@@ -1,0 +1,2 @@
+bleu_dialog_prototype,chrf_dialog_prototype,comet_dialog_prototype,bertscore_dialog_prototype,bleu_default,chrf_default,comet_default,bertscore_default
+0.10698449503465873,0.41820864132859176,0.8131949570029974,0.8192221482098102,0.10100623503950402,0.41967384570697686,0.8132536892443896,0.8220159128606319

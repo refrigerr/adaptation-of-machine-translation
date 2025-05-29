@@ -1,4 +1,6 @@
 key.txt
+google_api.json
+lid.176.bin
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -173,5 +175,3 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-
-google_api.json
